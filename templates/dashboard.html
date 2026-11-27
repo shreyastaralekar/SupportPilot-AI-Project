@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SupportPilot – Tickets</title><link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}"></head>
+<body data-role="{{ role }}">
+<div class="app">
+<aside>
+  <div class="logo"><i>SP</i>SupportPilot</div>
+  <nav>
+    <a class="off" title="Coming in a later module">📊 Dashboard</a><a class="on">🎫 Tickets</a><a class="off" title="Coming in a later module">🤖 AI Agent</a>
+    <a class="off" title="Coming in a later module">🔌 Integrations</a><a class="off" title="Coming in a later module">📈 Analytics</a><a class="off" title="Coming in a later module">⚙️ Settings</a>
+  </nav>
+  <div class="me"><b>{{ name }}</b><small>{{ 'Administrator' if role == 'admin' else dept ~ ' employee' }}</small><a href="{{ url_for('logout') }}">Sign out</a></div>
+</aside>
+<main>
+  <header>
+    <div><h1>Ticket Processing &amp; Classification</h1>
+    <p>{{ 'Review every ticket with its AI classification' if role == 'admin' else 'Submit IT support tickets and track their progress' }}</p></div>
+    <span class="ms">Milestone 1</span>
+  </header>
+
+  {% if role == 'admin' %}
+  <div class="st top"><div><small>Total tickets</small><b id="s-total">0</b></div><div><small>Open</small><b id="s-open">0</b></div><div><small>Closed</small><b id="s-closed">0</b></div><div><small>Model accuracy (test set)</small><b id="s-acc">–</b></div></div>
+  {% else %}
+  <div class="cols">
+    <section class="card"><h2>Submit New Ticket</h2>
+      <form id="tf" novalidate>
+        <label for="t1">Ticket Title</label><input id="t1" name="title" maxlength="120" placeholder="e.g. VPN Connection Failing on Corporate Network"><small class="fe" data-for="title"></small>
+        <label for="t2">Description</label><textarea id="t2" name="description" rows="5" placeholder="Describe the issue, any error message and what you already tried."></textarea><small class="fe" data-for="description"></small>
+        <label for="t3">Requester Email</label><input id="t3" name="email" value="{{ email }}" readonly>
+        <label for="t4">Department</label><input id="t4" name="department" value="{{ dept }}" readonly>
+        <small class="fe" data-for="_"></small>
+        <button type="submit">➤ Submit Ticket</button>
+      </form>
+    </section>
+    <section class="card"><h2>Ticket Status</h2>
+      <div id="raised"><div class="empty">Your ticket ID and expected resolution time will appear here once you submit.</div></div>
+      <div class="st"><div><small>Open</small><b id="s-open">0</b></div><div><small>Closed</small><b id="s-closed">0</b></div><div><small>Total</small><b id="s-total">0</b></div></div>
+    </section>
+  </div>
+  {% endif %}
+
+  <section class="card"><h2>{{ 'All Tickets' if role == 'admin' else 'My Tickets' }}</h2>
+    <div class="tt"><button type="button" data-tab="Open" class="on">Open<span>0</span></button><button type="button" data-tab="Closed">Closed<span>0</span></button></div>
+    <div class="tw"><table id="tbl"></table></div>
+  </section>
+</main>
+</div>
+<script src="{{ url_for('static', filename='app.js') }}"></script><script src="{{ url_for('static', filename='dashboard.js') }}"></script>
+</body></html>

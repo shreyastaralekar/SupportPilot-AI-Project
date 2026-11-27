@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SupportPilot – Sign in</title><link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}"></head>
+<body class="auth">
+<section class="brand">
+  <div class="logo light"><i>SP</i>SupportPilot</div>
+  <h1>IT support tickets, sorted by AI the moment they are raised.</h1>
+  <p>Describe the problem. SupportPilot assigns the category, severity and priority, and tells you when to expect a fix.</p>
+  <div class="sample"><small>Ticket #T-2026-0042</small><b>Network Connectivity, VPN Access</b><span class="chip P1">P1 - Critical</span><small>Expected resolution within 24 hrs</small></div>
+</section>
+<main class="authbox">
+  <div class="tabs" id="tabs"><button type="button" data-p="emp" class="on">Employee</button><button type="button" data-p="adm">Admin</button></div>
+  <div id="msg" role="status"></div>
+
+  <form id="emp" class="pane" novalidate>
+    <h2>Employee sign in</h2><p class="sub">Use the work email you registered with.</p>
+    <label for="e1">Work email</label><input id="e1" name="login_id" type="email" autocomplete="username"><small class="fe" data-for="login_id"></small>
+    <label for="e2">Password</label><input id="e2" name="password" type="password" autocomplete="current-password"><small class="fe" data-for="password"></small>
+    <small class="fe" data-for="_"></small>
+    <button type="submit" class="wide">Sign in</button>
+    <button type="button" class="link" data-p="up">New employee? Create an account</button>
+  </form>
+
+  <form id="adm" class="pane" hidden novalidate>
+    <h2>Admin sign in</h2><p class="sub">Admin accounts are set up by IT. There is no sign-up.</p>
+    <label for="a1">Admin ID</label><input id="a1" name="login_id" autocomplete="username"><small class="fe" data-for="login_id"></small>
+    <label for="a2">Password</label><input id="a2" name="password" type="password" autocomplete="current-password"><small class="fe" data-for="password"></small>
+    <small class="fe" data-for="_"></small>
+    <button type="submit" class="wide">Sign in as admin</button>
+  </form>
+
+  <form id="up" class="pane" hidden novalidate>
+    <h2>Create employee account</h2><p class="sub">Only employees can register.</p>
+    <label for="u1">Full name</label><input id="u1" name="name" autocomplete="name"><small class="fe" data-for="name"></small>
+    <label for="u2">Work email</label><input id="u2" name="email" type="email" autocomplete="email"><small class="fe" data-for="email"></small>
+    <label for="u3">Department</label><select id="u3" name="department"><option value="">Select department</option>{% for d in depts %}<option>{{ d }}</option>{% endfor %}</select><small class="fe" data-for="department"></small>
+    <label for="u4">Password</label><input id="u4" name="password" type="password" autocomplete="new-password"><small class="fe" data-for="password"></small>
+    <div class="hint">8+ characters with upper and lower case, a number and a symbol.</div>
+    <label for="u5">Confirm password</label><input id="u5" name="confirm" type="password" autocomplete="new-password"><small class="fe" data-for="confirm"></small>
+    <small class="fe" data-for="_"></small>
+    <button type="submit" class="wide">Create account</button>
+    <button type="button" class="link" data-p="emp">Already registered? Sign in</button>
+  </form>
+</main>
+<script src="{{ url_for('static', filename='app.js') }}"></script><script src="{{ url_for('static', filename='auth.js') }}"></script>
+</body></html>

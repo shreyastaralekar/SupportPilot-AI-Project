@@ -1,0 +1,1234 @@
+text,category,sub_category,severity
+Unable to work: mouse is unresponsive. Started yesterday.,Hardware,Peripherals,Medium
+"Hi team, cannot install the latest update.",Software,Installation,Medium
+"Since this morning, monitor shows no signal.",Hardware,Peripherals,Medium
+"Hi team, WiFi is very slow on the third floor.",Network Connectivity,WiFi,Medium
+Please help - printer not responding. An error message appears.,Hardware,Printer,Low
+Laptop will not boot. An error message appears.,Hardware,Laptop,Medium
+"Hi team, application crashes on launch. Started yesterday.",Software,Application Error,Medium
+"Since this morning, office WiFi keeps dropping. Started yesterday.",Network Connectivity,WiFi,High
+Error message when opening the CRM. An error message appears.,Software,Application Error,Medium
+"Since this morning, printer not responding. Started yesterday.",Hardware,Printer,Medium
+"Hi team, mouse is unresponsive.",Hardware,Peripherals,Low
+Issue: VPN connection failing on corporate network. Tried restarting but it persists.,Network Connectivity,VPN Access,High
+Question: cannot connect to the guest WiFi. Started yesterday.,Network Connectivity,WiFi,Low
+Issue: no internet access at my desk. Started yesterday.,Network Connectivity,LAN / Internet,High
+Urgent - mouse is unresponsive. Tried restarting but it persists.,Hardware,Peripherals,Medium
+Not urgent - ethernet port is not working. Tried restarting but it persists.,Network Connectivity,LAN / Internet,Medium
+Monitor shows no signal.,Hardware,Peripherals,Low
+Question: application crashes on launch. Tried restarting but it persists.,Software,Application Error,Low
+"Hi team, screen keeps flickering on my laptop. An error message appears.",Hardware,Laptop,Medium
+Minor issue: my account is locked out. Tried restarting but it persists.,Access,Account,Low
+Please help - cannot install the latest update. An error message appears.,Software,Installation,Medium
+"Hi team, error message when opening the CRM. An error message appears.",Software,Application Error,Medium
+Unable to work: office WiFi keeps dropping. Tried restarting but it persists.,Network Connectivity,WiFi,High
+"Whenever possible, keyboard is not working. An error message appears.",Hardware,Peripherals,Low
+Question: screen keeps flickering on my laptop.,Hardware,Laptop,Low
+All users affected: mouse is unresponsive. Started yesterday.,Hardware,Peripherals,Medium
+Please help - office WiFi keeps dropping. An error message appears.,Network Connectivity,WiFi,Medium
+"Hi team, VPN connection failing on corporate network. Started yesterday.",Network Connectivity,VPN Access,High
+"Hi team, keyboard is not working. Tried restarting but it persists.",Hardware,Peripherals,Low
+All users affected: printer jams repeatedly.,Hardware,Printer,Medium
+Issue: office WiFi keeps dropping.,Network Connectivity,WiFi,Medium
+Unable to work: cannot install the latest update. An error message appears.,Software,Installation,High
+"Hi team, WiFi is very slow on the third floor. An error message appears.",Network Connectivity,WiFi,Medium
+Issue: cannot print to the floor printer. An error message appears.,Hardware,Printer,Low
+Issue: installer fails with error 1603. Started yesterday.,Software,Installation,Medium
+"Whenever possible, need access to the shared drive. Tried restarting but it persists.",Access,Permissions,Low
+WiFi is very slow on the third floor. Tried restarting but it persists.,Network Connectivity,WiFi,Medium
+Laptop will not boot.,Hardware,Laptop,Medium
+Unable to work: installer fails with error 1603.,Software,Installation,High
+Please help - software installation error. An error message appears.,Software,Installation,Medium
+Password reset required. An error message appears.,Access,Account,Medium
+Not urgent - ERP application freezes while saving.,Software,Application Error,Low
+Unable to work: keyboard is not working. Started yesterday.,Hardware,Peripherals,Medium
+"Hi team, office WiFi keeps dropping. An error message appears.",Network Connectivity,WiFi,Medium
+Minor issue: ethernet port is not working. An error message appears.,Network Connectivity,LAN / Internet,Medium
+"Since this morning, cannot install the latest update.",Software,Installation,High
+"Unable to work: unable to connect to VPN, connection timed out. Tried restarting but it persists.",Network Connectivity,VPN Access,Critical
+Not urgent - password reset required. An error message appears.,Access,Account,Low
+Please help - VPN connection failing on corporate network. An error message appears.,Network Connectivity,VPN Access,High
+Question: need my design software license activated. An error message appears.,Software,Licensing,Low
+Issue: no internet access at my desk.,Network Connectivity,LAN / Internet,High
+All users affected: laptop will not boot.,Hardware,Laptop,High
+Minor issue: laptop will not boot.,Hardware,Laptop,Low
+Unable to work: the network is down in the whole office. Tried restarting but it persists.,Network Connectivity,LAN / Internet,Critical
+Urgent - forgot my password and cannot log in.,Access,Account,High
+"Since this morning, screen keeps flickering on my laptop. Started yesterday.",Hardware,Laptop,High
+Issue: license key has expired. Started yesterday.,Software,Licensing,Low
+Issue: my account is locked out. Started yesterday.,Access,Account,Medium
+"Since this morning, WiFi is very slow on the third floor.",Network Connectivity,WiFi,High
+Issue: office WiFi keeps dropping. Started yesterday.,Network Connectivity,WiFi,Medium
+Issue: cannot connect to the guest WiFi. Tried restarting but it persists.,Network Connectivity,WiFi,Medium
+Access denied on the SharePoint folder. Started yesterday.,Access,Permissions,Low
+Urgent - keyboard is not working.,Hardware,Peripherals,Medium
+Issue: error message when opening the CRM. An error message appears.,Software,Application Error,Medium
+Unable to work: Office activation failed. An error message appears.,Software,Licensing,Medium
+Unable to work: need my design software license activated. Tried restarting but it persists.,Software,Licensing,Medium
+"Hi team, mouse is unresponsive. An error message appears.",Hardware,Peripherals,Low
+"Whenever possible, printer not responding.",Hardware,Printer,Low
+All users affected: the network is down in the whole office. Tried restarting but it persists.,Network Connectivity,LAN / Internet,Critical
+My account is locked out. Started yesterday.,Access,Account,Medium
+"Hi team, unable to connect to VPN, connection timed out.",Network Connectivity,VPN Access,High
+Minor issue: application crashes on launch. Tried restarting but it persists.,Software,Application Error,Low
+"Whenever possible, no internet access at my desk. Started yesterday.",Network Connectivity,LAN / Internet,Medium
+Issue: password reset required.,Access,Account,Medium
+"Since this morning, password reset required. Tried restarting but it persists.",Access,Account,High
+Issue: need access to the shared drive. Tried restarting but it persists.,Access,Permissions,Low
+Please help - VPN client keeps disconnecting. Started yesterday.,Network Connectivity,VPN Access,High
+Issue: WiFi is very slow on the third floor. An error message appears.,Network Connectivity,WiFi,Medium
+Monitor shows no signal. Started yesterday.,Hardware,Peripherals,Low
+No internet access at my desk. An error message appears.,Network Connectivity,LAN / Internet,High
+Please help - error message when opening the CRM.,Software,Application Error,Medium
+Issue: password reset required. An error message appears.,Access,Account,Medium
+Issue: cannot reach the VPN gateway from home.,Network Connectivity,VPN Access,High
+Issue: mouse is unresponsive.,Hardware,Peripherals,Low
+Please help - need my design software license activated. An error message appears.,Software,Licensing,Low
+"Hi team, need my design software license activated. An error message appears.",Software,Licensing,Low
+Issue: keyboard is not working.,Hardware,Peripherals,Low
+"Hi team, need my design software license activated. Started yesterday.",Software,Licensing,Low
+Not urgent - access denied on the SharePoint folder. Tried restarting but it persists.,Access,Permissions,Low
+Minor issue: cannot print to the floor printer.,Hardware,Printer,Low
+License key has expired. Started yesterday.,Software,Licensing,Low
+"Hi team, software installation error.",Software,Installation,Medium
+"Whenever possible, installer fails with error 1603. An error message appears.",Software,Installation,Low
+Please help - keyboard is not working. An error message appears.,Hardware,Peripherals,Low
+Software installation error. An error message appears.,Software,Installation,Medium
+Please help - software installation error. Tried restarting but it persists.,Software,Installation,Medium
+Minor issue: cannot connect to the guest WiFi. Started yesterday.,Network Connectivity,WiFi,Low
+Not urgent - need access to the shared drive. An error message appears.,Access,Permissions,Low
+"Hi team, access denied on the SharePoint folder. Started yesterday.",Access,Permissions,Low
+Minor issue: printer jams repeatedly. An error message appears.,Hardware,Printer,Low
+"Hi team, cannot connect to the guest WiFi. Started yesterday.",Network Connectivity,WiFi,Medium
+Urgent - application crashes on launch. Tried restarting but it persists.,Software,Application Error,High
+"Hi team, password reset required. An error message appears.",Access,Account,Medium
+Please help - my account is locked out.,Access,Account,Medium
+Not urgent - cannot install the latest update.,Software,Installation,Low
+Not urgent - laptop will not boot. Started yesterday.,Hardware,Laptop,Low
+Not urgent - Office activation failed. Tried restarting but it persists.,Software,Licensing,Low
+Issue: request admin rights on my laptop. An error message appears.,Access,Permissions,Low
+Question: cannot reach the VPN gateway from home. Tried restarting but it persists.,Network Connectivity,VPN Access,Medium
+Request admin rights on my laptop.,Access,Permissions,Low
+Minor issue: cannot connect to the guest WiFi. Tried restarting but it persists.,Network Connectivity,WiFi,Low
+Please help - VPN client keeps disconnecting. Tried restarting but it persists.,Network Connectivity,VPN Access,High
+Issue: request admin rights on my laptop. Started yesterday.,Access,Permissions,Low
+My account is locked out.,Access,Account,Medium
+All users affected: printer not responding.,Hardware,Printer,Medium
+Unable to work: monitor shows no signal. Tried restarting but it persists.,Hardware,Peripherals,Medium
+"Hi team, unable to connect to VPN, connection timed out. An error message appears.",Network Connectivity,VPN Access,High
+Urgent - keyboard is not working. Started yesterday.,Hardware,Peripherals,Medium
+Application crashes on launch. Started yesterday.,Software,Application Error,Medium
+All users affected: WiFi is very slow on the third floor. An error message appears.,Network Connectivity,WiFi,High
+Forgot my password and cannot log in. Tried restarting but it persists.,Access,Account,Medium
+WiFi is very slow on the third floor.,Network Connectivity,WiFi,Medium
+Question: application crashes on launch. Started yesterday.,Software,Application Error,Low
+Not urgent - VPN connection failing on corporate network. An error message appears.,Network Connectivity,VPN Access,Medium
+Minor issue: ERP application freezes while saving. Tried restarting but it persists.,Software,Application Error,Low
+Please help - printer jams repeatedly. An error message appears.,Hardware,Printer,Low
+Issue: laptop will not boot.,Hardware,Laptop,Medium
+Minor issue: need my design software license activated. An error message appears.,Software,Licensing,Low
+"Since this morning, ERP application freezes while saving. Tried restarting but it persists.",Software,Application Error,High
+Office activation failed. Tried restarting but it persists.,Software,Licensing,Low
+Please help - cannot connect to the guest WiFi. Tried restarting but it persists.,Network Connectivity,WiFi,Medium
+Not urgent - need access to the shared drive.,Access,Permissions,Low
+Please help - Office activation failed. Tried restarting but it persists.,Software,Licensing,Low
+Please help - Office activation failed. Started yesterday.,Software,Licensing,Low
+Issue: forgot my password and cannot log in. An error message appears.,Access,Account,Medium
+Issue: license key has expired.,Software,Licensing,Low
+Cannot install the latest update. Tried restarting but it persists.,Software,Installation,Medium
+Please help - installer fails with error 1603. Started yesterday.,Software,Installation,Medium
+The network is down in the whole office. Tried restarting but it persists.,Network Connectivity,LAN / Internet,High
+Unable to work: Office activation failed. Started yesterday.,Software,Licensing,Medium
+Not urgent - request admin rights on my laptop. Tried restarting but it persists.,Access,Permissions,Low
+Please help - VPN connection failing on corporate network.,Network Connectivity,VPN Access,High
+"Whenever possible, forgot my password and cannot log in.",Access,Account,Low
+Issue: no internet access at my desk. Tried restarting but it persists.,Network Connectivity,LAN / Internet,High
+Minor issue: WiFi is very slow on the third floor. An error message appears.,Network Connectivity,WiFi,Low
+Question: access denied on the SharePoint folder. An error message appears.,Access,Permissions,Low
+Unable to work: license key has expired. Tried restarting but it persists.,Software,Licensing,Medium
+Urgent - license key has expired. Tried restarting but it persists.,Software,Licensing,Medium
+Urgent - printer not responding. An error message appears.,Hardware,Printer,Medium
+Question: need access to the shared drive. Tried restarting but it persists.,Access,Permissions,Low
+Please help - license key has expired. Tried restarting but it persists.,Software,Licensing,Low
+Issue: monitor shows no signal.,Hardware,Peripherals,Low
+Issue: VPN client keeps disconnecting. An error message appears.,Network Connectivity,VPN Access,High
+Question: WiFi is very slow on the third floor. An error message appears.,Network Connectivity,WiFi,Low
+Not urgent - license key has expired.,Software,Licensing,Low
+All users affected: cannot install the latest update.,Software,Installation,High
+Not urgent - laptop will not boot. An error message appears.,Hardware,Laptop,Low
+Question: ERP application freezes while saving.,Software,Application Error,Low
+Please help - the network is down in the whole office. An error message appears.,Network Connectivity,LAN / Internet,High
+"Whenever possible, need my design software license activated.",Software,Licensing,Low
+Issue: application crashes on launch. An error message appears.,Software,Application Error,Medium
+"Since this morning, printer jams repeatedly.",Hardware,Printer,Medium
+"Issue: unable to connect to VPN, connection timed out. Started yesterday.",Network Connectivity,VPN Access,High
+The network is down in the whole office. An error message appears.,Network Connectivity,LAN / Internet,High
+Cannot connect to the guest WiFi.,Network Connectivity,WiFi,Medium
+Please help - mouse is unresponsive. Started yesterday.,Hardware,Peripherals,Low
+Minor issue: installer fails with error 1603. Tried restarting but it persists.,Software,Installation,Low
+Laptop battery drains very fast. An error message appears.,Hardware,Laptop,Medium
+ERP application freezes while saving. Started yesterday.,Software,Application Error,Medium
+Minor issue: laptop battery drains very fast. An error message appears.,Hardware,Laptop,Low
+Please help - ERP application freezes while saving. Started yesterday.,Software,Application Error,Medium
+Please help - cannot reach the VPN gateway from home. An error message appears.,Network Connectivity,VPN Access,High
+Please help - monitor shows no signal. Tried restarting but it persists.,Hardware,Peripherals,Low
+Printer jams repeatedly.,Hardware,Printer,Low
+"Whenever possible, cannot print to the floor printer. Tried restarting but it persists.",Hardware,Printer,Low
+"Whenever possible, ERP application freezes while saving. An error message appears.",Software,Application Error,Low
+"Whenever possible, error message when opening the CRM.",Software,Application Error,Low
+Unable to work: my account is locked out. Tried restarting but it persists.,Access,Account,High
+Unable to work: need my design software license activated.,Software,Licensing,Medium
+Issue: need my design software license activated. Tried restarting but it persists.,Software,Licensing,Low
+Minor issue: software installation error. Tried restarting but it persists.,Software,Installation,Low
+Question: installer fails with error 1603. Started yesterday.,Software,Installation,Low
+"Since this morning, keyboard is not working. Tried restarting but it persists.",Hardware,Peripherals,Medium
+Question: WiFi is very slow on the third floor. Started yesterday.,Network Connectivity,WiFi,Low
+Question: keyboard is not working. Started yesterday.,Hardware,Peripherals,Low
+Not urgent - software installation error. Tried restarting but it persists.,Software,Installation,Low
+Issue: forgot my password and cannot log in. Started yesterday.,Access,Account,Medium
+Question: VPN connection failing on corporate network.,Network Connectivity,VPN Access,Medium
+Question: laptop will not boot. Started yesterday.,Hardware,Laptop,Low
+Issue: cannot install the latest update. Tried restarting but it persists.,Software,Installation,Medium
+Unable to work: keyboard is not working. An error message appears.,Hardware,Peripherals,Medium
+Issue: printer not responding. Started yesterday.,Hardware,Printer,Low
+Issue: need access to the shared drive. An error message appears.,Access,Permissions,Low
+"Since this morning, need my design software license activated. Started yesterday.",Software,Licensing,Medium
+Question: laptop will not boot. Tried restarting but it persists.,Hardware,Laptop,Low
+All users affected: access denied on the SharePoint folder. Tried restarting but it persists.,Access,Permissions,Medium
+"Since this morning, mouse is unresponsive. Started yesterday.",Hardware,Peripherals,Medium
+"Whenever possible, monitor shows no signal.",Hardware,Peripherals,Low
+Minor issue: keyboard is not working.,Hardware,Peripherals,Low
+Question: need access to the shared drive. Started yesterday.,Access,Permissions,Low
+Not urgent - software installation error. Started yesterday.,Software,Installation,Low
+Issue: office WiFi keeps dropping. An error message appears.,Network Connectivity,WiFi,Medium
+Need my design software license activated.,Software,Licensing,Low
+"Hi team, software installation error. Tried restarting but it persists.",Software,Installation,Medium
+"Hi team, laptop battery drains very fast. Tried restarting but it persists.",Hardware,Laptop,Medium
+All users affected: laptop will not boot. Tried restarting but it persists.,Hardware,Laptop,High
+"Hi team, printer not responding.",Hardware,Printer,Low
+All users affected: no internet access at my desk. Started yesterday.,Network Connectivity,LAN / Internet,Critical
+Unable to work: my account is locked out. An error message appears.,Access,Account,High
+"Since this morning, error message when opening the CRM. Tried restarting but it persists.",Software,Application Error,High
+All users affected: laptop battery drains very fast.,Hardware,Laptop,High
+Not urgent - cannot reach the VPN gateway from home.,Network Connectivity,VPN Access,Medium
+"Whenever possible, need access to the shared drive. Started yesterday.",Access,Permissions,Low
+Laptop will not boot. Started yesterday.,Hardware,Laptop,Medium
+Please help - screen keeps flickering on my laptop. Started yesterday.,Hardware,Laptop,Medium
+"Whenever possible, access denied on the SharePoint folder.",Access,Permissions,Low
+Please help - keyboard is not working. Tried restarting but it persists.,Hardware,Peripherals,Low
+Please help - my account is locked out. An error message appears.,Access,Account,Medium
+Please help - cannot connect to the guest WiFi. Started yesterday.,Network Connectivity,WiFi,Medium
+Please help - application crashes on launch.,Software,Application Error,Medium
+All users affected: the network is down in the whole office.,Network Connectivity,LAN / Internet,Critical
+Please help - forgot my password and cannot log in.,Access,Account,Medium
+Issue: license key has expired. Tried restarting but it persists.,Software,Licensing,Low
+Minor issue: no internet access at my desk. Started yesterday.,Network Connectivity,LAN / Internet,Medium
+Printer jams repeatedly. Tried restarting but it persists.,Hardware,Printer,Low
+All users affected: password reset required. Tried restarting but it persists.,Access,Account,High
+Issue: need my design software license activated.,Software,Licensing,Low
+Please help - no internet access at my desk. Tried restarting but it persists.,Network Connectivity,LAN / Internet,High
+Unable to work: mouse is unresponsive. Tried restarting but it persists.,Hardware,Peripherals,Medium
+Not urgent - my account is locked out. Tried restarting but it persists.,Access,Account,Low
+Issue: error message when opening the CRM.,Software,Application Error,Medium
+"Hi team, VPN connection failing on corporate network.",Network Connectivity,VPN Access,High
+Not urgent - need my design software license activated. An error message appears.,Software,Licensing,Low
+"Hi team, forgot my password and cannot log in.",Access,Account,Medium
+Printer not responding. An error message appears.,Hardware,Printer,Low
+Unable to work: laptop will not boot. Started yesterday.,Hardware,Laptop,High
+"Since this morning, WiFi is very slow on the third floor. An error message appears.",Network Connectivity,WiFi,High
+Please help - the network is down in the whole office. Tried restarting but it persists.,Network Connectivity,LAN / Internet,High
+"Since this morning, password reset required. Started yesterday.",Access,Account,High
+Not urgent - screen keeps flickering on my laptop. An error message appears.,Hardware,Laptop,Low
+"Since this morning, license key has expired. Started yesterday.",Software,Licensing,Medium
+Question: no internet access at my desk. An error message appears.,Network Connectivity,LAN / Internet,Medium
+Please help - WiFi is very slow on the third floor. An error message appears.,Network Connectivity,WiFi,Medium
+"Since this morning, printer jams repeatedly. Started yesterday.",Hardware,Printer,Medium
+Issue: printer jams repeatedly. Tried restarting but it persists.,Hardware,Printer,Low
+Urgent - installer fails with error 1603. Tried restarting but it persists.,Software,Installation,High
+Question: access denied on the SharePoint folder. Started yesterday.,Access,Permissions,Low
+"Whenever possible, ethernet port is not working. An error message appears.",Network Connectivity,LAN / Internet,Medium
+All users affected: ERP application freezes while saving. An error message appears.,Software,Application Error,High
+All users affected: VPN client keeps disconnecting.,Network Connectivity,VPN Access,Critical
+"Since this morning, keyboard is not working.",Hardware,Peripherals,Medium
+Issue: access denied on the SharePoint folder. An error message appears.,Access,Permissions,Low
+Minor issue: request admin rights on my laptop. Started yesterday.,Access,Permissions,Low
+Not urgent - need my design software license activated.,Software,Licensing,Low
+Keyboard is not working.,Hardware,Peripherals,Low
+Question: printer jams repeatedly. Tried restarting but it persists.,Hardware,Printer,Low
+Urgent - ERP application freezes while saving. Started yesterday.,Software,Application Error,High
+Minor issue: mouse is unresponsive.,Hardware,Peripherals,Low
+Question: license key has expired.,Software,Licensing,Low
+Question: monitor shows no signal. Started yesterday.,Hardware,Peripherals,Low
+Please help - laptop will not boot. Tried restarting but it persists.,Hardware,Laptop,Medium
+Please help - no internet access at my desk. An error message appears.,Network Connectivity,LAN / Internet,High
+Please help - error message when opening the CRM. Started yesterday.,Software,Application Error,Medium
+"Hi team, request admin rights on my laptop. An error message appears.",Access,Permissions,Low
+Minor issue: password reset required. Tried restarting but it persists.,Access,Account,Low
+"Since this morning, need my design software license activated.",Software,Licensing,Medium
+All users affected: printer not responding. Tried restarting but it persists.,Hardware,Printer,Medium
+Minor issue: need my design software license activated.,Software,Licensing,Low
+Question: software installation error. An error message appears.,Software,Installation,Low
+"Question: unable to connect to VPN, connection timed out. An error message appears.",Network Connectivity,VPN Access,Medium
+"Hi team, office WiFi keeps dropping. Started yesterday.",Network Connectivity,WiFi,Medium
+"Hi team, office WiFi keeps dropping.",Network Connectivity,WiFi,Medium
+Minor issue: Office activation failed. An error message appears.,Software,Licensing,Low
+Unable to work: need access to the shared drive. Started yesterday.,Access,Permissions,Medium
+Please help - software installation error. Started yesterday.,Software,Installation,Medium
+Software installation error. Tried restarting but it persists.,Software,Installation,Medium
+"Whenever possible, password reset required. An error message appears.",Access,Account,Low
+Urgent - screen keeps flickering on my laptop. Tried restarting but it persists.,Hardware,Laptop,High
+"Whenever possible, Office activation failed. Started yesterday.",Software,Licensing,Low
+Minor issue: cannot install the latest update.,Software,Installation,Low
+Cannot print to the floor printer.,Hardware,Printer,Low
+"Whenever possible, forgot my password and cannot log in. An error message appears.",Access,Account,Low
+ERP application freezes while saving.,Software,Application Error,Medium
+Error message when opening the CRM. Started yesterday.,Software,Application Error,Medium
+All users affected: the network is down in the whole office. Started yesterday.,Network Connectivity,LAN / Internet,Critical
+Please help - mouse is unresponsive. An error message appears.,Hardware,Peripherals,Low
+"Hi team, monitor shows no signal. An error message appears.",Hardware,Peripherals,Low
+"Hi team, VPN connection failing on corporate network. Tried restarting but it persists.",Network Connectivity,VPN Access,High
+Issue: cannot reach the VPN gateway from home. An error message appears.,Network Connectivity,VPN Access,High
+Urgent - need my design software license activated. Started yesterday.,Software,Licensing,Medium
+Issue: VPN connection failing on corporate network. Started yesterday.,Network Connectivity,VPN Access,High
+Not urgent - my account is locked out. Started yesterday.,Access,Account,Low
+Not urgent - ethernet port is not working. Started yesterday.,Network Connectivity,LAN / Internet,Medium
+"Whenever possible, cannot connect to the guest WiFi. Tried restarting but it persists.",Network Connectivity,WiFi,Low
+Issue: printer not responding.,Hardware,Printer,Low
+Issue: ERP application freezes while saving. An error message appears.,Software,Application Error,Medium
+Question: ethernet port is not working.,Network Connectivity,LAN / Internet,Medium
+Question: error message when opening the CRM.,Software,Application Error,Low
+Question: WiFi is very slow on the third floor. Tried restarting but it persists.,Network Connectivity,WiFi,Low
+Please help - VPN connection failing on corporate network. Tried restarting but it persists.,Network Connectivity,VPN Access,High
+Issue: cannot connect to the guest WiFi. An error message appears.,Network Connectivity,WiFi,Medium
+Urgent - screen keeps flickering on my laptop. An error message appears.,Hardware,Laptop,High
+Please help - application crashes on launch. Tried restarting but it persists.,Software,Application Error,Medium
+Please help - printer jams repeatedly. Started yesterday.,Hardware,Printer,Low
+Unable to work: cannot install the latest update. Tried restarting but it persists.,Software,Installation,High
+"Whenever possible, request admin rights on my laptop. Started yesterday.",Access,Permissions,Low
+Urgent - software installation error. An error message appears.,Software,Installation,High
+"Whenever possible, the network is down in the whole office. Started yesterday.",Network Connectivity,LAN / Internet,Medium
+Mouse is unresponsive. Started yesterday.,Hardware,Peripherals,Low
+"Hi team, need my design software license activated. Tried restarting but it persists.",Software,Licensing,Low
+Issue: cannot reach the VPN gateway from home. Tried restarting but it persists.,Network Connectivity,VPN Access,High
+Unable to work: laptop battery drains very fast. An error message appears.,Hardware,Laptop,High
+Not urgent - access denied on the SharePoint folder.,Access,Permissions,Low
+Ethernet port is not working. An error message appears.,Network Connectivity,LAN / Internet,High
+"Hi team, mouse is unresponsive. Tried restarting but it persists.",Hardware,Peripherals,Low
+"Whenever possible, no internet access at my desk. Tried restarting but it persists.",Network Connectivity,LAN / Internet,Medium
+ERP application freezes while saving. Tried restarting but it persists.,Software,Application Error,Medium
+"Hi team, mouse is unresponsive. Started yesterday.",Hardware,Peripherals,Low
+No internet access at my desk.,Network Connectivity,LAN / Internet,High
+"Hi team, cannot reach the VPN gateway from home.",Network Connectivity,VPN Access,High
+Issue: request admin rights on my laptop. Tried restarting but it persists.,Access,Permissions,Low
+Question: keyboard is not working.,Hardware,Peripherals,Low
+Issue: access denied on the SharePoint folder. Tried restarting but it persists.,Access,Permissions,Low
+Issue: ERP application freezes while saving. Tried restarting but it persists.,Software,Application Error,Medium
+All users affected: application crashes on launch. An error message appears.,Software,Application Error,High
+Please help - office WiFi keeps dropping. Tried restarting but it persists.,Network Connectivity,WiFi,Medium
+All users affected: cannot connect to the guest WiFi. An error message appears.,Network Connectivity,WiFi,High
+Issue: cannot install the latest update. Started yesterday.,Software,Installation,Medium
+Please help - need access to the shared drive.,Access,Permissions,Low
+Minor issue: password reset required. Started yesterday.,Access,Account,Low
+All users affected: cannot reach the VPN gateway from home. An error message appears.,Network Connectivity,VPN Access,Critical
+Please help - need my design software license activated.,Software,Licensing,Low
+Urgent - my account is locked out. Started yesterday.,Access,Account,High
+Not urgent - WiFi is very slow on the third floor. Started yesterday.,Network Connectivity,WiFi,Low
+Urgent - laptop will not boot. An error message appears.,Hardware,Laptop,High
+Issue: application crashes on launch. Tried restarting but it persists.,Software,Application Error,Medium
+"Whenever possible, laptop will not boot.",Hardware,Laptop,Low
+Issue: the network is down in the whole office. Started yesterday.,Network Connectivity,LAN / Internet,High
+Question: the network is down in the whole office. Started yesterday.,Network Connectivity,LAN / Internet,Medium
+Question: printer jams repeatedly.,Hardware,Printer,Low
+Minor issue: cannot reach the VPN gateway from home. Tried restarting but it persists.,Network Connectivity,VPN Access,Medium
+Mouse is unresponsive.,Hardware,Peripherals,Low
+"Since this morning, installer fails with error 1603. An error message appears.",Software,Installation,High
+"Hi team, VPN client keeps disconnecting. An error message appears.",Network Connectivity,VPN Access,High
+Question: printer not responding. An error message appears.,Hardware,Printer,Low
+Issue: cannot print to the floor printer. Started yesterday.,Hardware,Printer,Low
+Minor issue: laptop will not boot. Started yesterday.,Hardware,Laptop,Low
+"Hi team, printer jams repeatedly. Started yesterday.",Hardware,Printer,Low
+Issue: printer not responding. An error message appears.,Hardware,Printer,Low
+"Hi team, my account is locked out.",Access,Account,Medium
+All users affected: need my design software license activated. Started yesterday.,Software,Licensing,Medium
+"Hi team, printer not responding. Tried restarting but it persists.",Hardware,Printer,Low
+Urgent - cannot install the latest update. Tried restarting but it persists.,Software,Installation,High
+"Since this morning, VPN client keeps disconnecting. An error message appears.",Network Connectivity,VPN Access,Critical
+Not urgent - forgot my password and cannot log in. Tried restarting but it persists.,Access,Account,Low
+Issue: Office activation failed.,Software,Licensing,Low
+Office WiFi keeps dropping. An error message appears.,Network Connectivity,WiFi,Medium
+"Since this morning, ethernet port is not working. Tried restarting but it persists.",Network Connectivity,LAN / Internet,Critical
+Please help - error message when opening the CRM. An error message appears.,Software,Application Error,Medium
+Question: no internet access at my desk.,Network Connectivity,LAN / Internet,Medium
+All users affected: ethernet port is not working. Tried restarting but it persists.,Network Connectivity,LAN / Internet,Critical
+Not urgent - the network is down in the whole office. Started yesterday.,Network Connectivity,LAN / Internet,Medium
+"Whenever possible, office WiFi keeps dropping. Tried restarting but it persists.",Network Connectivity,WiFi,Low
+"Hi team, need access to the shared drive. Started yesterday.",Access,Permissions,Low
+Please help - my account is locked out. Started yesterday.,Access,Account,Medium
+All users affected: Office activation failed. Started yesterday.,Software,Licensing,Medium
+Unable to work: installer fails with error 1603. Started yesterday.,Software,Installation,High
+Question: the network is down in the whole office.,Network Connectivity,LAN / Internet,Medium
+Issue: mouse is unresponsive. Tried restarting but it persists.,Hardware,Peripherals,Low
+Please help - screen keeps flickering on my laptop. An error message appears.,Hardware,Laptop,Medium
+"Hi team, cannot print to the floor printer.",Hardware,Printer,Low
+Question: printer not responding.,Hardware,Printer,Low
+"Hi team, unable to connect to VPN, connection timed out. Started yesterday.",Network Connectivity,VPN Access,High
+"Whenever possible, screen keeps flickering on my laptop. An error message appears.",Hardware,Laptop,Low
+Minor issue: cannot reach the VPN gateway from home. An error message appears.,Network Connectivity,VPN Access,Medium
+Question: VPN connection failing on corporate network. Tried restarting but it persists.,Network Connectivity,VPN Access,Medium
+Unable to work: laptop battery drains very fast. Started yesterday.,Hardware,Laptop,High
+Unable to work: cannot connect to the guest WiFi.,Network Connectivity,WiFi,High
+Minor issue: license key has expired. An error message appears.,Software,Licensing,Low
+Not urgent - ERP application freezes while saving. An error message appears.,Software,Application Error,Low
+Issue: office WiFi keeps dropping. Tried restarting but it persists.,Network Connectivity,WiFi,Medium
+Minor issue: cannot print to the floor printer. Tried restarting but it persists.,Hardware,Printer,Low
+Minor issue: printer not responding. An error message appears.,Hardware,Printer,Low
+Issue: application crashes on launch.,Software,Application Error,Medium
+"Whenever possible, unable to connect to VPN, connection timed out. Tried restarting but it persists.",Network Connectivity,VPN Access,Medium
+"Since this morning, installer fails with error 1603. Tried restarting but it persists.",Software,Installation,High
+Printer not responding. Started yesterday.,Hardware,Printer,Low
+Issue: software installation error. Started yesterday.,Software,Installation,Medium
+Please help - ethernet port is not working. Started yesterday.,Network Connectivity,LAN / Internet,High
+Please help - cannot reach the VPN gateway from home.,Network Connectivity,VPN Access,High
+Question: error message when opening the CRM. An error message appears.,Software,Application Error,Low
+Issue: my account is locked out. Tried restarting but it persists.,Access,Account,Medium
+Minor issue: printer not responding. Started yesterday.,Hardware,Printer,Low
+"Whenever possible, the network is down in the whole office. An error message appears.",Network Connectivity,LAN / Internet,Medium
+Please help - password reset required. Started yesterday.,Access,Account,Medium
+Installer fails with error 1603. Started yesterday.,Software,Installation,Medium
+Cannot connect to the guest WiFi. An error message appears.,Network Connectivity,WiFi,Medium
+Issue: request admin rights on my laptop.,Access,Permissions,Low
+Cannot install the latest update. An error message appears.,Software,Installation,Medium
+Not urgent - Office activation failed. Started yesterday.,Software,Licensing,Low
+Issue: Office activation failed. An error message appears.,Software,Licensing,Low
+"Since this morning, request admin rights on my laptop. Tried restarting but it persists.",Access,Permissions,Medium
+All users affected: the network is down in the whole office. An error message appears.,Network Connectivity,LAN / Internet,Critical
+Please help - forgot my password and cannot log in. Started yesterday.,Access,Account,Medium
+Not urgent - need my design software license activated. Tried restarting but it persists.,Software,Licensing,Low
+Unable to work: no internet access at my desk.,Network Connectivity,LAN / Internet,Critical
+"Minor issue: unable to connect to VPN, connection timed out.",Network Connectivity,VPN Access,Medium
+Urgent - the network is down in the whole office. An error message appears.,Network Connectivity,LAN / Internet,Critical
+"Since this morning, error message when opening the CRM. An error message appears.",Software,Application Error,High
+"Since this morning, VPN connection failing on corporate network.",Network Connectivity,VPN Access,Critical
+All users affected: my account is locked out. An error message appears.,Access,Account,High
+"Hi team, laptop battery drains very fast.",Hardware,Laptop,Medium
+"Since this morning, ethernet port is not working. Started yesterday.",Network Connectivity,LAN / Internet,Critical
+Unable to work: laptop will not boot. Tried restarting but it persists.,Hardware,Laptop,High
+Question: laptop will not boot.,Hardware,Laptop,Low
+"Hi team, Office activation failed. An error message appears.",Software,Licensing,Low
+Please help - mouse is unresponsive. Tried restarting but it persists.,Hardware,Peripherals,Low
+All users affected: cannot install the latest update. An error message appears.,Software,Installation,High
+Please help - installer fails with error 1603. Tried restarting but it persists.,Software,Installation,Medium
+"Whenever possible, mouse is unresponsive. Started yesterday.",Hardware,Peripherals,Low
+Unable to work: installer fails with error 1603. Tried restarting but it persists.,Software,Installation,High
+Unable to work: cannot connect to the guest WiFi. An error message appears.,Network Connectivity,WiFi,High
+Application crashes on launch.,Software,Application Error,Medium
+Not urgent - the network is down in the whole office. An error message appears.,Network Connectivity,LAN / Internet,Medium
+Please help - laptop will not boot. Started yesterday.,Hardware,Laptop,Medium
+"Whenever possible, forgot my password and cannot log in. Tried restarting but it persists.",Access,Account,Low
+Please help - cannot connect to the guest WiFi. An error message appears.,Network Connectivity,WiFi,Medium
+"Whenever possible, need my design software license activated. Started yesterday.",Software,Licensing,Low
+Minor issue: installer fails with error 1603.,Software,Installation,Low
+Ethernet port is not working. Started yesterday.,Network Connectivity,LAN / Internet,High
+Question: laptop battery drains very fast. Started yesterday.,Hardware,Laptop,Low
+"Hi team, request admin rights on my laptop. Started yesterday.",Access,Permissions,Low
+Question: license key has expired. Tried restarting but it persists.,Software,Licensing,Low
+Screen keeps flickering on my laptop. An error message appears.,Hardware,Laptop,Medium
+Question: cannot install the latest update.,Software,Installation,Low
+Minor issue: forgot my password and cannot log in. Started yesterday.,Access,Account,Low
+"Hi team, cannot install the latest update. An error message appears.",Software,Installation,Medium
+"Since this morning, forgot my password and cannot log in. An error message appears.",Access,Account,High
+Not urgent - screen keeps flickering on my laptop.,Hardware,Laptop,Low
+Unable to work: application crashes on launch. Started yesterday.,Software,Application Error,High
+"Since this morning, ethernet port is not working. An error message appears.",Network Connectivity,LAN / Internet,Critical
+Unable to work: cannot connect to the guest WiFi. Tried restarting but it persists.,Network Connectivity,WiFi,High
+Please help - office WiFi keeps dropping.,Network Connectivity,WiFi,Medium
+Issue: ethernet port is not working. An error message appears.,Network Connectivity,LAN / Internet,High
+Question: installer fails with error 1603.,Software,Installation,Low
+Unable to work: VPN client keeps disconnecting.,Network Connectivity,VPN Access,Critical
+Please help - access denied on the SharePoint folder. Tried restarting but it persists.,Access,Permissions,Low
+Not urgent - no internet access at my desk. Tried restarting but it persists.,Network Connectivity,LAN / Internet,Medium
+Not urgent - need access to the shared drive. Tried restarting but it persists.,Access,Permissions,Low
+Cannot install the latest update.,Software,Installation,Medium
+All users affected: access denied on the SharePoint folder. An error message appears.,Access,Permissions,Medium
+Please help - cannot print to the floor printer. An error message appears.,Hardware,Printer,Low
+All users affected: laptop battery drains very fast. An error message appears.,Hardware,Laptop,High
+Issue: screen keeps flickering on my laptop.,Hardware,Laptop,Medium
+Issue: monitor shows no signal. Tried restarting but it persists.,Hardware,Peripherals,Low
+Urgent - need my design software license activated. Tried restarting but it persists.,Software,Licensing,Medium
+Not urgent - cannot print to the floor printer. Tried restarting but it persists.,Hardware,Printer,Low
+"Hi team, keyboard is not working. Started yesterday.",Hardware,Peripherals,Low
+Issue: ethernet port is not working.,Network Connectivity,LAN / Internet,High
+"Since this morning, application crashes on launch. Tried restarting but it persists.",Software,Application Error,High
+Not urgent - forgot my password and cannot log in. An error message appears.,Access,Account,Low
+Not urgent - password reset required.,Access,Account,Low
+Urgent - laptop battery drains very fast.,Hardware,Laptop,High
+Issue: license key has expired. An error message appears.,Software,Licensing,Low
+"Whenever possible, screen keeps flickering on my laptop.",Hardware,Laptop,Low
+Office activation failed. An error message appears.,Software,Licensing,Low
+Please help - printer not responding. Tried restarting but it persists.,Hardware,Printer,Low
+Cannot install the latest update. Started yesterday.,Software,Installation,Medium
+License key has expired. An error message appears.,Software,Licensing,Low
+"Hi team, unable to connect to VPN, connection timed out. Tried restarting but it persists.",Network Connectivity,VPN Access,High
+"Hi team, the network is down in the whole office. An error message appears.",Network Connectivity,LAN / Internet,High
+Issue: my account is locked out. An error message appears.,Access,Account,Medium
+Unable to work: error message when opening the CRM. An error message appears.,Software,Application Error,High
+Mouse is unresponsive. An error message appears.,Hardware,Peripherals,Low
+Minor issue: installer fails with error 1603. Started yesterday.,Software,Installation,Low
+Issue: error message when opening the CRM. Tried restarting but it persists.,Software,Application Error,Medium
+Not urgent - no internet access at my desk. An error message appears.,Network Connectivity,LAN / Internet,Medium
+Keyboard is not working. Started yesterday.,Hardware,Peripherals,Low
+"Whenever possible, cannot install the latest update.",Software,Installation,Low
+Please help - laptop will not boot.,Hardware,Laptop,Medium
+Urgent - request admin rights on my laptop.,Access,Permissions,Medium
+All users affected: cannot connect to the guest WiFi. Started yesterday.,Network Connectivity,WiFi,High
+Minor issue: the network is down in the whole office. Tried restarting but it persists.,Network Connectivity,LAN / Internet,Medium
+Urgent - cannot connect to the guest WiFi. Started yesterday.,Network Connectivity,WiFi,High
+Unable to work: software installation error.,Software,Installation,High
+Issue: the network is down in the whole office.,Network Connectivity,LAN / Internet,High
+Please help - installer fails with error 1603.,Software,Installation,Medium
+Unable to work: request admin rights on my laptop. Started yesterday.,Access,Permissions,Medium
+Unable to work: access denied on the SharePoint folder.,Access,Permissions,Medium
+"Hi team, WiFi is very slow on the third floor. Started yesterday.",Network Connectivity,WiFi,Medium
+All users affected: forgot my password and cannot log in. An error message appears.,Access,Account,High
+Urgent - WiFi is very slow on the third floor.,Network Connectivity,WiFi,High
+"Hi team, the network is down in the whole office. Started yesterday.",Network Connectivity,LAN / Internet,High
+All users affected: cannot print to the floor printer.,Hardware,Printer,Medium
+Question: need access to the shared drive. An error message appears.,Access,Permissions,Low
+Issue: laptop will not boot. Started yesterday.,Hardware,Laptop,Medium
+Urgent - VPN connection failing on corporate network. An error message appears.,Network Connectivity,VPN Access,Critical
+Minor issue: application crashes on launch.,Software,Application Error,Low
+Minor issue: printer jams repeatedly. Tried restarting but it persists.,Hardware,Printer,Low
+Issue: password reset required. Started yesterday.,Access,Account,Medium
+Urgent - office WiFi keeps dropping.,Network Connectivity,WiFi,High
+"Since this morning, my account is locked out. Started yesterday.",Access,Account,High
+"Since this morning, application crashes on launch. Started yesterday.",Software,Application Error,High
+Please help - need access to the shared drive. Tried restarting but it persists.,Access,Permissions,Low
+"Since this morning, no internet access at my desk. Tried restarting but it persists.",Network Connectivity,LAN / Internet,Critical
+Question: monitor shows no signal. Tried restarting but it persists.,Hardware,Peripherals,Low
+Please help - printer jams repeatedly.,Hardware,Printer,Low
+No internet access at my desk. Tried restarting but it persists.,Network Connectivity,LAN / Internet,High
+"Since this morning, WiFi is very slow on the third floor. Tried restarting but it persists.",Network Connectivity,WiFi,High
+Issue: installer fails with error 1603. An error message appears.,Software,Installation,Medium
+Please help - ERP application freezes while saving. Tried restarting but it persists.,Software,Application Error,Medium
+Urgent - ethernet port is not working. An error message appears.,Network Connectivity,LAN / Internet,Critical
+"Whenever possible, error message when opening the CRM. Started yesterday.",Software,Application Error,Low
+Urgent - WiFi is very slow on the third floor. Started yesterday.,Network Connectivity,WiFi,High
+Urgent - laptop battery drains very fast. Tried restarting but it persists.,Hardware,Laptop,High
+Issue: cannot connect to the guest WiFi.,Network Connectivity,WiFi,Medium
+Minor issue: password reset required. An error message appears.,Access,Account,Low
+Office WiFi keeps dropping.,Network Connectivity,WiFi,Medium
+"Hi team, installer fails with error 1603. Started yesterday.",Software,Installation,Medium
+All users affected: monitor shows no signal.,Hardware,Peripherals,Medium
+Unable to work: ERP application freezes while saving.,Software,Application Error,High
+Not urgent - ethernet port is not working.,Network Connectivity,LAN / Internet,Medium
+Issue: ethernet port is not working. Tried restarting but it persists.,Network Connectivity,LAN / Internet,High
+"Whenever possible, printer not responding. Started yesterday.",Hardware,Printer,Low
+Please help - password reset required. Tried restarting but it persists.,Access,Account,Medium
+"Hi team, password reset required. Started yesterday.",Access,Account,Medium
+Laptop battery drains very fast.,Hardware,Laptop,Medium
+"Hi team, need access to the shared drive.",Access,Permissions,Low
+Issue: cannot install the latest update.,Software,Installation,Medium
+Question: software installation error. Tried restarting but it persists.,Software,Installation,Low
+"Hi team, ERP application freezes while saving. Started yesterday.",Software,Application Error,Medium
+"Whenever possible, no internet access at my desk.",Network Connectivity,LAN / Internet,Medium
+Screen keeps flickering on my laptop. Started yesterday.,Hardware,Laptop,Medium
+Please help - WiFi is very slow on the third floor.,Network Connectivity,WiFi,Medium
+Question: password reset required. Started yesterday.,Access,Account,Low
+Urgent - screen keeps flickering on my laptop. Started yesterday.,Hardware,Laptop,High
+Laptop battery drains very fast. Tried restarting but it persists.,Hardware,Laptop,Medium
+All users affected: ethernet port is not working.,Network Connectivity,LAN / Internet,Critical
+"Hi team, Office activation failed.",Software,Licensing,Low
+Error message when opening the CRM.,Software,Application Error,Medium
+Not urgent - cannot reach the VPN gateway from home. Tried restarting but it persists.,Network Connectivity,VPN Access,Medium
+Not urgent - my account is locked out. An error message appears.,Access,Account,Low
+Minor issue: office WiFi keeps dropping. An error message appears.,Network Connectivity,WiFi,Low
+All users affected: office WiFi keeps dropping. Started yesterday.,Network Connectivity,WiFi,High
+Forgot my password and cannot log in.,Access,Account,Medium
+"Whenever possible, ERP application freezes while saving. Tried restarting but it persists.",Software,Application Error,Low
+"Not urgent - unable to connect to VPN, connection timed out.",Network Connectivity,VPN Access,Medium
+Minor issue: monitor shows no signal.,Hardware,Peripherals,Low
+Issue: software installation error. An error message appears.,Software,Installation,Medium
+Please help - ethernet port is not working. Tried restarting but it persists.,Network Connectivity,LAN / Internet,High
+All users affected: request admin rights on my laptop. An error message appears.,Access,Permissions,Medium
+Unable to work: the network is down in the whole office. Started yesterday.,Network Connectivity,LAN / Internet,Critical
+"Hi team, no internet access at my desk.",Network Connectivity,LAN / Internet,High
+"Whenever possible, Office activation failed. An error message appears.",Software,Licensing,Low
+Minor issue: office WiFi keeps dropping.,Network Connectivity,WiFi,Low
+All users affected: WiFi is very slow on the third floor. Started yesterday.,Network Connectivity,WiFi,High
+Please help - forgot my password and cannot log in. An error message appears.,Access,Account,Medium
+"Whenever possible, laptop will not boot. Started yesterday.",Hardware,Laptop,Low
+Please help - password reset required. An error message appears.,Access,Account,Medium
+Need my design software license activated. Started yesterday.,Software,Licensing,Low
+Please help - Office activation failed.,Software,Licensing,Low
+Issue: cannot install the latest update. An error message appears.,Software,Installation,Medium
+Minor issue: installer fails with error 1603. An error message appears.,Software,Installation,Low
+Cannot print to the floor printer. Tried restarting but it persists.,Hardware,Printer,Low
+"Hi team, no internet access at my desk. Tried restarting but it persists.",Network Connectivity,LAN / Internet,High
+"Whenever possible, VPN client keeps disconnecting. Tried restarting but it persists.",Network Connectivity,VPN Access,Medium
+Please help - Office activation failed. An error message appears.,Software,Licensing,Low
+Unable to work: monitor shows no signal. Started yesterday.,Hardware,Peripherals,Medium
+"Since this morning, license key has expired. Tried restarting but it persists.",Software,Licensing,Medium
+"Hi team, screen keeps flickering on my laptop. Tried restarting but it persists.",Hardware,Laptop,Medium
+Issue: mouse is unresponsive. An error message appears.,Hardware,Peripherals,Low
+Unable to work: printer jams repeatedly. Tried restarting but it persists.,Hardware,Printer,Medium
+Issue: laptop battery drains very fast. An error message appears.,Hardware,Laptop,Medium
+Question: application crashes on launch. An error message appears.,Software,Application Error,Low
+"Whenever possible, license key has expired. Started yesterday.",Software,Licensing,Low
+Issue: cannot print to the floor printer.,Hardware,Printer,Low
+All users affected: request admin rights on my laptop. Started yesterday.,Access,Permissions,Medium
+Cannot print to the floor printer. An error message appears.,Hardware,Printer,Low
+Question: keyboard is not working. An error message appears.,Hardware,Peripherals,Low
+"Hi team, cannot print to the floor printer. Tried restarting but it persists.",Hardware,Printer,Low
+"Hi team, cannot install the latest update. Started yesterday.",Software,Installation,Medium
+"Since this morning, need access to the shared drive.",Access,Permissions,Medium
+Access denied on the SharePoint folder. An error message appears.,Access,Permissions,Low
+"Hi team, no internet access at my desk. An error message appears.",Network Connectivity,LAN / Internet,High
+"Question: unable to connect to VPN, connection timed out. Tried restarting but it persists.",Network Connectivity,VPN Access,Medium
+Not urgent - laptop battery drains very fast. An error message appears.,Hardware,Laptop,Low
+All users affected: error message when opening the CRM. Tried restarting but it persists.,Software,Application Error,High
+"Urgent - unable to connect to VPN, connection timed out. Started yesterday.",Network Connectivity,VPN Access,Critical
+Unable to work: ethernet port is not working. Started yesterday.,Network Connectivity,LAN / Internet,Critical
+Urgent - password reset required. Tried restarting but it persists.,Access,Account,High
+Urgent - software installation error. Started yesterday.,Software,Installation,High
+Unable to work: cannot print to the floor printer.,Hardware,Printer,Medium
+Unable to work: mouse is unresponsive.,Hardware,Peripherals,Medium
+Not urgent - password reset required. Started yesterday.,Access,Account,Low
+"Hi team, access denied on the SharePoint folder.",Access,Permissions,Low
+Issue: screen keeps flickering on my laptop. Tried restarting but it persists.,Hardware,Laptop,Medium
+Question: application crashes on launch.,Software,Application Error,Low
+Minor issue: cannot print to the floor printer. An error message appears.,Hardware,Printer,Low
+"Whenever possible, license key has expired. Tried restarting but it persists.",Software,Licensing,Low
+Issue: keyboard is not working. An error message appears.,Hardware,Peripherals,Low
+Laptop battery drains very fast. Started yesterday.,Hardware,Laptop,Medium
+Urgent - ERP application freezes while saving. An error message appears.,Software,Application Error,High
+Not urgent - office WiFi keeps dropping.,Network Connectivity,WiFi,Low
+Keyboard is not working. Tried restarting but it persists.,Hardware,Peripherals,Low
+Please help - cannot reach the VPN gateway from home. Tried restarting but it persists.,Network Connectivity,VPN Access,High
+Question: office WiFi keeps dropping. Started yesterday.,Network Connectivity,WiFi,Low
+Urgent - Office activation failed. An error message appears.,Software,Licensing,Medium
+My account is locked out. An error message appears.,Access,Account,Medium
+"Whenever possible, laptop battery drains very fast. An error message appears.",Hardware,Laptop,Low
+"Since this morning, error message when opening the CRM.",Software,Application Error,High
+Application crashes on launch. An error message appears.,Software,Application Error,Medium
+Urgent - office WiFi keeps dropping. Started yesterday.,Network Connectivity,WiFi,High
+"Please help - unable to connect to VPN, connection timed out. An error message appears.",Network Connectivity,VPN Access,High
+"Whenever possible, WiFi is very slow on the third floor.",Network Connectivity,WiFi,Low
+Minor issue: request admin rights on my laptop.,Access,Permissions,Low
+"Since this morning, cannot print to the floor printer. An error message appears.",Hardware,Printer,Medium
+Please help - monitor shows no signal.,Hardware,Peripherals,Low
+Minor issue: VPN connection failing on corporate network.,Network Connectivity,VPN Access,Medium
+All users affected: no internet access at my desk.,Network Connectivity,LAN / Internet,Critical
+"Whenever possible, error message when opening the CRM. Tried restarting but it persists.",Software,Application Error,Low
+Minor issue: mouse is unresponsive. Started yesterday.,Hardware,Peripherals,Low
+"Since this morning, keyboard is not working. An error message appears.",Hardware,Peripherals,Medium
+Minor issue: cannot install the latest update. Started yesterday.,Software,Installation,Low
+"Hi team, laptop battery drains very fast. An error message appears.",Hardware,Laptop,Medium
+Urgent - no internet access at my desk.,Network Connectivity,LAN / Internet,Critical
+Need access to the shared drive. Started yesterday.,Access,Permissions,Low
+All users affected: laptop battery drains very fast. Started yesterday.,Hardware,Laptop,High
+Unable to work: cannot print to the floor printer. Started yesterday.,Hardware,Printer,Medium
+Urgent - cannot connect to the guest WiFi.,Network Connectivity,WiFi,High
+Not urgent - request admin rights on my laptop.,Access,Permissions,Low
+Unable to work: forgot my password and cannot log in.,Access,Account,High
+Unable to work: laptop battery drains very fast.,Hardware,Laptop,High
+Need my design software license activated. An error message appears.,Software,Licensing,Low
+"Whenever possible, my account is locked out. Tried restarting but it persists.",Access,Account,Low
+"Hi team, cannot print to the floor printer. An error message appears.",Hardware,Printer,Low
+VPN connection failing on corporate network.,Network Connectivity,VPN Access,High
+"Whenever possible, laptop battery drains very fast. Tried restarting but it persists.",Hardware,Laptop,Low
+Please help - error message when opening the CRM. Tried restarting but it persists.,Software,Application Error,Medium
+Urgent - cannot install the latest update.,Software,Installation,High
+"Whenever possible, printer jams repeatedly.",Hardware,Printer,Low
+"Hi team, error message when opening the CRM. Tried restarting but it persists.",Software,Application Error,Medium
+Office WiFi keeps dropping. Started yesterday.,Network Connectivity,WiFi,Medium
+All users affected: no internet access at my desk. Tried restarting but it persists.,Network Connectivity,LAN / Internet,Critical
+Question: keyboard is not working. Tried restarting but it persists.,Hardware,Peripherals,Low
+Unable to work: license key has expired.,Software,Licensing,Medium
+"Hi team, installer fails with error 1603.",Software,Installation,Medium
+Please help - ethernet port is not working.,Network Connectivity,LAN / Internet,High
+Minor issue: software installation error. Started yesterday.,Software,Installation,Low
+Error message when opening the CRM. Tried restarting but it persists.,Software,Application Error,Medium
+All users affected: VPN connection failing on corporate network. Started yesterday.,Network Connectivity,VPN Access,Critical
+All users affected: ERP application freezes while saving. Tried restarting but it persists.,Software,Application Error,High
+Question: printer jams repeatedly. An error message appears.,Hardware,Printer,Low
+Urgent - request admin rights on my laptop. Tried restarting but it persists.,Access,Permissions,Medium
+All users affected: software installation error. Tried restarting but it persists.,Software,Installation,High
+Please help - keyboard is not working.,Hardware,Peripherals,Low
+"Hi team, the network is down in the whole office.",Network Connectivity,LAN / Internet,High
+"Hi team, request admin rights on my laptop. Tried restarting but it persists.",Access,Permissions,Low
+Urgent - request admin rights on my laptop. An error message appears.,Access,Permissions,Medium
+Unable to work: no internet access at my desk. An error message appears.,Network Connectivity,LAN / Internet,Critical
+Urgent - ethernet port is not working.,Network Connectivity,LAN / Internet,Critical
+"Since this morning, screen keeps flickering on my laptop. An error message appears.",Hardware,Laptop,High
+"Since this morning, application crashes on launch. An error message appears.",Software,Application Error,High
+My account is locked out. Tried restarting but it persists.,Access,Account,Medium
+Minor issue: license key has expired. Started yesterday.,Software,Licensing,Low
+Unable to work: cannot reach the VPN gateway from home. Tried restarting but it persists.,Network Connectivity,VPN Access,Critical
+Issue: screen keeps flickering on my laptop. An error message appears.,Hardware,Laptop,Medium
+Question: printer jams repeatedly. Started yesterday.,Hardware,Printer,Low
+Need access to the shared drive. An error message appears.,Access,Permissions,Low
+Urgent - ERP application freezes while saving.,Software,Application Error,High
+"Since this morning, cannot connect to the guest WiFi. Started yesterday.",Network Connectivity,WiFi,High
+Urgent - access denied on the SharePoint folder. Started yesterday.,Access,Permissions,Medium
+All users affected: ethernet port is not working. Started yesterday.,Network Connectivity,LAN / Internet,Critical
+Not urgent - mouse is unresponsive. Tried restarting but it persists.,Hardware,Peripherals,Low
+Unable to work: printer not responding. Started yesterday.,Hardware,Printer,Medium
+Please help - laptop battery drains very fast.,Hardware,Laptop,Medium
+Minor issue: my account is locked out. An error message appears.,Access,Account,Low
+"Whenever possible, keyboard is not working.",Hardware,Peripherals,Low
+"Since this morning, Office activation failed. Tried restarting but it persists.",Software,Licensing,Medium
+Issue: keyboard is not working. Started yesterday.,Hardware,Peripherals,Low
+All users affected: printer not responding. Started yesterday.,Hardware,Printer,Medium
+Question: office WiFi keeps dropping. Tried restarting but it persists.,Network Connectivity,WiFi,Low
+Issue: need access to the shared drive. Started yesterday.,Access,Permissions,Low
+Issue: software installation error. Tried restarting but it persists.,Software,Installation,Medium
+Issue: software installation error.,Software,Installation,Medium
+Please help - need access to the shared drive. Started yesterday.,Access,Permissions,Low
+All users affected: request admin rights on my laptop. Tried restarting but it persists.,Access,Permissions,Medium
+"Since this morning, request admin rights on my laptop.",Access,Permissions,Medium
+Please help - VPN connection failing on corporate network. Started yesterday.,Network Connectivity,VPN Access,High
+"Hi team, error message when opening the CRM. Started yesterday.",Software,Application Error,Medium
+Please help - cannot install the latest update. Started yesterday.,Software,Installation,Medium
+"Hi team, access denied on the SharePoint folder. Tried restarting but it persists.",Access,Permissions,Low
+"Hi team, forgot my password and cannot log in. Tried restarting but it persists.",Access,Account,Medium
+"Since this morning, printer not responding. Tried restarting but it persists.",Hardware,Printer,Medium
+"Hi team, WiFi is very slow on the third floor. Tried restarting but it persists.",Network Connectivity,WiFi,Medium
+"Since this morning, access denied on the SharePoint folder. Started yesterday.",Access,Permissions,Medium
+"Whenever possible, password reset required. Tried restarting but it persists.",Access,Account,Low
+Issue: ERP application freezes while saving. Started yesterday.,Software,Application Error,Medium
+Question: need my design software license activated. Started yesterday.,Software,Licensing,Low
+Not urgent - laptop will not boot. Tried restarting but it persists.,Hardware,Laptop,Low
+"Hi team, VPN client keeps disconnecting.",Network Connectivity,VPN Access,High
+Please help - software installation error.,Software,Installation,Medium
+"Whenever possible, office WiFi keeps dropping. An error message appears.",Network Connectivity,WiFi,Low
+Minor issue: license key has expired. Tried restarting but it persists.,Software,Licensing,Low
+All users affected: VPN client keeps disconnecting. An error message appears.,Network Connectivity,VPN Access,Critical
+Not urgent - screen keeps flickering on my laptop. Started yesterday.,Hardware,Laptop,Low
+Minor issue: application crashes on launch. An error message appears.,Software,Application Error,Low
+Please help - need my design software license activated. Tried restarting but it persists.,Software,Licensing,Low
+Unable to work: Office activation failed. Tried restarting but it persists.,Software,Licensing,Medium
+Office activation failed. Started yesterday.,Software,Licensing,Low
+Not urgent - installer fails with error 1603. Tried restarting but it persists.,Software,Installation,Low
+Not urgent - no internet access at my desk. Started yesterday.,Network Connectivity,LAN / Internet,Medium
+Minor issue: WiFi is very slow on the third floor. Started yesterday.,Network Connectivity,WiFi,Low
+Please help - license key has expired.,Software,Licensing,Low
+Issue: no internet access at my desk. An error message appears.,Network Connectivity,LAN / Internet,High
+Question: screen keeps flickering on my laptop. An error message appears.,Hardware,Laptop,Low
+Software installation error.,Software,Installation,Medium
+Urgent - printer not responding. Started yesterday.,Hardware,Printer,Medium
+Please help - installer fails with error 1603. An error message appears.,Software,Installation,Medium
+"Whenever possible, ERP application freezes while saving.",Software,Application Error,Low
+Unable to work: forgot my password and cannot log in. Tried restarting but it persists.,Access,Account,High
+Minor issue: forgot my password and cannot log in.,Access,Account,Low
+"Whenever possible, cannot install the latest update. Tried restarting but it persists.",Software,Installation,Low
+Question: request admin rights on my laptop. Tried restarting but it persists.,Access,Permissions,Low
+"Hi team, keyboard is not working.",Hardware,Peripherals,Low
+Monitor shows no signal. An error message appears.,Hardware,Peripherals,Low
+Issue: laptop will not boot. Tried restarting but it persists.,Hardware,Laptop,Medium
+Unable to work: keyboard is not working. Tried restarting but it persists.,Hardware,Peripherals,Medium
+Urgent - printer jams repeatedly. Tried restarting but it persists.,Hardware,Printer,Medium
+"Question: unable to connect to VPN, connection timed out. Started yesterday.",Network Connectivity,VPN Access,Medium
+Not urgent - VPN client keeps disconnecting. An error message appears.,Network Connectivity,VPN Access,Medium
+Issue: access denied on the SharePoint folder. Started yesterday.,Access,Permissions,Low
+"Since this morning, access denied on the SharePoint folder. Tried restarting but it persists.",Access,Permissions,Medium
+Minor issue: mouse is unresponsive. An error message appears.,Hardware,Peripherals,Low
+Issue: printer jams repeatedly. An error message appears.,Hardware,Printer,Low
+"Whenever possible, installer fails with error 1603.",Software,Installation,Low
+Screen keeps flickering on my laptop.,Hardware,Laptop,Medium
+Urgent - Office activation failed.,Software,Licensing,Medium
+Question: mouse is unresponsive. Tried restarting but it persists.,Hardware,Peripherals,Low
+"Unable to connect to VPN, connection timed out. Started yesterday.",Network Connectivity,VPN Access,High
+Minor issue: WiFi is very slow on the third floor.,Network Connectivity,WiFi,Low
+Minor issue: ERP application freezes while saving.,Software,Application Error,Low
+"Since this morning, ethernet port is not working.",Network Connectivity,LAN / Internet,Critical
+Question: installer fails with error 1603. Tried restarting but it persists.,Software,Installation,Low
+Ethernet port is not working.,Network Connectivity,LAN / Internet,High
+Please help - printer jams repeatedly. Tried restarting but it persists.,Hardware,Printer,Low
+"Hi team, printer not responding. Started yesterday.",Hardware,Printer,Low
+All users affected: application crashes on launch. Started yesterday.,Software,Application Error,High
+Minor issue: laptop battery drains very fast.,Hardware,Laptop,Low
+Urgent - WiFi is very slow on the third floor. Tried restarting but it persists.,Network Connectivity,WiFi,High
+All users affected: Office activation failed.,Software,Licensing,Medium
+Not urgent - license key has expired. Started yesterday.,Software,Licensing,Low
+All users affected: password reset required.,Access,Account,High
+"Whenever possible, application crashes on launch. Tried restarting but it persists.",Software,Application Error,Low
+"Whenever possible, printer not responding. Tried restarting but it persists.",Hardware,Printer,Low
+Issue: installer fails with error 1603. Tried restarting but it persists.,Software,Installation,Medium
+Please help - laptop battery drains very fast. Started yesterday.,Hardware,Laptop,Medium
+Please help - cannot reach the VPN gateway from home. Started yesterday.,Network Connectivity,VPN Access,High
+The network is down in the whole office. Started yesterday.,Network Connectivity,LAN / Internet,High
+"Hi team, laptop will not boot.",Hardware,Laptop,Medium
+"Hi team, keyboard is not working. An error message appears.",Hardware,Peripherals,Low
+"Hi team, need access to the shared drive. Tried restarting but it persists.",Access,Permissions,Low
+"Whenever possible, VPN client keeps disconnecting. An error message appears.",Network Connectivity,VPN Access,Medium
+"Whenever possible, need access to the shared drive. An error message appears.",Access,Permissions,Low
+"Whenever possible, unable to connect to VPN, connection timed out. Started yesterday.",Network Connectivity,VPN Access,Medium
+Question: request admin rights on my laptop. An error message appears.,Access,Permissions,Low
+Question: my account is locked out.,Access,Account,Low
+Minor issue: ethernet port is not working.,Network Connectivity,LAN / Internet,Medium
+"Since this morning, WiFi is very slow on the third floor. Started yesterday.",Network Connectivity,WiFi,High
+Minor issue: cannot connect to the guest WiFi. An error message appears.,Network Connectivity,WiFi,Low
+"Issue: unable to connect to VPN, connection timed out. Tried restarting but it persists.",Network Connectivity,VPN Access,High
+Question: Office activation failed. Tried restarting but it persists.,Software,Licensing,Low
+Minor issue: laptop will not boot. An error message appears.,Hardware,Laptop,Low
+Issue: VPN connection failing on corporate network.,Network Connectivity,VPN Access,High
+Minor issue: office WiFi keeps dropping. Started yesterday.,Network Connectivity,WiFi,Low
+All users affected: VPN client keeps disconnecting. Started yesterday.,Network Connectivity,VPN Access,Critical
+"Since this morning, forgot my password and cannot log in.",Access,Account,High
+Minor issue: error message when opening the CRM. Tried restarting but it persists.,Software,Application Error,Low
+Unable to work: screen keeps flickering on my laptop.,Hardware,Laptop,High
+Please help - access denied on the SharePoint folder. Started yesterday.,Access,Permissions,Low
+Not urgent - printer not responding. Tried restarting but it persists.,Hardware,Printer,Low
+License key has expired.,Software,Licensing,Low
+Urgent - access denied on the SharePoint folder. An error message appears.,Access,Permissions,Medium
+All users affected: my account is locked out. Tried restarting but it persists.,Access,Account,High
+Issue: VPN client keeps disconnecting.,Network Connectivity,VPN Access,High
+All users affected: need my design software license activated. Tried restarting but it persists.,Software,Licensing,Medium
+Minor issue: screen keeps flickering on my laptop.,Hardware,Laptop,Low
+Urgent - application crashes on launch. An error message appears.,Software,Application Error,High
+"Since this morning, cannot print to the floor printer. Tried restarting but it persists.",Hardware,Printer,Medium
+"Since this morning, installer fails with error 1603.",Software,Installation,High
+VPN connection failing on corporate network. Started yesterday.,Network Connectivity,VPN Access,High
+Unable to work: access denied on the SharePoint folder. Started yesterday.,Access,Permissions,Medium
+"Hi team, VPN client keeps disconnecting. Tried restarting but it persists.",Network Connectivity,VPN Access,High
+All users affected: need access to the shared drive. Tried restarting but it persists.,Access,Permissions,Medium
+Unable to work: Office activation failed.,Software,Licensing,Medium
+"Hi team, license key has expired. Started yesterday.",Software,Licensing,Low
+"Whenever possible, VPN connection failing on corporate network. An error message appears.",Network Connectivity,VPN Access,Medium
+"Since this morning, cannot reach the VPN gateway from home. Tried restarting but it persists.",Network Connectivity,VPN Access,Critical
+"Since this morning, cannot install the latest update. Tried restarting but it persists.",Software,Installation,High
+"Whenever possible, cannot connect to the guest WiFi. Started yesterday.",Network Connectivity,WiFi,Low
+Not urgent - monitor shows no signal. Tried restarting but it persists.,Hardware,Peripherals,Low
+"Since this morning, VPN connection failing on corporate network. Started yesterday.",Network Connectivity,VPN Access,Critical
+All users affected: error message when opening the CRM. An error message appears.,Software,Application Error,High
+Minor issue: forgot my password and cannot log in. Tried restarting but it persists.,Access,Account,Low
+Unable to work: forgot my password and cannot log in. An error message appears.,Access,Account,High
+Urgent - the network is down in the whole office. Tried restarting but it persists.,Network Connectivity,LAN / Internet,Critical
+Please help - access denied on the SharePoint folder. An error message appears.,Access,Permissions,Low
+Unable to work: error message when opening the CRM. Started yesterday.,Software,Application Error,High
+"Hi team, license key has expired.",Software,Licensing,Low
+Urgent - mouse is unresponsive. An error message appears.,Hardware,Peripherals,Medium
+Minor issue: monitor shows no signal. Tried restarting but it persists.,Hardware,Peripherals,Low
+Not urgent - mouse is unresponsive. An error message appears.,Hardware,Peripherals,Low
+Not urgent - printer jams repeatedly. Tried restarting but it persists.,Hardware,Printer,Low
+"Since this morning, VPN client keeps disconnecting.",Network Connectivity,VPN Access,Critical
+Unable to work: need access to the shared drive. An error message appears.,Access,Permissions,Medium
+All users affected: mouse is unresponsive.,Hardware,Peripherals,Medium
+"Since this morning, ERP application freezes while saving. An error message appears.",Software,Application Error,High
+Issue: laptop battery drains very fast.,Hardware,Laptop,Medium
+Please help - ethernet port is not working. An error message appears.,Network Connectivity,LAN / Internet,High
+VPN connection failing on corporate network. Tried restarting but it persists.,Network Connectivity,VPN Access,High
+Not urgent - request admin rights on my laptop. An error message appears.,Access,Permissions,Low
+"Hi team, access denied on the SharePoint folder. An error message appears.",Access,Permissions,Low
+Unable to work: application crashes on launch.,Software,Application Error,High
+Unable to work: VPN connection failing on corporate network. Tried restarting but it persists.,Network Connectivity,VPN Access,Critical
+Please help - license key has expired. An error message appears.,Software,Licensing,Low
+Minor issue: cannot install the latest update. An error message appears.,Software,Installation,Low
+Need access to the shared drive.,Access,Permissions,Low
+Unable to work: the network is down in the whole office. An error message appears.,Network Connectivity,LAN / Internet,Critical
+Not urgent - printer jams repeatedly. An error message appears.,Hardware,Printer,Low
+Issue: WiFi is very slow on the third floor. Started yesterday.,Network Connectivity,WiFi,Medium
+Unable to work: my account is locked out. Started yesterday.,Access,Account,High
+"Since this morning, the network is down in the whole office. Tried restarting but it persists.",Network Connectivity,LAN / Internet,Critical
+Urgent - no internet access at my desk. Tried restarting but it persists.,Network Connectivity,LAN / Internet,Critical
+"Whenever possible, access denied on the SharePoint folder. Started yesterday.",Access,Permissions,Low
+Cannot reach the VPN gateway from home.,Network Connectivity,VPN Access,High
+Minor issue: cannot install the latest update. Tried restarting but it persists.,Software,Installation,Low
+Urgent - access denied on the SharePoint folder. Tried restarting but it persists.,Access,Permissions,Medium
+VPN client keeps disconnecting.,Network Connectivity,VPN Access,High
+Unable to work: ERP application freezes while saving. Tried restarting but it persists.,Software,Application Error,High
+Issue: forgot my password and cannot log in. Tried restarting but it persists.,Access,Account,Medium
+Minor issue: monitor shows no signal. An error message appears.,Hardware,Peripherals,Low
+Unable to work: office WiFi keeps dropping.,Network Connectivity,WiFi,High
+Please help - need my design software license activated. Started yesterday.,Software,Licensing,Low
+"Hi team, printer not responding. An error message appears.",Hardware,Printer,Low
+Unable to work: printer not responding. An error message appears.,Hardware,Printer,Medium
+All users affected: software installation error.,Software,Installation,High
+Not urgent - office WiFi keeps dropping. An error message appears.,Network Connectivity,WiFi,Low
+Issue: monitor shows no signal. Started yesterday.,Hardware,Peripherals,Low
+Unable to work: ethernet port is not working. Tried restarting but it persists.,Network Connectivity,LAN / Internet,Critical
+Not urgent - cannot connect to the guest WiFi. Tried restarting but it persists.,Network Connectivity,WiFi,Low
+"Whenever possible, cannot reach the VPN gateway from home. An error message appears.",Network Connectivity,VPN Access,Medium
+"Since this morning, office WiFi keeps dropping. Tried restarting but it persists.",Network Connectivity,WiFi,High
+"Hi team, error message when opening the CRM.",Software,Application Error,Medium
+"Since this morning, laptop battery drains very fast. Tried restarting but it persists.",Hardware,Laptop,High
+All users affected: printer jams repeatedly. Started yesterday.,Hardware,Printer,Medium
+VPN connection failing on corporate network. An error message appears.,Network Connectivity,VPN Access,High
+"Whenever possible, ERP application freezes while saving. Started yesterday.",Software,Application Error,Low
+Urgent - no internet access at my desk. Started yesterday.,Network Connectivity,LAN / Internet,Critical
+Unable to work: need my design software license activated. Started yesterday.,Software,Licensing,Medium
+Minor issue: no internet access at my desk.,Network Connectivity,LAN / Internet,Medium
+Minor issue: need my design software license activated. Started yesterday.,Software,Licensing,Low
+"Hi team, monitor shows no signal.",Hardware,Peripherals,Low
+"Hi team, cannot reach the VPN gateway from home. Started yesterday.",Network Connectivity,VPN Access,High
+Issue: need access to the shared drive.,Access,Permissions,Low
+Minor issue: my account is locked out. Started yesterday.,Access,Account,Low
+All users affected: monitor shows no signal. An error message appears.,Hardware,Peripherals,Medium
+Urgent - error message when opening the CRM. Tried restarting but it persists.,Software,Application Error,High
+"Since this morning, monitor shows no signal. An error message appears.",Hardware,Peripherals,Medium
+Issue: need my design software license activated. An error message appears.,Software,Licensing,Low
+Urgent - cannot print to the floor printer. An error message appears.,Hardware,Printer,Medium
+Question: password reset required. An error message appears.,Access,Account,Low
+Password reset required. Tried restarting but it persists.,Access,Account,Medium
+Question: license key has expired. An error message appears.,Software,Licensing,Low
+Please help - forgot my password and cannot log in. Tried restarting but it persists.,Access,Account,Medium
+Unable to work: software installation error. Started yesterday.,Software,Installation,High
+All users affected: cannot reach the VPN gateway from home.,Network Connectivity,VPN Access,Critical
+Mouse is unresponsive. Tried restarting but it persists.,Hardware,Peripherals,Low
+Urgent - the network is down in the whole office. Started yesterday.,Network Connectivity,LAN / Internet,Critical
+Not urgent - ERP application freezes while saving. Tried restarting but it persists.,Software,Application Error,Low
+Cannot connect to the guest WiFi. Started yesterday.,Network Connectivity,WiFi,Medium
+The network is down in the whole office.,Network Connectivity,LAN / Internet,High
+"Hi team, cannot install the latest update. Tried restarting but it persists.",Software,Installation,Medium
+Unable to work: password reset required. An error message appears.,Access,Account,High
+Urgent - password reset required.,Access,Account,High
+"Since this morning, monitor shows no signal. Started yesterday.",Hardware,Peripherals,Medium
+All users affected: VPN connection failing on corporate network.,Network Connectivity,VPN Access,Critical
+Urgent - VPN client keeps disconnecting. Started yesterday.,Network Connectivity,VPN Access,Critical
+Office activation failed.,Software,Licensing,Low
+Question: cannot install the latest update. Tried restarting but it persists.,Software,Installation,Low
+Issue: access denied on the SharePoint folder.,Access,Permissions,Low
+Question: Office activation failed. An error message appears.,Software,Licensing,Low
+Question: office WiFi keeps dropping.,Network Connectivity,WiFi,Low
+Urgent - password reset required. Started yesterday.,Access,Account,High
+Not urgent - mouse is unresponsive. Started yesterday.,Hardware,Peripherals,Low
+Minor issue: access denied on the SharePoint folder. Tried restarting but it persists.,Access,Permissions,Low
+Unable to work: VPN connection failing on corporate network. An error message appears.,Network Connectivity,VPN Access,Critical
+"Issue: unable to connect to VPN, connection timed out. An error message appears.",Network Connectivity,VPN Access,High
+"Since this morning, access denied on the SharePoint folder. An error message appears.",Access,Permissions,Medium
+Request admin rights on my laptop. Started yesterday.,Access,Permissions,Low
+Question: request admin rights on my laptop. Started yesterday.,Access,Permissions,Low
+"Unable to work: unable to connect to VPN, connection timed out. Started yesterday.",Network Connectivity,VPN Access,Critical
+All users affected: ERP application freezes while saving.,Software,Application Error,High
+Not urgent - cannot reach the VPN gateway from home. Started yesterday.,Network Connectivity,VPN Access,Medium
+"Hi team, cannot print to the floor printer. Started yesterday.",Hardware,Printer,Low
+Issue: printer jams repeatedly.,Hardware,Printer,Low
+Minor issue: Office activation failed.,Software,Licensing,Low
+Issue: cannot connect to the guest WiFi. Started yesterday.,Network Connectivity,WiFi,Medium
+Not urgent - installer fails with error 1603. An error message appears.,Software,Installation,Low
+Minor issue: screen keeps flickering on my laptop. An error message appears.,Hardware,Laptop,Low
+"Whenever possible, Office activation failed. Tried restarting but it persists.",Software,Licensing,Low
+Please help - keyboard is not working. Started yesterday.,Hardware,Peripherals,Low
+Not urgent - cannot print to the floor printer.,Hardware,Printer,Low
+"Since this morning, mouse is unresponsive. Tried restarting but it persists.",Hardware,Peripherals,Medium
+Unable to work: cannot install the latest update. Started yesterday.,Software,Installation,High
+Urgent - access denied on the SharePoint folder.,Access,Permissions,Medium
+"Hi team, password reset required. Tried restarting but it persists.",Access,Account,Medium
+Issue: need my design software license activated. Started yesterday.,Software,Licensing,Low
+Question: the network is down in the whole office. An error message appears.,Network Connectivity,LAN / Internet,Medium
+Cannot reach the VPN gateway from home. An error message appears.,Network Connectivity,VPN Access,High
+Unable to work: access denied on the SharePoint folder. Tried restarting but it persists.,Access,Permissions,Medium
+Question: laptop battery drains very fast. An error message appears.,Hardware,Laptop,Low
+Not urgent - the network is down in the whole office. Tried restarting but it persists.,Network Connectivity,LAN / Internet,Medium
+"Hi team, software installation error. An error message appears.",Software,Installation,Medium
+Issue: laptop will not boot. An error message appears.,Hardware,Laptop,Medium
+Minor issue: application crashes on launch. Started yesterday.,Software,Application Error,Low
+Minor issue: printer jams repeatedly.,Hardware,Printer,Low
+Question: ERP application freezes while saving. Started yesterday.,Software,Application Error,Low
+Please help - printer not responding. Started yesterday.,Hardware,Printer,Low
+"Since this morning, password reset required. An error message appears.",Access,Account,High
+"Hi team, Office activation failed. Started yesterday.",Software,Licensing,Low
+Screen keeps flickering on my laptop. Tried restarting but it persists.,Hardware,Laptop,Medium
+Urgent - my account is locked out.,Access,Account,High
+All users affected: error message when opening the CRM.,Software,Application Error,High
+"Since this morning, cannot reach the VPN gateway from home. An error message appears.",Network Connectivity,VPN Access,Critical
+All users affected: installer fails with error 1603.,Software,Installation,High
+Please help - no internet access at my desk.,Network Connectivity,LAN / Internet,High
+Keyboard is not working. An error message appears.,Hardware,Peripherals,Low
+Please help - ERP application freezes while saving. An error message appears.,Software,Application Error,Medium
+Please help - need access to the shared drive. An error message appears.,Access,Permissions,Low
+All users affected: cannot connect to the guest WiFi. Tried restarting but it persists.,Network Connectivity,WiFi,High
+Please help - mouse is unresponsive.,Hardware,Peripherals,Low
+Not urgent - license key has expired. An error message appears.,Software,Licensing,Low
+Not urgent - printer not responding. An error message appears.,Hardware,Printer,Low
+Unable to work: cannot print to the floor printer. An error message appears.,Hardware,Printer,Medium
+"Since this morning, mouse is unresponsive.",Hardware,Peripherals,Medium
+"Whenever possible, VPN connection failing on corporate network. Tried restarting but it persists.",Network Connectivity,VPN Access,Medium
+Question: mouse is unresponsive. Started yesterday.,Hardware,Peripherals,Low
+Unable to work: password reset required. Tried restarting but it persists.,Access,Account,High
+"Since this morning, cannot print to the floor printer. Started yesterday.",Hardware,Printer,Medium
+All users affected: cannot print to the floor printer. An error message appears.,Hardware,Printer,Medium
+"Hi team, request admin rights on my laptop.",Access,Permissions,Low
+Issue: VPN client keeps disconnecting. Tried restarting but it persists.,Network Connectivity,VPN Access,High
+Unable to work: ethernet port is not working. An error message appears.,Network Connectivity,LAN / Internet,Critical
+Not urgent - VPN connection failing on corporate network.,Network Connectivity,VPN Access,Medium
+Urgent - ethernet port is not working. Tried restarting but it persists.,Network Connectivity,LAN / Internet,Critical
+Not urgent - Office activation failed.,Software,Licensing,Low
+Request admin rights on my laptop. Tried restarting but it persists.,Access,Permissions,Low
+Unable to work: VPN client keeps disconnecting. Started yesterday.,Network Connectivity,VPN Access,Critical
+VPN client keeps disconnecting. An error message appears.,Network Connectivity,VPN Access,High
+Issue: my account is locked out.,Access,Account,Medium
+Question: cannot print to the floor printer. An error message appears.,Hardware,Printer,Low
+Software installation error. Started yesterday.,Software,Installation,Medium
+Issue: cannot print to the floor printer. Tried restarting but it persists.,Hardware,Printer,Low
+"All users affected: unable to connect to VPN, connection timed out. Started yesterday.",Network Connectivity,VPN Access,Critical
+"Hi team, cannot connect to the guest WiFi. An error message appears.",Network Connectivity,WiFi,Medium
+Please help - cannot connect to the guest WiFi.,Network Connectivity,WiFi,Medium
+"Since this morning, office WiFi keeps dropping. An error message appears.",Network Connectivity,WiFi,High
+Minor issue: access denied on the SharePoint folder.,Access,Permissions,Low
+VPN client keeps disconnecting. Started yesterday.,Network Connectivity,VPN Access,High
+Issue: ERP application freezes while saving.,Software,Application Error,Medium
+Please help - no internet access at my desk. Started yesterday.,Network Connectivity,LAN / Internet,High
+Question: forgot my password and cannot log in. An error message appears.,Access,Account,Low
+Not urgent - error message when opening the CRM. Tried restarting but it persists.,Software,Application Error,Low
+Question: mouse is unresponsive.,Hardware,Peripherals,Low
+Urgent - mouse is unresponsive.,Hardware,Peripherals,Medium
+Please help - screen keeps flickering on my laptop.,Hardware,Laptop,Medium
+Cannot connect to the guest WiFi. Tried restarting but it persists.,Network Connectivity,WiFi,Medium
+"Whenever possible, cannot install the latest update. Started yesterday.",Software,Installation,Low
+Password reset required.,Access,Account,Medium
+Issue: printer not responding. Tried restarting but it persists.,Hardware,Printer,Low
+Urgent - need my design software license activated. An error message appears.,Software,Licensing,Medium
+Urgent - need access to the shared drive. Started yesterday.,Access,Permissions,Medium
+"Whenever possible, printer not responding. An error message appears.",Hardware,Printer,Low
+All users affected: printer not responding. An error message appears.,Hardware,Printer,Medium
+Issue: screen keeps flickering on my laptop. Started yesterday.,Hardware,Laptop,Medium
+Question: office WiFi keeps dropping. An error message appears.,Network Connectivity,WiFi,Low
+All users affected: cannot install the latest update. Tried restarting but it persists.,Software,Installation,High
+Question: software installation error. Started yesterday.,Software,Installation,Low
+Issue: WiFi is very slow on the third floor. Tried restarting but it persists.,Network Connectivity,WiFi,Medium
+Please help - monitor shows no signal. An error message appears.,Hardware,Peripherals,Low
+All users affected: keyboard is not working. An error message appears.,Hardware,Peripherals,Medium
+"Whenever possible, software installation error. Tried restarting but it persists.",Software,Installation,Low
+Not urgent - VPN connection failing on corporate network. Started yesterday.,Network Connectivity,VPN Access,Medium
+Need my design software license activated. Tried restarting but it persists.,Software,Licensing,Low
+"Whenever possible, WiFi is very slow on the third floor. An error message appears.",Network Connectivity,WiFi,Low
+Unable to work: laptop will not boot.,Hardware,Laptop,High
+Unable to work: WiFi is very slow on the third floor.,Network Connectivity,WiFi,High
+All users affected: forgot my password and cannot log in.,Access,Account,High
+Not urgent - error message when opening the CRM. An error message appears.,Software,Application Error,Low
+Please help - the network is down in the whole office. Started yesterday.,Network Connectivity,LAN / Internet,High
+Printer not responding.,Hardware,Printer,Low
+Minor issue: VPN connection failing on corporate network. Tried restarting but it persists.,Network Connectivity,VPN Access,Medium
+Minor issue: software installation error. An error message appears.,Software,Installation,Low
+Urgent - VPN client keeps disconnecting. An error message appears.,Network Connectivity,VPN Access,Critical
+"Hi team, software installation error. Started yesterday.",Software,Installation,Medium
+Urgent - office WiFi keeps dropping. Tried restarting but it persists.,Network Connectivity,WiFi,High
+Question: installer fails with error 1603. An error message appears.,Software,Installation,Low
+"Hi team, printer jams repeatedly. Tried restarting but it persists.",Hardware,Printer,Low
+"Hi team, cannot reach the VPN gateway from home. Tried restarting but it persists.",Network Connectivity,VPN Access,High
+Issue: the network is down in the whole office. An error message appears.,Network Connectivity,LAN / Internet,High
+Urgent - monitor shows no signal. Tried restarting but it persists.,Hardware,Peripherals,Medium
+Please help - request admin rights on my laptop. An error message appears.,Access,Permissions,Low
+Question: my account is locked out. Started yesterday.,Access,Account,Low
+"Whenever possible, license key has expired. An error message appears.",Software,Licensing,Low
+Installer fails with error 1603.,Software,Installation,Medium
+All users affected: license key has expired.,Software,Licensing,Medium
+All users affected: office WiFi keeps dropping. Tried restarting but it persists.,Network Connectivity,WiFi,High
+Printer jams repeatedly. Started yesterday.,Hardware,Printer,Low
+Not urgent - error message when opening the CRM.,Software,Application Error,Low
+"Since this morning, Office activation failed. Started yesterday.",Software,Licensing,Medium
+Urgent - laptop will not boot. Started yesterday.,Hardware,Laptop,High
+Minor issue: cannot connect to the guest WiFi.,Network Connectivity,WiFi,Low
+WiFi is very slow on the third floor. An error message appears.,Network Connectivity,WiFi,Medium
+"Hi team, VPN connection failing on corporate network. An error message appears.",Network Connectivity,VPN Access,High
+"Hi team, need my design software license activated.",Software,Licensing,Low
+All users affected: access denied on the SharePoint folder.,Access,Permissions,Medium
+Please help - laptop battery drains very fast. Tried restarting but it persists.,Hardware,Laptop,Medium
+Question: Office activation failed. Started yesterday.,Software,Licensing,Low
+Not urgent - laptop battery drains very fast. Tried restarting but it persists.,Hardware,Laptop,Low
+"Since this morning, screen keeps flickering on my laptop.",Hardware,Laptop,High
+Urgent - keyboard is not working. An error message appears.,Hardware,Peripherals,Medium
+Not urgent - cannot connect to the guest WiFi. An error message appears.,Network Connectivity,WiFi,Low
+"Whenever possible, software installation error. Started yesterday.",Software,Installation,Low
+Please help - request admin rights on my laptop. Tried restarting but it persists.,Access,Permissions,Low
+Unable to work: no internet access at my desk. Started yesterday.,Network Connectivity,LAN / Internet,Critical
+"Since this morning, office WiFi keeps dropping.",Network Connectivity,WiFi,High
+All users affected: printer jams repeatedly. Tried restarting but it persists.,Hardware,Printer,Medium
+"Since this morning, the network is down in the whole office. Started yesterday.",Network Connectivity,LAN / Internet,Critical
+Question: cannot install the latest update. An error message appears.,Software,Installation,Low
+Minor issue: keyboard is not working. Tried restarting but it persists.,Hardware,Peripherals,Low
+Please help - monitor shows no signal. Started yesterday.,Hardware,Peripherals,Low
+Question: printer not responding. Tried restarting but it persists.,Hardware,Printer,Low
+"Hi team, application crashes on launch.",Software,Application Error,Medium
+"Hi team, printer jams repeatedly.",Hardware,Printer,Low
+"Whenever possible, office WiFi keeps dropping.",Network Connectivity,WiFi,Low
+Question: password reset required. Tried restarting but it persists.,Access,Account,Low
+"Whenever possible, need my design software license activated. An error message appears.",Software,Licensing,Low
+"Hi team, my account is locked out. Started yesterday.",Access,Account,Medium
+Unable to work: cannot reach the VPN gateway from home. An error message appears.,Network Connectivity,VPN Access,Critical
+"Hi team, cannot connect to the guest WiFi. Tried restarting but it persists.",Network Connectivity,WiFi,Medium
+"Hi team, application crashes on launch. An error message appears.",Software,Application Error,Medium
+All users affected: password reset required. Started yesterday.,Access,Account,High
+"Hi team, printer jams repeatedly. An error message appears.",Hardware,Printer,Low
+Not urgent - screen keeps flickering on my laptop. Tried restarting but it persists.,Hardware,Laptop,Low
+Minor issue: error message when opening the CRM. An error message appears.,Software,Application Error,Low
+Unable to work: keyboard is not working.,Hardware,Peripherals,Medium
+"Whenever possible, cannot print to the floor printer. Started yesterday.",Hardware,Printer,Low
+All users affected: installer fails with error 1603. An error message appears.,Software,Installation,High
+Minor issue: monitor shows no signal. Started yesterday.,Hardware,Peripherals,Low
+Please help - the network is down in the whole office.,Network Connectivity,LAN / Internet,High
+Urgent - installer fails with error 1603. An error message appears.,Software,Installation,High
+All users affected: laptop battery drains very fast. Tried restarting but it persists.,Hardware,Laptop,High
+"Hi team, license key has expired. Tried restarting but it persists.",Software,Licensing,Low
+All users affected: cannot reach the VPN gateway from home. Tried restarting but it persists.,Network Connectivity,VPN Access,Critical
+Unable to work: application crashes on launch. Tried restarting but it persists.,Software,Application Error,High
+Please help - cannot print to the floor printer.,Hardware,Printer,Low
+"Whenever possible, my account is locked out. An error message appears.",Access,Account,Low
+All users affected: keyboard is not working. Started yesterday.,Hardware,Peripherals,Medium
+Please help - password reset required.,Access,Account,Medium
+Urgent - Office activation failed. Tried restarting but it persists.,Software,Licensing,Medium
+Question: no internet access at my desk. Started yesterday.,Network Connectivity,LAN / Internet,Medium
+Not urgent - software installation error. An error message appears.,Software,Installation,Low
+Question: ERP application freezes while saving. An error message appears.,Software,Application Error,Low
+Minor issue: screen keeps flickering on my laptop. Tried restarting but it persists.,Hardware,Laptop,Low
+All users affected: printer jams repeatedly. An error message appears.,Hardware,Printer,Medium
+"Hi team, license key has expired. An error message appears.",Software,Licensing,Low
+Installer fails with error 1603. An error message appears.,Software,Installation,Medium
+Cannot reach the VPN gateway from home. Started yesterday.,Network Connectivity,VPN Access,High
+Printer jams repeatedly. An error message appears.,Hardware,Printer,Low
+Request admin rights on my laptop. An error message appears.,Access,Permissions,Low
+Minor issue: printer not responding.,Hardware,Printer,Low
+"Whenever possible, need my design software license activated. Tried restarting but it persists.",Software,Licensing,Low
+"Hi team, laptop will not boot. Started yesterday.",Hardware,Laptop,Medium
+Question: forgot my password and cannot log in. Tried restarting but it persists.,Access,Account,Low
+Unable to work: WiFi is very slow on the third floor. Tried restarting but it persists.,Network Connectivity,WiFi,High
+Issue: error message when opening the CRM. Started yesterday.,Software,Application Error,Medium
+Urgent - forgot my password and cannot log in. Started yesterday.,Access,Account,High
+"Hi team, password reset required.",Access,Account,Medium
+Urgent - license key has expired.,Software,Licensing,Medium
+All users affected: monitor shows no signal. Started yesterday.,Hardware,Peripherals,Medium
+"Hi team, my account is locked out. Tried restarting but it persists.",Access,Account,Medium
+Minor issue: the network is down in the whole office. An error message appears.,Network Connectivity,LAN / Internet,Medium
+Please help - application crashes on launch. An error message appears.,Software,Application Error,Medium
+Minor issue: no internet access at my desk. Tried restarting but it persists.,Network Connectivity,LAN / Internet,Medium
+Minor issue: screen keeps flickering on my laptop. Started yesterday.,Hardware,Laptop,Low
+"Whenever possible, password reset required.",Access,Account,Low
+Urgent - monitor shows no signal.,Hardware,Peripherals,Medium
+Printer not responding. Tried restarting but it persists.,Hardware,Printer,Low
+Unable to work: monitor shows no signal.,Hardware,Peripherals,Medium
+"Whenever possible, installer fails with error 1603. Tried restarting but it persists.",Software,Installation,Low
+"Issue: unable to connect to VPN, connection timed out.",Network Connectivity,VPN Access,High
+"Urgent - unable to connect to VPN, connection timed out.",Network Connectivity,VPN Access,Critical
+Not urgent - forgot my password and cannot log in. Started yesterday.,Access,Account,Low
+Urgent - my account is locked out. Tried restarting but it persists.,Access,Account,High
+Not urgent - monitor shows no signal.,Hardware,Peripherals,Low
+ERP application freezes while saving. An error message appears.,Software,Application Error,Medium
+"Whenever possible, mouse is unresponsive.",Hardware,Peripherals,Low
+Unable to work: application crashes on launch. An error message appears.,Software,Application Error,High
+Question: need my design software license activated. Tried restarting but it persists.,Software,Licensing,Low
+Question: cannot print to the floor printer.,Hardware,Printer,Low
+Urgent - screen keeps flickering on my laptop.,Hardware,Laptop,High
+"Whenever possible, laptop will not boot. An error message appears.",Hardware,Laptop,Low
+"Whenever possible, monitor shows no signal. Tried restarting but it persists.",Hardware,Peripherals,Low
+"Please help - unable to connect to VPN, connection timed out. Tried restarting but it persists.",Network Connectivity,VPN Access,High
+Question: VPN client keeps disconnecting. Tried restarting but it persists.,Network Connectivity,VPN Access,Medium
+Issue: password reset required. Tried restarting but it persists.,Access,Account,Medium
+"Since this morning, ERP application freezes while saving.",Software,Application Error,High
+Please help - access denied on the SharePoint folder.,Access,Permissions,Low
+Minor issue: laptop battery drains very fast. Tried restarting but it persists.,Hardware,Laptop,Low
+Not urgent - keyboard is not working. Started yesterday.,Hardware,Peripherals,Low
+"Hi team, VPN client keeps disconnecting. Started yesterday.",Network Connectivity,VPN Access,High
+Issue: keyboard is not working. Tried restarting but it persists.,Hardware,Peripherals,Low
+"Whenever possible, VPN connection failing on corporate network.",Network Connectivity,VPN Access,Medium
+"Whenever possible, cannot install the latest update. An error message appears.",Software,Installation,Low
+Minor issue: ethernet port is not working. Started yesterday.,Network Connectivity,LAN / Internet,Medium
+Please help - printer not responding.,Hardware,Printer,Low
+"Since this morning, VPN connection failing on corporate network. Tried restarting but it persists.",Network Connectivity,VPN Access,Critical
+All users affected: license key has expired. Tried restarting but it persists.,Software,Licensing,Medium
+Unable to work: monitor shows no signal. An error message appears.,Hardware,Peripherals,Medium
+"Whenever possible, cannot reach the VPN gateway from home.",Network Connectivity,VPN Access,Medium
+All users affected: cannot install the latest update. Started yesterday.,Software,Installation,High
+Not urgent - access denied on the SharePoint folder. An error message appears.,Access,Permissions,Low
+Not urgent - request admin rights on my laptop. Started yesterday.,Access,Permissions,Low
+Question: screen keeps flickering on my laptop. Started yesterday.,Hardware,Laptop,Low
+Unable to work: password reset required. Started yesterday.,Access,Account,High
+All users affected: WiFi is very slow on the third floor.,Network Connectivity,WiFi,High
+Cannot print to the floor printer. Started yesterday.,Hardware,Printer,Low
+"Whenever possible, request admin rights on my laptop. An error message appears.",Access,Permissions,Low
+"Whenever possible, the network is down in the whole office.",Network Connectivity,LAN / Internet,Medium
+All users affected: my account is locked out.,Access,Account,High
+Unable to work: printer jams repeatedly.,Hardware,Printer,Medium
+Question: error message when opening the CRM. Tried restarting but it persists.,Software,Application Error,Low
+Not urgent - the network is down in the whole office.,Network Connectivity,LAN / Internet,Medium
+"Unable to connect to VPN, connection timed out. An error message appears.",Network Connectivity,VPN Access,High
+Monitor shows no signal. Tried restarting but it persists.,Hardware,Peripherals,Low
+Urgent - office WiFi keeps dropping. An error message appears.,Network Connectivity,WiFi,High
+Unable to work: WiFi is very slow on the third floor. Started yesterday.,Network Connectivity,WiFi,High
+Not urgent - laptop battery drains very fast.,Hardware,Laptop,Low
+Urgent - cannot reach the VPN gateway from home. Started yesterday.,Network Connectivity,VPN Access,Critical
+Not urgent - VPN client keeps disconnecting.,Network Connectivity,VPN Access,Medium
+Issue: installer fails with error 1603.,Software,Installation,Medium
+Question: software installation error.,Software,Installation,Low
+Not urgent - ERP application freezes while saving. Started yesterday.,Software,Application Error,Low
+All users affected: license key has expired. An error message appears.,Software,Licensing,Medium
+Not urgent - installer fails with error 1603.,Software,Installation,Low
+Minor issue: cannot reach the VPN gateway from home.,Network Connectivity,VPN Access,Medium
+"Whenever possible, need access to the shared drive.",Access,Permissions,Low
+Minor issue: printer not responding. Tried restarting but it persists.,Hardware,Printer,Low
+Urgent - printer not responding.,Hardware,Printer,Medium
+Please help - cannot install the latest update.,Software,Installation,Medium
+Question: request admin rights on my laptop.,Access,Permissions,Low
+"Whenever possible, WiFi is very slow on the third floor. Started yesterday.",Network Connectivity,WiFi,Low
+Urgent - cannot print to the floor printer. Tried restarting but it persists.,Hardware,Printer,Medium
+Unable to work: installer fails with error 1603. An error message appears.,Software,Installation,High
+"Hi team, application crashes on launch. Tried restarting but it persists.",Software,Application Error,Medium
+"Whenever possible, password reset required. Started yesterday.",Access,Account,Low
+Unable to work: cannot connect to the guest WiFi. Started yesterday.,Network Connectivity,WiFi,High
+"Hi team, installer fails with error 1603. Tried restarting but it persists.",Software,Installation,Medium
+Question: laptop battery drains very fast. Tried restarting but it persists.,Hardware,Laptop,Low
+Not urgent - WiFi is very slow on the third floor. An error message appears.,Network Connectivity,WiFi,Low
+Urgent - Office activation failed. Started yesterday.,Software,Licensing,Medium
+Unable to work: need my design software license activated. An error message appears.,Software,Licensing,Medium
+All users affected: office WiFi keeps dropping. An error message appears.,Network Connectivity,WiFi,High
+"Since this morning, laptop will not boot. Started yesterday.",Hardware,Laptop,High
+Unable to work: software installation error. Tried restarting but it persists.,Software,Installation,High
+"Whenever possible, cannot print to the floor printer. An error message appears.",Hardware,Printer,Low
+"Not urgent - unable to connect to VPN, connection timed out. An error message appears.",Network Connectivity,VPN Access,Medium
+"Hi team, ERP application freezes while saving. Tried restarting but it persists.",Software,Application Error,Medium
+Unable to work: ERP application freezes while saving. An error message appears.,Software,Application Error,High
+Issue: the network is down in the whole office. Tried restarting but it persists.,Network Connectivity,LAN / Internet,High
+"Hi team, office WiFi keeps dropping. Tried restarting but it persists.",Network Connectivity,WiFi,Medium
+Issue: cannot reach the VPN gateway from home. Started yesterday.,Network Connectivity,VPN Access,High
+"Since this morning, request admin rights on my laptop. An error message appears.",Access,Permissions,Medium
+Issue: VPN client keeps disconnecting. Started yesterday.,Network Connectivity,VPN Access,High
+"Since this morning, need access to the shared drive. Started yesterday.",Access,Permissions,Medium
+Unable to work: software installation error. An error message appears.,Software,Installation,High
+Urgent - printer jams repeatedly.,Hardware,Printer,Medium
+"Whenever possible, mouse is unresponsive. An error message appears.",Hardware,Peripherals,Low
+License key has expired. Tried restarting but it persists.,Software,Licensing,Low
+"Hi team, ERP application freezes while saving.",Software,Application Error,Medium
+Access denied on the SharePoint folder. Tried restarting but it persists.,Access,Permissions,Low
+Issue: laptop battery drains very fast. Started yesterday.,Hardware,Laptop,Medium
+"Since this morning, cannot connect to the guest WiFi. Tried restarting but it persists.",Network Connectivity,WiFi,High
+Minor issue: Office activation failed. Tried restarting but it persists.,Software,Licensing,Low
+Not urgent - keyboard is not working. An error message appears.,Hardware,Peripherals,Low
+No internet access at my desk. Started yesterday.,Network Connectivity,LAN / Internet,High
+Urgent - ethernet port is not working. Started yesterday.,Network Connectivity,LAN / Internet,Critical
+All users affected: ethernet port is not working. An error message appears.,Network Connectivity,LAN / Internet,Critical
+Please help - request admin rights on my laptop.,Access,Permissions,Low
+Not urgent - cannot connect to the guest WiFi. Started yesterday.,Network Connectivity,WiFi,Low
+Issue: WiFi is very slow on the third floor.,Network Connectivity,WiFi,Medium
+Urgent - error message when opening the CRM.,Software,Application Error,High
+Urgent - monitor shows no signal. An error message appears.,Hardware,Peripherals,Medium
+Minor issue: WiFi is very slow on the third floor. Tried restarting but it persists.,Network Connectivity,WiFi,Low
+Urgent - license key has expired. Started yesterday.,Software,Licensing,Medium
+Minor issue: ERP application freezes while saving. An error message appears.,Software,Application Error,Low
+Please help - license key has expired. Started yesterday.,Software,Licensing,Low
+Not urgent - license key has expired. Tried restarting but it persists.,Software,Licensing,Low
+Unable to work: ethernet port is not working.,Network Connectivity,LAN / Internet,Critical
+Minor issue: ethernet port is not working. Tried restarting but it persists.,Network Connectivity,LAN / Internet,Medium
+Urgent - request admin rights on my laptop. Started yesterday.,Access,Permissions,Medium
+Not urgent - office WiFi keeps dropping. Started yesterday.,Network Connectivity,WiFi,Low
+Unable to work: WiFi is very slow on the third floor. An error message appears.,Network Connectivity,WiFi,High
+Please help - WiFi is very slow on the third floor. Started yesterday.,Network Connectivity,WiFi,Medium
+Question: access denied on the SharePoint folder.,Access,Permissions,Low
+"Unable to connect to VPN, connection timed out. Tried restarting but it persists.",Network Connectivity,VPN Access,High
+Unable to work: request admin rights on my laptop. An error message appears.,Access,Permissions,Medium
+All users affected: password reset required. An error message appears.,Access,Account,High
+Issue: Office activation failed. Started yesterday.,Software,Licensing,Low
+Unable to work: request admin rights on my laptop. Tried restarting but it persists.,Access,Permissions,Medium
+Minor issue: VPN connection failing on corporate network. Started yesterday.,Network Connectivity,VPN Access,Medium
+Urgent - WiFi is very slow on the third floor. An error message appears.,Network Connectivity,WiFi,High
+"Hi team, screen keeps flickering on my laptop. Started yesterday.",Hardware,Laptop,Medium
+Not urgent - monitor shows no signal. Started yesterday.,Hardware,Peripherals,Low
+Unable to work: my account is locked out.,Access,Account,High
+All users affected: application crashes on launch.,Software,Application Error,High
+Please help - office WiFi keeps dropping. Started yesterday.,Network Connectivity,WiFi,Medium
+Urgent - laptop will not boot. Tried restarting but it persists.,Hardware,Laptop,High
+"Hi team, monitor shows no signal. Started yesterday.",Hardware,Peripherals,Low
+Minor issue: VPN client keeps disconnecting.,Network Connectivity,VPN Access,Medium
+Minor issue: request admin rights on my laptop. An error message appears.,Access,Permissions,Low
+Not urgent - mouse is unresponsive.,Hardware,Peripherals,Low
+"Whenever possible, screen keeps flickering on my laptop. Tried restarting but it persists.",Hardware,Laptop,Low
+"Whenever possible, monitor shows no signal. Started yesterday.",Hardware,Peripherals,Low

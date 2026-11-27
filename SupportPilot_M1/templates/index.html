@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SupportPilot - Ticket Processing & Classification</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<style>
+  /* Inline fallback so the demo still looks fine without internet */
+  :root { --brand:#0e9f6e; --ink:#17212b; --muted:#6b7785; --bg:#f1f5f4; }
+  body { background:var(--bg); color:var(--ink); font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; margin:0; }
+  .shell { display:flex; min-height:100vh; }
+  .side { width:220px; background:#fff; border-right:1px solid #e3e9e7; padding:20px 16px; flex-shrink:0; }
+  .logo { display:flex; align-items:center; gap:10px; font-weight:700; margin-bottom:28px; }
+  .logo span { background:linear-gradient(135deg,#0e9f6e,#2563eb); color:#fff; border-radius:8px; padding:6px 8px; font-size:13px; }
+  .nav-i { padding:9px 12px; border-radius:8px; color:var(--muted); font-size:14px; margin-bottom:4px; }
+  .nav-i.on { background:#e7f5ef; color:var(--brand); font-weight:600; }
+  main { flex:1; padding:26px 30px; min-width:0; }
+  h1 { font-size:22px; margin:0; } .sub { color:var(--muted); font-size:14px; margin-bottom:20px; }
+  .badge-m { float:right; background:var(--brand); color:#fff; padding:5px 12px; border-radius:8px; font-size:13px; font-weight:600; }
+  .grid { display:grid; grid-template-columns:1fr 1fr; gap:20px; }
+  @media (max-width:980px){ .grid{grid-template-columns:1fr;} .side{display:none;} }
+  .card2 { background:#fff; border-radius:12px; padding:20px; box-shadow:0 1px 3px rgba(0,0,0,.06); }
+  .card2 h2 { font-size:16px; margin:0 0 14px; }
+  label { font-size:13px; font-weight:600; margin:10px 0 4px; display:block; }
+  input, textarea, select { width:100%; padding:8px 10px; border:1px solid #d5ddda; border-radius:8px; font:inherit; font-size:14px; box-sizing:border-box; }
+  textarea { min-height:110px; resize:vertical; }
+  button.go { margin-top:14px; background:var(--brand); color:#fff; border:0; border-radius:8px; padding:10px 18px; font-weight:600; cursor:pointer; }
+  button.go:disabled { opacity:.6; }
+  button.ex { background:#eef2f1; color:var(--ink); border:0; border-radius:20px; padding:4px 10px; font-size:12px; cursor:pointer; margin:0 6px 6px 0; }
+  .result { background:#f6faf8; border-radius:10px; padding:14px; margin-bottom:14px; }
+  .row2 { display:grid; grid-template-columns:1fr 1fr; gap:8px 16px; font-size:14px; margin-top:8px; }
+  .k { color:var(--muted); font-size:12px; } .pill { display:inline-block; padding:3px 10px; border-radius:20px; font-size:12px; font-weight:700; }
+  .P1{background:#fde2e2;color:#b42318;} .P2{background:#ffe9d1;color:#b54708;} .P3{background:#fff4c7;color:#8a6a00;} .P4{background:#e2f0ff;color:#1d4ed8;}
+  .stats { display:grid; grid-template-columns:repeat(3,1fr); gap:10px; margin-bottom:14px; }
+  .stat { background:#f6faf8; border-radius:10px; padding:10px; text-align:center; } .stat b { font-size:22px; display:block; }
+  .stat small { color:var(--muted); font-size:11px; }
+  table { width:100%; border-collapse:collapse; font-size:13px; } td, th { padding:7px 6px; border-bottom:1px solid #eef1f0; text-align:left; }
+  th { color:var(--muted); font-weight:600; font-size:12px; }
+  ul.why { margin:8px 0 0; padding-left:18px; font-size:12.5px; color:var(--muted); }
+  .empty { color:var(--muted); font-size:14px; padding:18px 4px; }
+</style>
+</head>
+<body>
+<div class="shell">
+  <aside class="side">
+    <div class="logo"><span>CP</span> SupportPilot</div>
+    <div class="nav-i">Dashboard</div>
+    <div class="nav-i on">Tickets</div>
+    <div class="nav-i">AI Agent</div>
+    <div class="nav-i">Stations</div>
+    <div class="nav-i">Analytics</div>
+  </aside>
+
+  <main>
+    <span class="badge-m">Milestone 1</span>
+    <h1>Ticket Processing &amp; Classification</h1>
+    <div class="sub">Submit and triage EV-charging support tickets with AI</div>
+
+    <div class="grid">
+      <section class="card2">
+        <h2>Submit New Ticket</h2>
+        <div>
+          <span class="k">Try an example:</span><br>
+          <button class="ex" data-i="0">Stuck connector</button>
+          <button class="ex" data-i="1">Smoke from charger</button>
+          <button class="ex" data-i="2">Double charged</button>
+          <button class="ex" data-i="3">Depot offline</button>
+          <button class="ex" data-i="4">Invoice copy</button>
+        </div>
+        <form id="f">
+          <label>Employee / Reporter name</label><input id="employee_name" value="Arun">
+          <label>Email</label><input id="email" type="email" value="arun@supportpilot.example">
+          <label>Ticket title</label><input id="title" required>
+          <label>Description</label><textarea id="description" required></textarea>
+          <label>Department</label>
+          <select id="department">
+            <option>Station Operations</option><option>Customer Support</option>
+            <option>Fleet Services</option><option>Billing</option><option>Field Maintenance</option>
+          </select>
+          <button class="go" id="btn" type="submit">Submit Ticket</button>
+        </form>
+      </section>
+
+      <section class="card2">
+        <h2>AI Classification Results</h2>
+        <div id="result"><div class="empty">Submit a ticket to see category, severity and priority.</div></div>
+        <div class="stats">
+          <div class="stat"><b id="s_total">0</b><small>Total tickets</small></div>
+          <div class="stat"><b id="s_ms">-</b><small>Avg processing (measured)</small></div>
+          <div class="stat"><b id="s_today">0</b><small>Tickets today</small></div>
+        </div>
+        <table>
+          <thead><tr><th>ID</th><th>Title</th><th>Category</th><th>Sev.</th><th>Pri.</th></tr></thead>
+          <tbody id="recent"></tbody>
+        </table>
+      </section>
+    </div>
+  </main>
+</div>
+
+<script>
+const EXAMPLES = [
+  ["Connector stuck in my car", "The charging plug is stuck in my car's port and will not release. I have an important client meeting in 30 minutes and cannot leave."],
+  ["Smoke from charger bay 4", "I saw smoke coming from the charger and there was a burning smell near the unit. I moved away from the bay."],
+  ["Charged twice for one session", "My card was charged twice for a single charging session yesterday. Please refund the duplicate payment."],
+  ["All chargers offline at depot", "All chargers at the fleet depot are offline since 6 AM and our drivers cannot start charging."],
+  ["Need invoice copy", "Could you please send a copy of my invoice for last month's charging?"]
+];
+document.querySelectorAll(".ex").forEach(b => b.onclick = () => {
+  const [t, d] = EXAMPLES[b.dataset.i];
+  document.getElementById("title").value = t;
+  document.getElementById("description").value = d;
+});
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+function renderResult(r) {
+  document.getElementById("result").innerHTML = `
+    <div class="result">
+      <b>Ticket ${esc(r.ticket_id)}</b> <span class="pill ${esc(r.priority)}" style="float:right">${esc(r.priority)}</span>
+      <div class="row2">
+        <div><div class="k">Category</div>${esc(r.category)} <span class="k">(${Math.round(r.category_conf*100)}%)</span></div>
+        <div><div class="k">Severity</div>${esc(r.severity)} <span class="k">(${Math.round(r.severity_conf*100)}%)</span></div>
+        <div><div class="k">Business impact</div>${esc(r.business_impact)}</div>
+        <div><div class="k">Response SLA target</div>${esc(r.sla_target)}</div>
+        <div><div class="k">Status</div>${esc(r.status)}</div>
+        <div><div class="k">Processing time</div>${r.processing_ms} ms</div>
+      </div>
+      <ul class="why">${r.reasons.map(x => `<li>${esc(x)}</li>`).join("")}</ul>
+    </div>`;
+}
+
+async function refresh() {
+  const [stats, rows] = await Promise.all([
+    fetch("/api/stats").then(r => r.json()), fetch("/api/tickets?limit=8").then(r => r.json())]);
+  document.getElementById("s_total").textContent = stats.total;
+  document.getElementById("s_today").textContent = stats.today;
+  document.getElementById("s_ms").textContent = stats.avg_processing_ms != null ? stats.avg_processing_ms + " ms" : "-";
+  document.getElementById("recent").innerHTML = rows.map(t => `
+    <tr><td>${esc(t.ticket_id)}</td><td>${esc(t.title)}</td><td>${esc(t.category)}</td>
+    <td>${esc(t.severity)}</td><td><span class="pill ${esc(t.priority)}">${esc(t.priority)}</span></td></tr>`).join("");
+}
+
+document.getElementById("f").onsubmit = async e => {
+  e.preventDefault();
+  const btn = document.getElementById("btn"); btn.disabled = true;
+  const body = Object.fromEntries(["employee_name","email","title","description","department"]
+    .map(k => [k, document.getElementById(k).value]));
+  try {
+    const res = await fetch("/api/tickets", {method:"POST", headers:{"Content-Type":"application/json"}, body:JSON.stringify(body)});
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.error || "Request failed");
+    renderResult(data); refresh();
+  } catch (err) {
+    document.getElementById("result").innerHTML = `<div class="empty" style="color:#b42318">${esc(err.message)}</div>`;
+  } finally { btn.disabled = false; }
+};
+refresh();
+</script>
+</body>
+</html>

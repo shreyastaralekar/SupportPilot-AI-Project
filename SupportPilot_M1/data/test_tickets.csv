@@ -1,0 +1,175 @@
+ticket,category,severity
+Cable cover is torn and the wires inside are visible. Thanks.,Charger Hardware,High
+"Hello, Session aborts repeatedly before reaching 80 percent. This is at the Downtown Plaza site.",Charging Session,High
+Good morning. Charger is unreachable from the back office dashboard. Please advise.,Station Connectivity,High
+"Hi, Charger refuses my access card. Happened today.",RFID & Authentication,Medium
+Please help. Touchscreen is cracked and hard to read. Please advise.,Charger Hardware,Medium
+"Hi team, Whole site went offline and no charger responds. Happened today.",Station Connectivity,Critical
+"Hi, Paint is peeling on the charger housing. Happened today.",Charger Hardware,Low
+"Hello, Flames visible at the base of the charging unit.",Safety Hazard,Critical
+Verification code SMS never reaches me. This is at the Airport site.,Account & App,Medium
+Every driver card at the fleet depot is being denied. This is at the Downtown Plaza site.,RFID & Authentication,High
+Charger refuses my access card. Station ID CP-2148.,RFID & Authentication,Medium
+"Hi, Occasional packet loss between charger and backend. This is at the Mall site.",Station Connectivity,Medium
+Please send a receipt for my last charge. Happened today.,Payment & Billing,Low
+Every driver card at the fleet depot is being denied. Happened today.,RFID & Authentication,High
+Good morning. Verification code SMS never reaches me. This is at the Mall site.,Account & App,Medium
+Touchscreen is cracked and hard to read.,Charger Hardware,Medium
+"Hi, Flames visible at the base of the charging unit. This is at the Mall site.",Safety Hazard,Critical
+Strong smell of burning plastic from the charger. Happened today.,Safety Hazard,Critical
+"Hello, I would like an additional RFID tag for my spouse. Please advise.",RFID & Authentication,Low
+Good morning. Charger refuses my access card. Thanks.,RFID & Authentication,Medium
+"Hi team, Charger is unreachable from the back office dashboard. This is at the Highway Rest Stop site.",Station Connectivity,High
+Flames visible at the base of the charging unit. Thanks.,Safety Hazard,Critical
+"Hi, Firmware upgrade stuck at 60 percent and charger reboots in a loop. Please advise.",Station Connectivity,High
+Good morning. Session aborts repeatedly before reaching 80 percent. Thanks.,Charging Session,High
+Good morning. Charger is unreachable from the back office dashboard. Please advise.,Station Connectivity,High
+Power delivery drops to a trickle halfway through the charge.,Charging Session,Medium
+Good morning. Rainwater is pouring into the charging unit.,Safety Hazard,High
+"Hi team, Power delivery drops to a trickle halfway through the charge. Station ID CP-2133.",Charging Session,Medium
+Good morning. The app freezes on the splash screen. Please advise.,Account & App,Medium
+"Hi, The plug is trapped in the vehicle port and will not release. Happened today.",Charger Hardware,High
+Whole site went offline and no charger responds.,Station Connectivity,Critical
+Session aborts repeatedly before reaching 80 percent. Station ID CP-1701.,Charging Session,High
+"Hi, Occasional packet loss between charger and backend. Please advise.",Station Connectivity,Medium
+"Hi team, Paint is peeling on the charger housing. Happened today.",Charger Hardware,Low
+The app freezes on the splash screen. Station ID CP-3826.,Account & App,Medium
+Good morning. Power delivery drops to a trickle halfway through the charge.,Charging Session,Medium
+Refund still pending after ten days.,Payment & Billing,Medium
+"Hi, Rainwater is pouring into the charging unit. Thanks.",Safety Hazard,High
+I would like an additional RFID tag for my spouse. Please advise.,RFID & Authentication,Low
+Please help. Modem signal strength is poor on bay 6.,Station Connectivity,Low
+Flames visible at the base of the charging unit.,Safety Hazard,Critical
+"Hi team, The charge time estimate on screen is inaccurate. Please advise.",Charging Session,Low
+Please help. Rainwater is pouring into the charging unit.,Safety Hazard,High
+Good morning. Vehicle authentication with plug and charge keeps failing. Thanks.,RFID & Authentication,Medium
+"Cannot start charging, it shows waiting for vehicle.",Charging Session,High
+"Hi, Flames visible at the base of the charging unit.",Safety Hazard,Critical
+Good morning. Modem signal strength is poor on bay 6. Station ID CP-3441.,Station Connectivity,Low
+Please help. Modem signal strength is poor on bay 6. Happened today.,Station Connectivity,Low
+"Hi, Every driver card at the fleet depot is being denied. Happened today.",RFID & Authentication,High
+Good morning. Cable cover is torn and the wires inside are visible. Thanks.,Charger Hardware,High
+The plug is trapped in the vehicle port and will not release. Happened today.,Charger Hardware,High
+"Good morning. Cannot start charging, it shows waiting for vehicle. Thanks.",Charging Session,High
+Cable cover is torn and the wires inside are visible. Please advise.,Charger Hardware,High
+Good morning. Rainwater is pouring into the charging unit. Happened today.,Safety Hazard,High
+"Hello, Billed two times for one charge. Thanks.",Payment & Billing,High
+"Hi, The app freezes on the splash screen. Station ID CP-1277.",Account & App,Medium
+"Hello, Every driver card at the fleet depot is being denied.",RFID & Authentication,High
+Please help. Safety signage is faded and hard to read. Station ID CP-1210.,Safety Hazard,Low
+How can I update my phone number in my profile. Happened today.,Account & App,Low
+"Hello, I would like an additional RFID tag for my spouse.",RFID & Authentication,Low
+"Hi, Safety signage is faded and hard to read. Please advise.",Safety Hazard,Low
+"Hi, Power delivery drops to a trickle halfway through the charge. Station ID CP-3434.",Charging Session,Medium
+Rainwater is pouring into the charging unit. Station ID CP-4146.,Safety Hazard,High
+Good morning. Modem signal strength is poor on bay 6. Please advise.,Station Connectivity,Low
+Strong smell of burning plastic from the charger. Thanks.,Safety Hazard,Critical
+Touchscreen is cracked and hard to read. This is at the Airport site.,Charger Hardware,Medium
+Refund still pending after ten days. Station ID CP-1499.,Payment & Billing,Medium
+"Hi team, How can I update my phone number in my profile. Please advise.",Account & App,Low
+Refund still pending after ten days. Please advise.,Payment & Billing,Medium
+Please send a receipt for my last charge.,Payment & Billing,Low
+"Hello, Session aborts repeatedly before reaching 80 percent.",Charging Session,High
+Good morning. Refund still pending after ten days. This is at the Mall site.,Payment & Billing,Medium
+"Hello, Session aborts repeatedly before reaching 80 percent.",Charging Session,High
+Occasional packet loss between charger and backend. This is at the Airport site.,Station Connectivity,Medium
+"Hi, How can I update my phone number in my profile.",Account & App,Low
+"Hi, Login keeps failing with invalid credentials in the app. Thanks.",Account & App,Medium
+"Hello, Paint is peeling on the charger housing. Thanks.",Charger Hardware,Low
+"Hi team, Safety signage is faded and hard to read. This is at the Highway Rest Stop site.",Safety Hazard,Low
+Please help. Tariff on the app is different from the amount deducted. Thanks.,Payment & Billing,Medium
+Good morning. Occasional packet loss between charger and backend. Thanks.,Station Connectivity,Medium
+The charge time estimate on screen is inaccurate.,Charging Session,Low
+"Hi, The plug is trapped in the vehicle port and will not release. Thanks.",Charger Hardware,High
+Safety signage is faded and hard to read. Please advise.,Safety Hazard,Low
+Verification code SMS never reaches me.,Account & App,Medium
+Good morning. Refund still pending after ten days.,Payment & Billing,Medium
+Occasional packet loss between charger and backend. Thanks.,Station Connectivity,Medium
+Please help. Strong smell of burning plastic from the charger. Happened today.,Safety Hazard,Critical
+Tariff on the app is different from the amount deducted. Station ID CP-4147.,Payment & Billing,Medium
+"Hello, Strong smell of burning plastic from the charger. This is at the Mall site.",Safety Hazard,Critical
+Please help. Tariff on the app is different from the amount deducted.,Payment & Billing,Medium
+"Cannot start charging, it shows waiting for vehicle. Thanks.",Charging Session,High
+"Hi team, Charger is unreachable from the back office dashboard.",Station Connectivity,High
+"Hi, Firmware upgrade stuck at 60 percent and charger reboots in a loop. This is at the Riverside site.",Station Connectivity,High
+"Hi team, Vehicle authentication with plug and charge keeps failing.",RFID & Authentication,Medium
+Please help. The charge time estimate on screen is inaccurate. Thanks.,Charging Session,Low
+"Hello, Whole site went offline and no charger responds. This is at the Downtown Plaza site.",Station Connectivity,Critical
+Please help. Safety signage is faded and hard to read.,Safety Hazard,Low
+Billed two times for one charge.,Payment & Billing,High
+Good morning. Please send a receipt for my last charge. Station ID CP-4432.,Payment & Billing,Low
+Please help. Refund still pending after ten days.,Payment & Billing,Medium
+"Hi, I would like an additional RFID tag for my spouse. Happened today.",RFID & Authentication,Low
+"Hi team, Tariff on the app is different from the amount deducted. Please advise.",Payment & Billing,Medium
+Good morning. Vehicle authentication with plug and charge keeps failing.,RFID & Authentication,Medium
+"Hi team, Cable cover is torn and the wires inside are visible. Station ID CP-2800.",Charger Hardware,High
+Please help. How can I update my phone number in my profile.,Account & App,Low
+"Hello, Session aborts repeatedly before reaching 80 percent. Thanks.",Charging Session,High
+"Hi team, Modem signal strength is poor on bay 6.",Station Connectivity,Low
+"Hello, The app freezes on the splash screen. Thanks.",Account & App,Medium
+"Hi, Charger is unreachable from the back office dashboard. Please advise.",Station Connectivity,High
+"Hi team, Please send a receipt for my last charge.",Payment & Billing,Low
+"Hi team, Billed two times for one charge. Please advise.",Payment & Billing,High
+Please help. Charger is unreachable from the back office dashboard. Station ID CP-4263.,Station Connectivity,High
+Good morning. Power delivery drops to a trickle halfway through the charge. Happened today.,Charging Session,Medium
+"Hi, Every driver card at the fleet depot is being denied. Please advise.",RFID & Authentication,High
+"Hello, Touchscreen is cracked and hard to read. Please advise.",Charger Hardware,Medium
+"Hi, Cannot start charging, it shows waiting for vehicle. Station ID CP-2806.",Charging Session,High
+Please send a receipt for my last charge.,Payment & Billing,Low
+Please help. The app freezes on the splash screen. Happened today.,Account & App,Medium
+"Hi, Tariff on the app is different from the amount deducted. This is at the Airport site.",Payment & Billing,Medium
+Vehicle authentication with plug and charge keeps failing. This is at the Mall site.,RFID & Authentication,Medium
+"Cannot start charging, it shows waiting for vehicle. Thanks.",Charging Session,High
+Please help. Cable cover is torn and the wires inside are visible. Thanks.,Charger Hardware,High
+"Hi team, Firmware upgrade stuck at 60 percent and charger reboots in a loop.",Station Connectivity,High
+Good morning. How can I update my phone number in my profile.,Account & App,Low
+"Hello, Touchscreen is cracked and hard to read. Station ID CP-4131.",Charger Hardware,Medium
+Good morning. The plug is trapped in the vehicle port and will not release.,Charger Hardware,High
+Good morning. Paint is peeling on the charger housing. Thanks.,Charger Hardware,Low
+Firmware upgrade stuck at 60 percent and charger reboots in a loop. This is at the Airport site.,Station Connectivity,High
+Please help. Login keeps failing with invalid credentials in the app. Thanks.,Account & App,Medium
+Rainwater is pouring into the charging unit. This is at the Riverside site.,Safety Hazard,High
+"Hi, I would like an additional RFID tag for my spouse. Station ID CP-2288.",RFID & Authentication,Low
+"Hello, Verification code SMS never reaches me. Please advise.",Account & App,Medium
+Good morning. Charger refuses my access card. Thanks.,RFID & Authentication,Medium
+"Hi, Billed two times for one charge. Please advise.",Payment & Billing,High
+Please help. Strong smell of burning plastic from the charger.,Safety Hazard,Critical
+"Hello, Power delivery drops to a trickle halfway through the charge.",Charging Session,Medium
+"Hi team, Safety signage is faded and hard to read. Station ID CP-3990.",Safety Hazard,Low
+"Hi, Please send a receipt for my last charge.",Payment & Billing,Low
+Good morning. Modem signal strength is poor on bay 6.,Station Connectivity,Low
+"Hi, The charge time estimate on screen is inaccurate. Thanks.",Charging Session,Low
+"Hello, Firmware upgrade stuck at 60 percent and charger reboots in a loop.",Station Connectivity,High
+Charger refuses my access card. Station ID CP-4420.,RFID & Authentication,Medium
+Please help. Occasional packet loss between charger and backend.,Station Connectivity,Medium
+Please help. Charger refuses my access card.,RFID & Authentication,Medium
+"Hi team, Vehicle authentication with plug and charge keeps failing. Please advise.",RFID & Authentication,Medium
+Please help. Tariff on the app is different from the amount deducted. Happened today.,Payment & Billing,Medium
+"Hello, Touchscreen is cracked and hard to read.",Charger Hardware,Medium
+"Hello, Login keeps failing with invalid credentials in the app. Please advise.",Account & App,Medium
+Please help. Flames visible at the base of the charging unit.,Safety Hazard,Critical
+"Hi team, Verification code SMS never reaches me. Happened today.",Account & App,Medium
+"Hello, The charge time estimate on screen is inaccurate. This is at the Highway Rest Stop site.",Charging Session,Low
+"Hi, The plug is trapped in the vehicle port and will not release. Station ID CP-3506.",Charger Hardware,High
+"Hi team, Paint is peeling on the charger housing.",Charger Hardware,Low
+The charge time estimate on screen is inaccurate.,Charging Session,Low
+Verification code SMS never reaches me. Please advise.,Account & App,Medium
+Please help. Paint is peeling on the charger housing. Happened today.,Charger Hardware,Low
+Good morning. Login keeps failing with invalid credentials in the app.,Account & App,Medium
+Please help. Strong smell of burning plastic from the charger. This is at the Airport site.,Safety Hazard,Critical
+I would like an additional RFID tag for my spouse. This is at the Riverside site.,RFID & Authentication,Low
+"Hi team, Cannot start charging, it shows waiting for vehicle. Station ID CP-3250.",Charging Session,High
+Good morning. Firmware upgrade stuck at 60 percent and charger reboots in a loop. Thanks.,Station Connectivity,High
+Good morning. The plug is trapped in the vehicle port and will not release. Happened today.,Charger Hardware,High
+Whole site went offline and no charger responds. This is at the Highway Rest Stop site.,Station Connectivity,Critical
+"Hello, Cable cover is torn and the wires inside are visible.",Charger Hardware,High
+The app freezes on the splash screen. Station ID CP-1466.,Account & App,Medium
+Vehicle authentication with plug and charge keeps failing. This is at the Downtown Plaza site.,RFID & Authentication,Medium
+Please help. Login keeps failing with invalid credentials in the app. This is at the Highway Rest Stop site.,Account & App,Medium
+"Hi, Whole site went offline and no charger responds. Station ID CP-4668.",Station Connectivity,Critical
+Good morning. Login keeps failing with invalid credentials in the app. Thanks.,Account & App,Medium
+"Hi, How can I update my phone number in my profile. Please advise.",Account & App,Low
+Good morning. Billed two times for one charge. Thanks.,Payment & Billing,High
+Billed two times for one charge. This is at the Highway Rest Stop site.,Payment & Billing,High
+Please help. Every driver card at the fleet depot is being denied. Station ID CP-4579.,RFID & Authentication,High
+Please help. Whole site went offline and no charger responds. This is at the Mall site.,Station Connectivity,Critical
