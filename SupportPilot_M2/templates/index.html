@@ -1,0 +1,196 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SupportPilot - Knowledge Retrieval & Resolution Generation</title>
+<style>
+  :root { --brand:#2563eb; --ok:#0e9f6e; --ink:#17212b; --muted:#6b7785; --bg:#f1f4f9; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; }
+  .shell { display:flex; min-height:100vh; }
+  .side { width:210px; background:#fff; border-right:1px solid #e3e8ef; padding:20px 16px; flex-shrink:0; }
+  .logo { display:flex; align-items:center; gap:10px; font-weight:700; margin-bottom:28px; }
+  .logo span { background:linear-gradient(135deg,#7c3aed,#2563eb); color:#fff; border-radius:8px; padding:6px 8px; font-size:13px; }
+  .nav-i { padding:9px 12px; border-radius:8px; color:var(--muted); font-size:14px; margin-bottom:4px; }
+  .nav-i.on { background:#e8efff; color:var(--brand); font-weight:600; }
+  main { flex:1; padding:24px 28px; min-width:0; }
+  h1 { font-size:22px; margin:0; } .sub { color:var(--muted); font-size:14px; margin:2px 0 18px; }
+  .badge-m { float:right; background:var(--ok); color:#fff; padding:5px 12px; border-radius:8px; font-size:13px; font-weight:600; }
+  .grid { display:grid; grid-template-columns:1fr 1fr; gap:18px; align-items:start; }
+  @media (max-width:1000px){ .grid{grid-template-columns:1fr;} .side{display:none;} }
+  .card { background:#fff; border-radius:12px; padding:18px; box-shadow:0 1px 3px rgba(0,0,0,.06); margin-bottom:18px; }
+  .card h2 { font-size:15px; margin:0 0 12px; }
+  label { font-size:12px; font-weight:600; margin:8px 0 3px; display:block; color:var(--muted); }
+  input, textarea, select { width:100%; padding:8px 10px; border:1px solid #d6dde8; border-radius:8px; font:inherit; font-size:14px; }
+  textarea { min-height:84px; resize:vertical; }
+  .two { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
+  button.go { margin-top:12px; background:var(--brand); color:#fff; border:0; border-radius:8px; padding:10px 16px; font-weight:600; cursor:pointer; font-size:14px; }
+  button.go:disabled { opacity:.6; cursor:wait; }
+  button.fb { border:1px solid #d6dde8; background:#fff; border-radius:8px; padding:6px 12px; cursor:pointer; font-size:13px; margin-right:8px; }
+  .chip { display:inline-block; padding:3px 9px; border-radius:20px; font-size:11.5px; font-weight:600; background:#eef2fb; color:#3b4a66; margin-right:6px; }
+  .chip.P1{background:#fde2e2;color:#b42318;} .chip.P2{background:#ffe9d1;color:#b54708;} .chip.P3{background:#fff4c7;color:#8a6a00;}
+  .doc { border:1px solid #e6ebf3; border-radius:10px; padding:10px 12px; margin-bottom:8px; background:#fafbfe; }
+  .doc.used { border-color:#b6d0ff; background:#f3f7ff; } .doc.skip { opacity:.55; }
+  .doc b { font-size:14px; } .tag { font-size:11px; color:var(--brand); background:#e8efff; padding:1px 7px; border-radius:10px; margin-left:6px; }
+  .bar { height:6px; border-radius:4px; background:#e6ebf3; margin-top:6px; overflow:hidden; } .bar i { display:block; height:100%; background:var(--ok); }
+  .meta { font-size:12px; color:var(--muted); display:flex; justify-content:space-between; margin-top:4px; }
+  .step { display:flex; gap:10px; align-items:flex-start; padding:8px 0; border-bottom:1px solid #eef1f6; font-size:13.5px; }
+  .wf { display:flex; gap:10px; align-items:center; padding:7px 0; font-size:13.5px; }
+  .dot { width:22px; height:22px; border-radius:50%; background:#cbd5e1; color:#fff; font-size:12px; display:grid; place-items:center; font-weight:700; flex-shrink:0; }
+  .wf.done .dot { background:var(--brand); } .wf small { margin-left:auto; color:var(--muted); }
+  .res { background:#f3f7ff; border-left:4px solid var(--brand); border-radius:6px; padding:12px 14px; font-size:13.5px; }
+  .res ol { padding-left:0; list-style:none; margin:8px 0 0; }
+  .res li { display:flex; gap:8px; margin-bottom:8px; } .res li .n { color:var(--brand); font-weight:700; }
+  .src { display:block; font-size:11.5px; color:var(--muted); }
+  .safety { background:#fde8e8; border-left:4px solid #d92d20; color:#7a1810; padding:10px 12px; border-radius:6px; margin-bottom:10px; font-size:13.5px; font-weight:600; }
+  .warn { background:#fff6e0; border-left:4px solid #f79009; padding:10px 12px; border-radius:6px; font-size:13.5px; }
+  .esc { margin-top:10px; font-size:13px; background:#fff; border:1px dashed #c3cfe4; padding:8px 10px; border-radius:8px; }
+  .metrics { display:grid; grid-template-columns:repeat(3,1fr); gap:10px; }
+  .metric { background:#f6f8fc; border-radius:10px; padding:10px; text-align:center; } .metric b { display:block; font-size:21px; }
+  .metric small { color:var(--muted); font-size:11px; }
+  details { margin-top:10px; font-size:12px; } pre { white-space:pre-wrap; background:#0f172a; color:#cbd5e1; padding:10px; border-radius:8px; max-height:220px; overflow:auto; font-size:11.5px; }
+  .empty { color:var(--muted); font-size:14px; padding:6px 2px; }
+</style>
+</head>
+<body>
+<div class="shell">
+  <aside class="side">
+    <div class="logo"><span>SP</span> SupportPilot</div>
+    <div class="nav-i">Dashboard</div><div class="nav-i on">Tickets</div><div class="nav-i">AI Agent</div>
+    <div class="nav-i">Integrations</div><div class="nav-i">Analytics</div><div class="nav-i">Settings</div>
+  </aside>
+  <main>
+    <span class="badge-m">Milestone 2</span>
+    <h1>Knowledge Retrieval &amp; Resolution Generation</h1>
+    <div class="sub">RAG-powered troubleshooting and response generation for EV charging support</div>
+
+    <div class="grid">
+      <div>
+        <section class="card">
+          <h2>Current Ticket</h2>
+          <label>Title</label><input id="title" placeholder="Short summary of the problem">
+          <label>Description</label><textarea id="description" placeholder="Describe what happened"></textarea>
+          <div class="two">
+            <div><label>Category (optional - auto-detected if empty)</label><input id="category"></div>
+            <div><label>Priority (optional)</label><input id="priority" placeholder="P1-P4"></div>
+          </div>
+          <button class="go" id="btn">Generate Resolution</button>
+          <div id="tmeta" style="margin-top:10px"></div>
+        </section>
+
+        <section class="card">
+          <h2>Knowledge Base Retrieval</h2>
+          <div id="docs"><div class="empty">Run a ticket to see the retrieved articles and relevance scores.</div></div>
+        </section>
+      </div>
+
+      <div>
+        <section class="card">
+          <h2>AI Resolution Generator</h2>
+          <div id="wf">
+            <div class="wf"><div class="dot">1</div>Ticket Analysis &amp; Query Generation<small></small></div>
+            <div class="wf"><div class="dot">2</div>Knowledge Base Retrieval<small></small></div>
+            <div class="wf"><div class="dot">3</div>Context Augmentation<small></small></div>
+            <div class="wf"><div class="dot">4</div>Response Generation<small></small></div>
+          </div>
+        </section>
+
+        <section class="card">
+          <h2>Generated Resolution</h2>
+          <div id="resolution"><div class="empty">No resolution yet.</div></div>
+          <div id="fb" style="margin-top:12px"></div>
+          <details><summary>Show context sent to the generator (augmentation)</summary><pre id="ctx"></pre></details>
+        </section>
+
+        <section class="card">
+          <h2>System Metrics (measured)</h2>
+          <div class="metrics">
+            <div class="metric"><b id="m_ret">-</b><small id="m_ret_s">Retrieval accuracy</small></div>
+            <div class="metric"><b id="m_res">n/a</b><small id="m_res_s">Resolution rate (agent feedback)</small></div>
+            <div class="metric"><b id="m_time">-</b><small>Avg response time (live)</small></div>
+          </div>
+        </section>
+      </div>
+    </div>
+  </main>
+</div>
+
+<script>
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+let lastTicketId = null;
+
+function init() { metrics(); }
+
+async function metrics() {
+  const m = await fetch("/api/metrics").then(r => r.json());
+  $("m_ret").textContent = m.retrieval_accuracy != null ? Math.round(m.retrieval_accuracy * 100) + "%" : "run eval";
+  $("m_ret_s").textContent = m.retrieval_eval_n ? `Retrieval accuracy (top-1, ${m.retrieval_eval_n} test tickets)` : "Retrieval accuracy";
+  $("m_res").textContent = m.resolution_rate != null ? Math.round(m.resolution_rate * 100) + "%" : "n/a";
+  $("m_res_s").textContent = m.feedback_count ? `Resolution rate (${m.feedback_count} agent ratings)` : "Resolution rate (no ratings yet)";
+  $("m_time").textContent = m.avg_response_ms != null ? m.avg_response_ms + " ms" : "-";
+}
+
+function renderWorkflow(stages) {
+  const rows = document.querySelectorAll("#wf .wf");
+  stages.forEach((s, i) => { rows[i].classList.add("done"); rows[i].querySelector(".dot").textContent = "✓"; rows[i].querySelector("small").textContent = s.ms + " ms"; });
+}
+
+function renderDocs(r) {
+  const used = new Set(r.used_documents);
+  $("docs").innerHTML = r.retrieved_documents.map(d => `
+    <div class="doc ${used.has(d.id) ? "used" : "skip"}">
+      <b>${esc(d.title)}</b><span class="tag">${esc(d.id)}</span><span class="tag">${esc(d.category)}</span>
+      <div class="bar"><i style="width:${Math.min(100, d.score * 100 * 2)}%"></i></div>
+      <div class="meta"><span>${esc(d.source)} · updated ${esc(d.last_updated)}</span>
+        <span>${(d.score * 100).toFixed(0)}% relevance ${used.has(d.id) ? "· used" : "· below threshold (" + (r.min_relevance * 100).toFixed(0) + "%)"}</span></div>
+    </div>`).join("");
+}
+
+function renderResolution(r) {
+  const res = r.resolution; let html = "";
+  if (res.safety_notice) html += `<div class="safety">⚠ ${esc(res.safety_notice)}</div>`;
+  if (res.status === "INSUFFICIENT_KNOWLEDGE") {
+    html += `<div class="warn"><b>Insufficient knowledge.</b> ${esc(res.message)}</div>`;
+  } else if (res.steps.length) {
+    html += `<div class="res">${res.likely_cause ? `<b>Likely cause:</b> ${esc(res.likely_cause)}<br><br>` : ""}<b>Recommended resolution</b><ol>` +
+      res.steps.map(s => `<li><span class="n">${s.number}.</span><span>${esc(s.text)}<span class="src">Source: ${esc(s.source_id)} - ${esc(s.source_title)}</span></span></li>`).join("") + `</ol></div>`;
+    if (res.escalate_if) html += `<div class="esc"><b>Escalate if:</b> ${esc(res.escalate_if)}</div>`;
+  } else {
+    html += `<div class="res" style="white-space:pre-wrap">${esc(res.message)}</div>`;
+  }
+  $("resolution").innerHTML = html;
+  $("ctx").textContent = r.context || "(no context - nothing passed the relevance threshold)";
+  $("fb").innerHTML = res.status === "INSUFFICIENT_KNOWLEDGE" ? "" :
+    `<span style="font-size:13px;color:var(--muted)">Did this resolve it?</span> <button class="fb" data-h="1">👍 Helpful</button><button class="fb" data-h="0">👎 Not helpful</button>`;
+  document.querySelectorAll("#fb .fb").forEach(b => b.onclick = async () => {
+    await fetch("/api/feedback", {method: "POST", headers: {"Content-Type": "application/json"},
+      body: JSON.stringify({ticket_id: lastTicketId, helpful: b.dataset.h === "1"})});
+    $("fb").innerHTML = "<span style='font-size:13px;color:var(--ok)'>Thanks - feedback saved.</span>"; metrics();
+  });
+}
+
+$("btn").onclick = async () => {
+  $("btn").disabled = true; $("btn").textContent = "Running RAG pipeline…";
+  try {
+    const res = await fetch("/api/resolve", {method: "POST", headers: {"Content-Type": "application/json"},
+      body: JSON.stringify({title: $("title").value, description: $("description").value,
+                            category: $("category").value, priority: $("priority").value})});
+    const r = await res.json();
+    if (!res.ok) throw new Error(r.error || "Request failed");
+    lastTicketId = r.ticket.id;
+    const a = r.analysis;
+    $("tmeta").innerHTML = `<b>#${esc(r.ticket.id)}</b> <span class="chip">${esc(a.category)}${a.category_source === "detected" ? " (auto)" : ""}</span>
+      <span class="chip ${esc(a.priority)}">${esc(a.priority)}</span>${a.safety_flag ? '<span class="chip P1">SAFETY</span>' : ""}
+      <div class="meta" style="justify-content:flex-start;gap:6px;margin-top:6px">Keywords: ${a.keywords.map(esc).join(", ") || "-"}</div>
+      <div class="meta" style="justify-content:flex-start;margin-top:4px">Search query: <i>&nbsp;${esc(a.query.slice(0, 90))}…</i></div>`;
+    renderWorkflow(r.workflow); renderDocs(r); renderResolution(r); metrics();
+  } catch (e) {
+    $("resolution").innerHTML = `<div class="warn">${esc(e.message)}</div>`;
+  } finally { $("btn").disabled = false; $("btn").textContent = "Generate Resolution"; }
+};
+init();
+</script>
+</body>
+</html>

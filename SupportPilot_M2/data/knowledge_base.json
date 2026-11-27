@@ -1,0 +1,130 @@
+[
+  {
+    "id": "KB001",
+    "title": "Stuck Connector Release Procedure",
+    "category": "Charger Hardware",
+    "source": "Station Ops Wiki",
+    "last_updated": "2026-11-10",
+    "content": "Summary: Steps for releasing a charging connector that will not unlock from the vehicle inlet.\nSymptoms: plug stuck in car, connector will not release, gun jammed in the socket, cannot unplug after charging.\nLikely cause: The connector lock actuator is still engaged because the session has not fully closed, or the vehicle has not released its own lock.\n1. Ask the driver to stop the session in the app or press Stop on the charger and wait 30 seconds.\n2. Ask the driver to unlock the car with the key fob or door handle, which releases the inlet lock on most vehicles.\n3. Send a remote unlock command to the charger from the operations dashboard.\n4. If the connector is still locked, do not pull on the cable with force.\n5. Dispatch a field technician to use the manual release procedure for that charger model.\nEscalate if: the driver is stranded, the cable looks damaged, or the remote unlock times out twice."
+  },
+  {
+    "id": "KB002",
+    "title": "Charger Display Blank or Frozen",
+    "category": "Charger Hardware",
+    "source": "Station Ops Wiki",
+    "last_updated": "2026-10-28",
+    "content": "Summary: What to do when a charger screen is black, frozen, or stuck on the logo.\nSymptoms: screen is black, display frozen, stuck on boot logo, touchscreen unresponsive, blank screen.\nLikely cause: Display controller hang after a firmware glitch, or a brief power dip at the station.\n1. Check on the dashboard whether the charger is reporting as online and what status it shows.\n2. Send a soft reboot command remotely and wait three minutes.\n3. If the screen is still blank, check whether another charger on the same feeder is also affected.\n4. If only this unit is affected, schedule a field visit to inspect the display cable and power supply.\n5. Mark the charger as out of service in the app so drivers are not sent to it.\nEscalate if: several chargers on the same feeder have blank screens, which points to a power issue."
+  },
+  {
+    "id": "KB003",
+    "title": "Damaged Cable or Connector Handling",
+    "category": "Charger Hardware",
+    "source": "Field Maintenance Manual",
+    "last_updated": "2026-09-30",
+    "content": "Summary: Handling reports of cracked, frayed, crushed, or split charging cables and connectors.\nSymptoms: cable insulation cracked, copper visible, cable run over, connector housing split, frayed jacket, torn cable cover.\nLikely cause: Physical damage from vehicles, wear from daily use, or weather exposure.\n1. Tell the driver not to use the charger and not to touch the damaged section.\n2. Remotely set the charger to out of service so that no new sessions can start.\n3. Ask the reporter for a photo of the damage and the charger ID.\n4. Create a field maintenance work order with priority High and attach the photo.\n5. Keep the charger out of service until a technician has replaced the cable assembly and signed it off.\nEscalate if: any conductor is exposed or the driver reports a tingling feeling; treat it as a safety incident."
+  },
+  {
+    "id": "KB004",
+    "title": "Safety Incident: Smoke, Burning Smell, Sparks or Fire",
+    "category": "Safety Hazard",
+    "source": "Safety and Incident Response Policy",
+    "last_updated": "2026-11-15",
+    "content": "Summary: Mandatory response for any report of smoke, burning smell, sparks, melting, or fire at a charger.\nSymptoms: smoke from charger, burning smell, burnt plastic smell, sparks when plugging in, melting cable, flames, smoldering, charger very hot.\nLikely cause: Possible internal electrical fault, damaged connector, or overheating component. Cause must be assessed on site by a qualified technician.\n1. Tell the reporter to move away from the charger and the vehicle immediately and keep other people back.\n2. If there are flames or heavy smoke, tell the reporter to call the local emergency number now.\n3. Do not ask anyone to unplug the vehicle or touch the charger.\n4. Remotely stop the session and set the charger to out of service. Isolate site power only through the on-call electrician.\n5. Open a Critical safety incident, notify the on-call electrician and the safety officer, and record time, charger ID, and photos from a safe distance.\n6. The charger stays locked out until a technician completes an inspection and the safety officer closes the incident.\nEscalate if: always. Every smoke, burning, sparks, or fire report is escalated immediately."
+  },
+  {
+    "id": "KB005",
+    "title": "Electric Shock or Water Ingress Report",
+    "category": "Safety Hazard",
+    "source": "Safety and Incident Response Policy",
+    "last_updated": "2026-11-02",
+    "content": "Summary: Handling reports of electric shock, tingling, or water leaking into a charger or cabinet.\nSymptoms: electric shock, tingling from handle, water dripping inside charger cabinet, flooding around the base, puddle at the foot of the unit, rain getting in, storm damage.\nLikely cause: Damaged insulation, a poor earth connection, or a failed seal that lets water reach live parts.\n1. Make sure the person is safe and ask if medical help is needed; if yes, tell them to call the emergency number.\n2. Tell everyone to stay away from the charger and the wet area.\n3. Remotely set the charger to out of service.\n4. Open a High or Critical safety incident, depending on whether anyone was hurt, and notify the on-call electrician.\n5. Record charger ID, weather conditions, and photos taken from a safe distance.\n6. Do not return the charger to service until a technician has inspected the seals and tested the earth connection.\nEscalate if: anyone felt a shock or was injured; escalate immediately to the safety officer."
+  },
+  {
+    "id": "KB006",
+    "title": "Duplicate Charge and Refund Procedure",
+    "category": "Payment & Billing",
+    "source": "Billing Operations Guide",
+    "last_updated": "2026-11-08",
+    "content": "Summary: How to verify and refund double charges and charges for failed sessions.\nSymptoms: charged twice, billed two times, duplicate transaction, charged for a session that failed, refund pending, billed for a charge never started.\nLikely cause: A payment retry after a network timeout, or a session that ended with an error but was still billed.\n1. Ask the customer for the date, time, station, and the last four digits of the card.\n2. Look up the customer sessions and payments in the billing system and compare transaction IDs.\n3. If two payments exist for one session, refund the duplicate through the payment provider.\n4. If a session failed and delivered less than 1 kWh, refund the full amount.\n5. Tell the customer that refunds usually take 5 to 10 business days to show on the statement.\n6. Add an internal note linking the refund to the session ID.\nEscalate if: the refund amount is above the agent approval limit, or the customer reports a charge with no matching session."
+  },
+  {
+    "id": "KB007",
+    "title": "Card Declined or Payment Failed at Charger",
+    "category": "Payment & Billing",
+    "source": "Billing Operations Guide",
+    "last_updated": "2026-10-20",
+    "content": "Summary: Troubleshooting contactless or card payment failures at the charger terminal.\nSymptoms: card declined at the charger, payment failed, terminal error, payment failed but charging started, works elsewhere but not here, deposit not returned.\nLikely cause: The pre-authorisation was rejected by the bank, the terminal lost its connection, or the card does not allow contactless pre-authorisation.\n1. Ask the driver to try a different card or a mobile wallet at the same terminal.\n2. Ask the driver to start the session through the app instead, which uses the saved payment method.\n3. Check the dashboard to see whether the terminal is online; an offline terminal cannot authorise payments.\n4. If charging started but payment shows as failed, find the session in the billing system and reconcile it.\n5. Explain that an authorisation hold is released by the bank, usually within a few business days.\nEscalate if: the terminal is offline or the same error appears on several chargers at one site."
+  },
+  {
+    "id": "KB008",
+    "title": "Invoice and Receipt Requests",
+    "category": "Payment & Billing",
+    "source": "Billing Operations Guide",
+    "last_updated": "2026-09-18",
+    "content": "Summary: Providing invoices, VAT receipts, and statements to customers.\nSymptoms: need invoice, copy of receipt, VAT receipt for company expense claim, monthly statement, credit note, statement download error, wrong tax rate on invoice.\nLikely cause: Not a fault. A routine request, or the customer has not found the download section in the portal.\n1. Confirm the customer account email and the billing period required.\n2. Invoices can be downloaded from the customer portal under Billing, then Statements.\n3. If the download fails, generate the invoice from the billing system and send it by email.\n4. For company claims, make sure the company name and tax number on the account are correct before generating the invoice.\n5. If the invoice has a wrong amount or tax rate, request a credit note and a corrected invoice from the billing team.\nEscalate if: the invoice amount disagrees with the session records."
+  },
+  {
+    "id": "KB009",
+    "title": "App Login and Password Reset Issues",
+    "category": "Account & App",
+    "source": "Customer Support Playbook",
+    "last_updated": "2026-11-12",
+    "content": "Summary: Solving sign-in failures, password reset problems, and verification code issues in the mobile app.\nSymptoms: cannot log in, invalid password, password reset email not arriving, verification code SMS not received, two factor code rejected, session expired, app freezes at launch.\nLikely cause: Wrong credentials, a reset email caught by spam filters, a delayed SMS, or an outdated app version.\n1. Confirm the email address on the account and check for typing mistakes.\n2. Ask the customer to use Forgot Password and to check the spam and promotions folders for the reset email.\n3. For missing verification codes, wait two minutes and then use Resend; check that the phone number on the account is current.\n4. Ask the customer to update the app to the latest version and restart the phone.\n5. If sign-in still fails, trigger a manual password reset from the admin console.\n6. For repeated verification failures, verify the customer identity and then update the phone number on the account.\nEscalate if: the account looks compromised or the same error affects many customers at once."
+  },
+  {
+    "id": "KB010",
+    "title": "RFID Card Not Recognized",
+    "category": "RFID & Authentication",
+    "source": "Customer Support Playbook",
+    "last_updated": "2026-11-05",
+    "content": "Summary: Troubleshooting RFID cards, badges, and tags that the charger rejects or ignores.\nSymptoms: RFID card not read, badge tap ignored, nothing happens when I tap, card invalid, card blocked, card deactivated, access card refused, fleet cards denied.\nLikely cause: The card is deactivated or blocked in the back office, it is not linked to an active account, or the reader on the charger is faulty.\n1. Check the card status in the back office; look for Blocked, Expired, or Inactive.\n2. Make sure the card is linked to an account with a valid payment method.\n3. Reactivate or unblock the card if the account is in good standing.\n4. Ask the driver to try the card on a different charger; if it works there, the first charger reader is faulty.\n5. If many cards are rejected at one site or fleet, check the site authorisation list sync on the dashboard.\n6. Order a replacement card if the card is lost or physically damaged.\nEscalate if: all cards fail at an entire site or depot, because the authorisation list may not be syncing."
+  },
+  {
+    "id": "KB011",
+    "title": "Plug and Charge Vehicle Authentication Failures",
+    "category": "RFID & Authentication",
+    "source": "Technical Support Runbook",
+    "last_updated": "2026-10-14",
+    "content": "Summary: Diagnosing failures of automatic vehicle authentication (plug and charge) when the car is connected.\nSymptoms: plug and charge fails, vehicle not recognised for automatic start, vehicle certificate error, automatic start does not work, autocharge not working.\nLikely cause: The vehicle contract certificate is expired or not provisioned, or the charger cannot validate the certificate chain.\n1. Check that the vehicle is enrolled for automatic charging in the customer account.\n2. Ask whether the vehicle contract certificate is still valid; expired ones must be renewed through the car maker service.\n3. Ask the driver to start the session with the app or an RFID card as a workaround.\n4. Check whether other vehicles authenticate on the same charger; if they also fail, the charger certificate store may need updating.\n5. Collect the charger ID, the vehicle make and model, and the exact error text for the technical team.\nEscalate if: several vehicles fail on the same charger."
+  },
+  {
+    "id": "KB012",
+    "title": "Charging Session Fails to Start or Stops Early",
+    "category": "Charging Session",
+    "source": "Technical Support Runbook",
+    "last_updated": "2026-11-11",
+    "content": "Summary: Diagnosing sessions that will not begin, stay on preparing, or end early with an error.\nSymptoms: charging does not start after plugging in, session stops after a few minutes, charging interrupted, waiting for vehicle, stays on preparing, session timeout, no power delivered, session aborts, session ends with error.\nLikely cause: Incomplete handshake between vehicle and charger, a poor connector seating, a vehicle-side charge limit, or a charger fault.\n1. Ask the driver to unplug, wait ten seconds, and plug the connector in firmly until it clicks.\n2. Check that the car is unlocked and that no charge limit or scheduled charging is set in the car.\n3. Ask the driver to try a different charger or bay to separate a car problem from a charger problem.\n4. Check the charger status and last error code on the dashboard and send a remote soft reboot if the status is Faulted.\n5. Record the error text and time and attach them to the ticket if the issue repeats.\nEscalate if: the same charger fails for several drivers within one day; mark it out of service."
+  },
+  {
+    "id": "KB013",
+    "title": "Slow Charging Speed Troubleshooting",
+    "category": "Charging Session",
+    "source": "Technical Support Runbook",
+    "last_updated": "2026-10-22",
+    "content": "Summary: Explaining and fixing charging speeds far below the expected power.\nSymptoms: charging very slow, only 7 kW on a fast charger, charge rate fluctuating, power capped, charging speed lower than normal, speed bouncing up and down.\nLikely cause: Shared power between bays, a hot or nearly full battery limiting the rate, a vehicle-side limit, or a charger derating because of heat.\n1. Ask for the battery level, the vehicle model, and the charger ID.\n2. Explain that speed drops naturally above about 80 percent battery and in very cold or hot conditions.\n3. Check whether the neighbouring bay is in use, because some sites share power between two connectors.\n4. Check the dashboard for the power limit and any derating warnings on the charger.\n5. Ask the driver to try another bay and to check the vehicle maximum AC or DC charge rate.\nEscalate if: the charger is limited far below its rating with no derating reason."
+  },
+  {
+    "id": "KB014",
+    "title": "Station Offline: OCPP Connectivity Checklist",
+    "category": "Station Connectivity",
+    "source": "Technical Support Runbook",
+    "last_updated": "2026-11-14",
+    "content": "Summary: Checklist for a single charger that shows offline or has lost its backend connection.\nSymptoms: charger offline, unreachable from dashboard, no heartbeat, station lost connection, OCPP link dropping, remote command times out, dashboard shows unavailable, intermittent connection.\nLikely cause: Loss of mobile or network signal at the charger, a gateway or modem fault, or an OCPP websocket that cannot reconnect.\n1. Check the dashboard for the last heartbeat time and the last connection event.\n2. Check whether other chargers at the same site are online; if they are, the problem is local to this unit.\n3. Send a remote reboot if the charger is still reachable, then wait five minutes.\n4. Check the SIM or network status and signal strength reported by the modem.\n5. Check that the backend URL and charge point identity configured on the charger are correct.\n6. If the charger stays offline for more than 30 minutes, set it to unavailable in the app and open a field work order.\nEscalate if: more than one charger at the site is offline; use the site-wide outage runbook."
+  },
+  {
+    "id": "KB015",
+    "title": "Firmware Update Stuck or Reboot Loop",
+    "category": "Station Connectivity",
+    "source": "Technical Support Runbook",
+    "last_updated": "2026-10-25",
+    "content": "Summary: Recovering chargers stuck in a firmware upgrade or rebooting in a loop.\nSymptoms: firmware update stuck, upgrade failed, charger keeps rebooting, boot loop after upgrade, stuck at 60 percent, rollout failed on several units, outdated software version.\nLikely cause: An interrupted download caused by a weak connection, insufficient storage, or a corrupt firmware image.\n1. Check the firmware status and error message for the charger on the dashboard.\n2. Do not repeatedly power cycle the charger; wait ten minutes to see whether it completes or rolls back by itself.\n3. If it is still looping, trigger a remote rollback to the previous firmware version if available.\n4. Retry the update only after the connection is stable, and update a single charger first as a test.\n5. If rollback fails, schedule a technician to reflash the unit locally.\n6. If several units failed, pause the rollout for that firmware version and report it to the firmware team.\nEscalate if: more than two chargers fail the same upgrade."
+  },
+  {
+    "id": "KB016",
+    "title": "Site-Wide Outage Runbook (All Chargers Offline)",
+    "category": "Station Connectivity",
+    "source": "Major Incident Runbook",
+    "last_updated": "2026-11-16",
+    "content": "Summary: Major incident process when every charger at a site or depot is offline or unresponsive.\nSymptoms: all chargers offline, entire site down, whole depot offline, router failed, total power loss at site, no chargers responding, fleet cannot charge.\nLikely cause: Site power failure, a failed router or switch, loss of the backhaul link, or a backend problem affecting the whole site.\n1. Confirm on the dashboard that all chargers at the site stopped reporting at the same time.\n2. Call the site contact to check whether the building has power and whether the router and switch have lights on.\n3. If power is present, ask the site contact to restart the router and wait ten minutes.\n4. Check the backend status page to rule out a platform issue affecting other sites.\n5. Open a Critical incident, assign the on-call network engineer, and notify the account manager for fleet or depot customers.\n6. Send a status update to affected customers every 30 minutes until service is restored.\nEscalate if: always. A site-wide outage is a P1 incident."
+  }
+]

@@ -3,3 +3,4 @@ __pycache__/
 /models/
 .env
 /SupportPilot_M1/tickets.db
+/SupportPilot_M2/feedback.db
