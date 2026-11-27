@@ -1,0 +1,175 @@
+ticket,category,severity
+"Hello, Unit stays on preparing and never delivers power. Thanks.",Charging Session,High
+Please help. Car not recognised for automatic start. Thanks.,RFID & Authentication,Medium
+Please help. All employee cards denied at our site.,RFID & Authentication,High
+Good morning. OCPP link keeps flapping. This is at the Highway Rest Stop site.,Station Connectivity,Medium
+Good morning. Deposit on my card has not been returned.,Payment & Billing,Medium
+"Hello, Deposit on my card has not been returned. Station ID CP-3706.",Payment & Billing,Medium
+"Hello, Faded hazard stripes around the charger. Thanks.",Safety Hazard,Low
+Please help. Deposit on my card has not been returned. Happened today.,Payment & Billing,Medium
+"Hello, Latch on the charger flap is stiff. This is at the Highway Rest Stop site.",Charger Hardware,Medium
+"Hi team, Latch on the charger flap is stiff. Please advise.",Charger Hardware,Medium
+Good morning. Black marks and a smoldering smell around the socket. Please advise.,Safety Hazard,Critical
+Good morning. Latch on the charger flap is stiff. Please advise.,Charger Hardware,Medium
+"Hello, Estimated cost on the screen is slightly off. Thanks.",Charging Session,Low
+Estimated cost on the screen is slightly off. Happened today.,Charging Session,Low
+"Hello, Statement download link gives an error. Thanks.",Payment & Billing,Low
+All employee cards denied at our site. Please advise.,RFID & Authentication,High
+Cable shows signs of melting near the connector. This is at the Mall site.,Safety Hazard,Critical
+How do I change my display name. Station ID CP-3591.,Account & App,Low
+Please help. Charger clock is a few minutes off.,Station Connectivity,Low
+"Hello, Unit has not sent a heartbeat since last night. This is at the Highway Rest Stop site.",Station Connectivity,High
+Entire site lost network after the router failed. This is at the Mall site.,Station Connectivity,Critical
+Please help. How do I change my display name. Thanks.,Account & App,Low
+Unit has not sent a heartbeat since last night.,Station Connectivity,High
+Please help. Got billed for a charge I never made.,Payment & Billing,High
+Small dent on the side panel of the unit. This is at the Highway Rest Stop site.,Charger Hardware,Low
+Please help. Order a spare card for my colleague. Station ID CP-4385.,RFID & Authentication,Low
+"Hi team, Small dent on the side panel of the unit.",Charger Hardware,Low
+"Hello, Charge rate keeps bouncing up and down. Station ID CP-1729.",Charging Session,Medium
+"Hi, Unit has not sent a heartbeat since last night. This is at the Downtown Plaza site.",Station Connectivity,High
+"Hi team, Entire site lost network after the router failed. Thanks.",Station Connectivity,Critical
+"Cannot sign in, the app says wrong password even after reset. This is at the Airport site.",Account & App,Medium
+Unit stays on preparing and never delivers power. Please advise.,Charging Session,High
+"Hi, The charging handle has snapped off its mounting. This is at the Airport site.",Charger Hardware,High
+"Hi team, The map in the app is blank. Station ID CP-4323.",Account & App,Medium
+Please help. Deposit on my card has not been returned.,Payment & Billing,Medium
+Please help. Small dent on the side panel of the unit.,Charger Hardware,Low
+The charging handle has snapped off its mounting. Please advise.,Charger Hardware,High
+Good morning. Faded hazard stripes around the charger. This is at the Downtown Plaza site.,Safety Hazard,Low
+Please help. Small dent on the side panel of the unit. Thanks.,Charger Hardware,Low
+"Hello, Got billed for a charge I never made.",Payment & Billing,High
+Please help. OCPP link keeps flapping. This is at the Downtown Plaza site.,Station Connectivity,Medium
+Car not recognised for automatic start. This is at the Downtown Plaza site.,RFID & Authentication,Medium
+Statement download link gives an error. Happened today.,Payment & Billing,Low
+"Hello, OCPP link keeps flapping. Happened today.",Station Connectivity,Medium
+Please close my profile.,Account & App,Low
+Got billed for a charge I never made. This is at the Highway Rest Stop site.,Payment & Billing,High
+"Hello, The map in the app is blank.",Account & App,Medium
+Extra fee on my receipt that I did not expect. Happened today.,Payment & Billing,Medium
+Good morning. Remote unlock from the dashboard times out. Please advise.,Station Connectivity,High
+Unit stays on preparing and never delivers power.,Charging Session,High
+"Hi, Please close my profile. This is at the Downtown Plaza site.",Account & App,Low
+"Hi, Cable shows signs of melting near the connector. This is at the Airport site.",Safety Hazard,Critical
+Cable shows signs of melting near the connector. Happened today.,Safety Hazard,Critical
+"Hi team, Please close my profile. This is at the Airport site.",Account & App,Low
+"Hi team, The charging handle has snapped off its mounting. Station ID CP-4308.",Charger Hardware,High
+Badge tap is ignored by the unit.,RFID & Authentication,Medium
+Please help. Extra fee on my receipt that I did not expect.,Payment & Billing,Medium
+Please help. Entire site lost network after the router failed.,Station Connectivity,Critical
+Please help. Small dent on the side panel of the unit.,Charger Hardware,Low
+"Hi team, Got billed for a charge I never made.",Payment & Billing,High
+Please help. Entire site lost network after the router failed. Station ID CP-1859.,Station Connectivity,Critical
+Good morning. Charge rate keeps bouncing up and down.,Charging Session,Medium
+Black marks and a smoldering smell around the socket.,Safety Hazard,Critical
+The charging handle has snapped off its mounting.,Charger Hardware,High
+"Hello, Latch on the charger flap is stiff. Thanks.",Charger Hardware,Medium
+Please help. Charger clock is a few minutes off.,Station Connectivity,Low
+"Hi, Unit has not sent a heartbeat since last night.",Station Connectivity,High
+Good morning. Statement download link gives an error. Station ID CP-3192.,Payment & Billing,Low
+"Please help. Cannot sign in, the app says wrong password even after reset.",Account & App,Medium
+Badge tap is ignored by the unit. Happened today.,RFID & Authentication,Medium
+"Hello, Faded hazard stripes around the charger.",Safety Hazard,Low
+"Hi, How do I change my display name. This is at the Downtown Plaza site.",Account & App,Low
+Good morning. The charging handle has snapped off its mounting. Please advise.,Charger Hardware,High
+"Hi, Extra fee on my receipt that I did not expect.",Payment & Billing,Medium
+Good morning. Black marks and a smoldering smell around the socket. Station ID CP-1425.,Safety Hazard,Critical
+"Hi team, Car not recognised for automatic start. Happened today.",RFID & Authentication,Medium
+Please help. Order a spare card for my colleague.,RFID & Authentication,Low
+Estimated cost on the screen is slightly off.,Charging Session,Low
+Charger clock is a few minutes off.,Station Connectivity,Low
+All employee cards denied at our site.,RFID & Authentication,High
+"Hi, OCPP link keeps flapping. Happened today.",Station Connectivity,Medium
+"Hi, Large puddle forming around the foot of the unit. This is at the Highway Rest Stop site.",Safety Hazard,High
+Charge rate keeps bouncing up and down. This is at the Highway Rest Stop site.,Charging Session,Medium
+"Hello, Latch on the charger flap is stiff. Please advise.",Charger Hardware,Medium
+"Hi, Cable shows signs of melting near the connector. Happened today.",Safety Hazard,Critical
+Please close my profile.,Account & App,Low
+"Hi, OCPP link keeps flapping.",Station Connectivity,Medium
+Please help. Entire site lost network after the router failed. Please advise.,Station Connectivity,Critical
+"Hello, Remote unlock from the dashboard times out. Happened today.",Station Connectivity,High
+"Hi team, Bay number sticker has fallen off. Station ID CP-3775.",Charger Hardware,Low
+Badge tap is ignored by the unit. Station ID CP-3894.,RFID & Authentication,Medium
+Good morning. Extra fee on my receipt that I did not expect. This is at the Highway Rest Stop site.,Payment & Billing,Medium
+"Hi, Please close my profile. Happened today.",Account & App,Low
+"Hello, Charger clock is a few minutes off. Thanks.",Station Connectivity,Low
+How do I change my display name.,Account & App,Low
+All employee cards denied at our site. Station ID CP-2901.,RFID & Authentication,High
+"Hi, Car not recognised for automatic start.",RFID & Authentication,Medium
+Please help. Order a spare card for my colleague.,RFID & Authentication,Low
+"Hello, Remote unlock from the dashboard times out. Please advise.",Station Connectivity,High
+"Hello, Bay number sticker has fallen off. Station ID CP-3500.",Charger Hardware,Low
+"Hello, Small dent on the side panel of the unit. Happened today.",Charger Hardware,Low
+"Hello, Badge tap is ignored by the unit. Happened today.",RFID & Authentication,Medium
+Please help. Large puddle forming around the foot of the unit. Happened today.,Safety Hazard,High
+Please help. Faded hazard stripes around the charger.,Safety Hazard,Low
+"Hi, Deposit on my card has not been returned. Happened today.",Payment & Billing,Medium
+Black marks and a smoldering smell around the socket. Happened today.,Safety Hazard,Critical
+"Hi, Estimated cost on the screen is slightly off. Station ID CP-2010.",Charging Session,Low
+All employee cards denied at our site. This is at the Highway Rest Stop site.,RFID & Authentication,High
+"Hi, Bay number sticker has fallen off. Happened today.",Charger Hardware,Low
+Large puddle forming around the foot of the unit. Station ID CP-4197.,Safety Hazard,High
+Badge tap is ignored by the unit. Thanks.,RFID & Authentication,Medium
+"Hello, History shows wrong energy total.",Charging Session,Medium
+"Hi team, Cannot sign in, the app says wrong password even after reset. Please advise.",Account & App,Medium
+"Hello, Unit has not sent a heartbeat since last night. Thanks.",Station Connectivity,High
+Please help. Statement download link gives an error.,Payment & Billing,Low
+"Hi, Statement download link gives an error.",Payment & Billing,Low
+Please help. OCPP link keeps flapping. Happened today.,Station Connectivity,Medium
+Good morning. History shows wrong energy total. Thanks.,Charging Session,Medium
+Extra fee on my receipt that I did not expect. Happened today.,Payment & Billing,Medium
+The map in the app is blank. Station ID CP-3429.,Account & App,Medium
+"Hi team, Charge rate keeps bouncing up and down. Happened today.",Charging Session,Medium
+"Hello, Estimated cost on the screen is slightly off. This is at the Downtown Plaza site.",Charging Session,Low
+Deposit on my card has not been returned.,Payment & Billing,Medium
+"Hi team, Large puddle forming around the foot of the unit. Please advise.",Safety Hazard,High
+Please help. Remote unlock from the dashboard times out. Happened today.,Station Connectivity,High
+Good morning. How do I change my display name.,Account & App,Low
+"Hi, How do I change my display name.",Account & App,Low
+The map in the app is blank. Thanks.,Account & App,Medium
+"Hello, Order a spare card for my colleague.",RFID & Authentication,Low
+The map in the app is blank. This is at the Airport site.,Account & App,Medium
+Please help. Statement download link gives an error. Station ID CP-4927.,Payment & Billing,Low
+Good morning. History shows wrong energy total. Please advise.,Charging Session,Medium
+"Hi team, Charger clock is a few minutes off. Thanks.",Station Connectivity,Low
+Remote unlock from the dashboard times out. Thanks.,Station Connectivity,High
+Please help. Charger clock is a few minutes off. Thanks.,Station Connectivity,Low
+Please help. Unit has not sent a heartbeat since last night.,Station Connectivity,High
+"Hello, All employee cards denied at our site. Thanks.",RFID & Authentication,High
+Good morning. Order a spare card for my colleague. Thanks.,RFID & Authentication,Low
+The map in the app is blank. Please advise.,Account & App,Medium
+"Hi, Unit stays on preparing and never delivers power.",Charging Session,High
+Please help. Cable shows signs of melting near the connector. Please advise.,Safety Hazard,Critical
+"Hello, Estimated cost on the screen is slightly off. Station ID CP-4428.",Charging Session,Low
+Order a spare card for my colleague.,RFID & Authentication,Low
+"Please help. Cannot sign in, the app says wrong password even after reset.",Account & App,Medium
+"Hello, The charging handle has snapped off its mounting. Please advise.",Charger Hardware,High
+"Hi team, History shows wrong energy total. Please advise.",Charging Session,Medium
+Please help. Got billed for a charge I never made. Thanks.,Payment & Billing,High
+"Hello, Large puddle forming around the foot of the unit. Station ID CP-3835.",Safety Hazard,High
+Charge rate keeps bouncing up and down. Happened today.,Charging Session,Medium
+"Hello, Large puddle forming around the foot of the unit. Please advise.",Safety Hazard,High
+Black marks and a smoldering smell around the socket. Thanks.,Safety Hazard,Critical
+"Hi team, Extra fee on my receipt that I did not expect. Please advise.",Payment & Billing,Medium
+"Hi team, Faded hazard stripes around the charger.",Safety Hazard,Low
+Black marks and a smoldering smell around the socket. Station ID CP-3970.,Safety Hazard,Critical
+"Hi team, Bay number sticker has fallen off. Station ID CP-2093.",Charger Hardware,Low
+"Please help. Cannot sign in, the app says wrong password even after reset.",Account & App,Medium
+Faded hazard stripes around the charger.,Safety Hazard,Low
+"Hi team, Badge tap is ignored by the unit. This is at the Highway Rest Stop site.",RFID & Authentication,Medium
+Please help. Bay number sticker has fallen off. This is at the Highway Rest Stop site.,Charger Hardware,Low
+Please help. Bay number sticker has fallen off. Thanks.,Charger Hardware,Low
+Good morning. Car not recognised for automatic start.,RFID & Authentication,Medium
+Got billed for a charge I never made. Happened today.,Payment & Billing,High
+Please help. Latch on the charger flap is stiff.,Charger Hardware,Medium
+Please close my profile. This is at the Riverside site.,Account & App,Low
+"Hi team, Remote unlock from the dashboard times out. Station ID CP-3174.",Station Connectivity,High
+Car not recognised for automatic start. Thanks.,RFID & Authentication,Medium
+"Cannot sign in, the app says wrong password even after reset. This is at the Riverside site.",Account & App,Medium
+"Hi team, Entire site lost network after the router failed.",Station Connectivity,Critical
+History shows wrong energy total. Please advise.,Charging Session,Medium
+Please help. Unit stays on preparing and never delivers power.,Charging Session,High
+Cable shows signs of melting near the connector.,Safety Hazard,Critical
+"Hi, History shows wrong energy total.",Charging Session,Medium
+"Hi team, Charge rate keeps bouncing up and down.",Charging Session,Medium
+"Hello, Unit stays on preparing and never delivers power.",Charging Session,High

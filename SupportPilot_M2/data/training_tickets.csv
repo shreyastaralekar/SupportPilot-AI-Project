@@ -1,0 +1,1513 @@
+ticket,category,severity
+"Hi, Firmware rollout failed on several units. Thanks.",Station Connectivity,High
+Charger says connector locked but nothing happens. Thanks.,Charging Session,High
+Please help. Card reader slot on the unit is broken. This is at the Highway Rest Stop site.,Charger Hardware,Medium
+Please help. Cable holster is broken and the cable drags on the ground. This is at the Mall site.,Charger Hardware,Low
+"Hello, Charger reboots randomly and loses its network link.",Station Connectivity,Medium
+"Hi team, OCPP connection keeps dropping and reconnecting. Thanks.",Station Connectivity,Medium
+Refund for a failed session has not arrived. Happened today.,Payment & Billing,Medium
+Please help. Card reader slot on the unit is broken.,Charger Hardware,Medium
+Cooling fan inside the charger is making a loud grinding noise. Please advise.,Charger Hardware,Medium
+"Hi, Charger reboots randomly and loses its network link. Please advise.",Station Connectivity,Medium
+Please issue a credit note for the wrong invoice. Thanks.,Payment & Billing,Low
+Good morning. Charged a roaming fee that I was not told about.,Payment & Billing,Medium
+"Hi, PIN for the access card was forgotten. Happened today.",RFID & Authentication,Low
+"Hi team, Charger bay lighting is dim at night. This is at the Mall site.",Charger Hardware,Low
+Connector will not lock into the vehicle socket. Thanks.,Charger Hardware,Medium
+"Hi, I want to link my RFID card to my account.",RFID & Authentication,Low
+Station lost connection to the central management system. This is at the Downtown Plaza site.,Station Connectivity,High
+"Hi team, How do I enable dark mode in the app. Please advise.",Account & App,Low
+"Hi, Charging stops after a few minutes every time. Please advise.",Charging Session,High
+"Hello, Scratches and scuffs on the charger body. Station ID CP-4285.",Charger Hardware,Low
+Good morning. The charger emergency stop button is jammed. Please advise.,Charger Hardware,High
+Charge rate keeps fluctuating between 20 and 100 kW.,Charging Session,Medium
+"Hello, The charger does not react when I tap my badge. This is at the Mall site.",RFID & Authentication,Medium
+"Hi, The charger is hot to touch and smells like burnt plastic. Thanks.",Safety Hazard,Critical
+"Hello, Two factor code is not accepted when logging in. This is at the Riverside site.",Account & App,Medium
+"Hi, I was charged twice for a single charging session. This is at the Highway Rest Stop site.",Payment & Billing,High
+Charger map does not show nearby stations. Station ID CP-2343.,Account & App,Medium
+"Hi team, I saw smoke coming from the charger. Thanks.",Safety Hazard,Critical
+"Hi, Push notifications about charge completion are not working.",Account & App,Low
+"Hello, Software version on the charger is outdated. Thanks.",Station Connectivity,Low
+Contactless card read fails on bay 2. Thanks.,RFID & Authentication,Medium
+"Hi team, Please delete my account and personal data. Happened today.",Account & App,Low
+"Hi, Card was declined at the charger even though it works elsewhere. This is at the Highway Rest Stop site.",Payment & Billing,Medium
+Please help. Cooling fan inside the charger is making a loud grinding noise.,Charger Hardware,Medium
+Password reset email is not arriving. Thanks.,Account & App,Medium
+Scratches and scuffs on the charger body. This is at the Downtown Plaza site.,Charger Hardware,Low
+Please help. The charging gun is jammed and will not come out of the socket. Thanks.,Charger Hardware,High
+Please help. Floor markings around the bay are worn.,Safety Hazard,Low
+"Hi, Floor markings around the bay are worn. Happened today.",Safety Hazard,Low
+Good morning. Card reader slot on the unit is broken. Station ID CP-3289.,Charger Hardware,Medium
+The charger Wi-Fi signal is weak at the far end of the lot. Station ID CP-1267.,Station Connectivity,Low
+"Hello, The charger is hot to touch and smells like burnt plastic. Thanks.",Safety Hazard,Critical
+Charger reboots randomly and loses its network link. Thanks.,Station Connectivity,Medium
+"Hi team, Charging ended early and the battery is only at 40 percent. Happened today.",Charging Session,Medium
+"Hi, Screen on the charger is blank and unresponsive. This is at the Mall site.",Charger Hardware,Medium
+Good morning. My favourite stations list disappeared. This is at the Airport site.,Account & App,Low
+"Hi team, I forgot my password and cannot sign in. Please advise.",Account & App,Medium
+Chargers at the site went offline overnight. Please advise.,Station Connectivity,High
+Charger reboots randomly and loses its network link.,Station Connectivity,Medium
+Charger reboots randomly and loses its network link. Station ID CP-1306.,Station Connectivity,Medium
+How do I enable dark mode in the app. Station ID CP-4136.,Account & App,Low
+Duplicate transaction appears on my bank statement for one charge. Please advise.,Payment & Billing,High
+"Hi, Software version on the charger is outdated. Station ID CP-3216.",Station Connectivity,Low
+"Hello, The charger door will not close properly. Thanks.",Charger Hardware,Medium
+Please issue a credit note for the wrong invoice. Station ID CP-1563.,Payment & Billing,Low
+Screen on the charger is blank and unresponsive. This is at the Highway Rest Stop site.,Charger Hardware,Medium
+"Hi team, Connector will not lock into the vehicle socket.",Charger Hardware,Medium
+Charging speed is only 7 kW on a 150 kW charger. This is at the Mall site.,Charging Session,Medium
+Please help. Idle fee was applied although I had left the bay. Thanks.,Payment & Billing,Medium
+Good morning. I forgot my password and cannot sign in.,Account & App,Medium
+"Hi, I want to link my RFID card to my account. Happened today.",RFID & Authentication,Low
+"Hi team, Charger clock is wrong because it cannot sync time. This is at the Highway Rest Stop site.",Station Connectivity,Low
+"Hi, Password reset email is not arriving.",Account & App,Medium
+Good morning. PIN for the access card was forgotten. Please advise.,RFID & Authentication,Low
+Please change the name on my profile. Station ID CP-4802.,Account & App,Low
+"Hello, Cannot add a new payment card in the app. Please advise.",Account & App,Medium
+"Hi, Firmware rollout failed on several units. Station ID CP-3969.",Station Connectivity,High
+Charging session ends with an error message after two minutes. Station ID CP-3690.,Charging Session,High
+"Hi, Casing of the unit is dented after someone hit it.",Charger Hardware,Low
+"Hi, Session will not start after I plug in the connector. Thanks.",Charging Session,High
+Good morning. Payment failed but the charger started anyway. Happened today.,Payment & Billing,Medium
+"Hi team, Remote start command from the dashboard times out. Thanks.",Station Connectivity,High
+App shows the wrong language. Happened today.,Account & App,Low
+Session history is missing the last charge. Please advise.,Charging Session,Low
+Station lost connection to the central management system. Thanks.,Station Connectivity,High
+Please help. The kWh shown in my history is lower than what I received. This is at the Airport site.,Charging Session,Medium
+Please help. The charger emergency stop button is jammed. Thanks.,Charger Hardware,High
+"Hi team, Please activate my new RFID card. Station ID CP-4344.",RFID & Authentication,Low
+Good morning. Pooling water around the base of the charger. This is at the Airport site.,Safety Hazard,High
+"Hi, Cannot register a new account with my phone number. This is at the Riverside site.",Account & App,Medium
+"Hi team, Charger firmware update failed and it is stuck rebooting. Please advise.",Station Connectivity,High
+Please help. The charger emergency stop button is jammed. Station ID CP-2393.,Charger Hardware,High
+Please help. Charging speed is only 7 kW on a 150 kW charger.,Charging Session,Medium
+"Hi, Cannot add a new payment card in the app. Happened today.",Account & App,Medium
+Chargers at the site went offline overnight.,Station Connectivity,High
+"Hello, Charger reboots randomly and loses its network link. This is at the Riverside site.",Station Connectivity,Medium
+Good morning. Plug and charge authentication fails with my vehicle.,RFID & Authentication,Medium
+"Hello, Charger bay lighting is dim at night.",Charger Hardware,Low
+"Hi, Please change the name on my profile.",Account & App,Low
+Card was declined at the charger even though it works elsewhere.,Payment & Billing,Medium
+Please help. My favourite stations list disappeared.,Account & App,Low
+"Hello, Push notifications about charge completion are not working. This is at the Airport site.",Account & App,Low
+Good morning. Safety instructions sticker is missing from the unit. Thanks.,Safety Hazard,Low
+"Hello, Card was blocked after too many failed attempts.",RFID & Authentication,Medium
+"Hi, Cable holster is broken and the cable drags on the ground.",Charger Hardware,Low
+Please help. Please issue a credit note for the wrong invoice. Please advise.,Payment & Billing,Low
+I was charged twice for a single charging session. Please advise.,Payment & Billing,High
+Good morning. Cable is frayed near the plug and the outer jacket is split.,Charger Hardware,High
+"Hi team, Charger display shows a fault code and will not start. Thanks.",Charger Hardware,High
+"Hi, Charger shows card invalid for valid cards. Thanks.",RFID & Authentication,Medium
+Good morning. Charged a roaming fee that I was not told about. Station ID CP-1628.,Payment & Billing,Medium
+Charger does not deliver any power after I connect.,Charging Session,High
+Good morning. Charger clock is wrong because it cannot sync time. Station ID CP-4751.,Station Connectivity,Low
+"Hi, SIM card data usage for the charger modem is unusually high.",Station Connectivity,Low
+Good morning. Duplicate transaction appears on my bank statement for one charge. This is at the Mall site.,Payment & Billing,High
+"Hi, My RFID card is not recognized by the charger. Please advise.",RFID & Authentication,Medium
+"Hello, Password reset email is not arriving. Station ID CP-4130.",Account & App,Medium
+"Hi, The charger emergency stop button is jammed. Please advise.",Charger Hardware,High
+"Hello, A fire started under the vehicle while charging. Station ID CP-4201.",Safety Hazard,Critical
+Good morning. Charging stops after a few minutes every time. Station ID CP-1276.,Charging Session,High
+"Hello, Please activate my new RFID card. Station ID CP-4967.",RFID & Authentication,Low
+"Hi team, Please delete my account and personal data. Station ID CP-4128.",Account & App,Low
+Someone received an electric shock from the cable. Station ID CP-2328.,Safety Hazard,Critical
+"Hi team, Authentication timeout when starting a session with my card. Happened today.",RFID & Authentication,Medium
+"Hi team, Connector is physically stuck in my car and I cannot unplug it.",Charger Hardware,High
+"Hi team, Warning sign next to the charger has fallen off. Station ID CP-2672.",Safety Hazard,Low
+Please help. The charger Wi-Fi signal is weak at the far end of the lot. Happened today.,Station Connectivity,Low
+"Hi, Need a replacement RFID card because I lost mine.",RFID & Authentication,Low
+Good morning. I saw smoke coming from the charger. Thanks.,Safety Hazard,Critical
+Good morning. Chargers at the site went offline overnight.,Station Connectivity,High
+"Hi team, The charger Wi-Fi signal is weak at the far end of the lot.",Station Connectivity,Low
+Good morning. The charging bay has a trip hazard because of loose cables. Station ID CP-1506.,Safety Hazard,Medium
+"Hi team, A tree branch has fallen on the charging unit. Please advise.",Safety Hazard,High
+Charge limit setting does not stop at 80 percent. Please advise.,Charging Session,Low
+"Hi team, Duplicate transaction appears on my bank statement for one charge.",Payment & Billing,High
+Subscription renewal charged me although I cancelled.,Payment & Billing,Medium
+Please help. Safety instructions sticker is missing from the unit. Station ID CP-4208.,Safety Hazard,Low
+Good morning. Sparks came out of the connector when I plugged in. Happened today.,Safety Hazard,Critical
+"Hello, The app shows a different amount than my card statement. This is at the Riverside site.",Payment & Billing,Medium
+Connector is physically stuck in my car and I cannot unplug it. Thanks.,Charger Hardware,High
+"Hi team, Contactless card read fails on bay 2. Please advise.",RFID & Authentication,Medium
+Charging session shows as active after I disconnected.,Charging Session,Medium
+"Hi team, All chargers at the depot are offline. Station ID CP-4528.",Station Connectivity,Critical
+"Hi, Connector latch feels loose and wobbly.",Charger Hardware,Medium
+"Hello, Subscription renewal charged me although I cancelled. This is at the Riverside site.",Payment & Billing,Medium
+"Hello, Our company cards stopped working at all sites. This is at the Highway Rest Stop site.",RFID & Authentication,High
+"Hello, Charger display shows a fault code and will not start. Please advise.",Charger Hardware,High
+Good morning. Connector is physically stuck in my car and I cannot unplug it.,Charger Hardware,High
+"Hi team, Casing of the unit is dented after someone hit it. Thanks.",Charger Hardware,Low
+I was billed for a session I never started.,Payment & Billing,High
+"Hi team, Charger does not deliver any power after I connect. Station ID CP-1736.",Charging Session,High
+Good morning. Please change the name on my profile. Please advise.,Account & App,Low
+Please help. SIM card data usage for the charger modem is unusually high. Station ID CP-2528.,Station Connectivity,Low
+"Hi team, Station lost connection to the central management system. Happened today.",Station Connectivity,High
+Please help. Autocharge vehicle recognition does not work with my car.,RFID & Authentication,Medium
+Please help. All chargers at the depot are offline. Station ID CP-3432.,Station Connectivity,Critical
+"Hi, Weak mobile signal at the station. Thanks.",Station Connectivity,Low
+Charging speed is only 7 kW on a 150 kW charger.,Charging Session,Medium
+Please help. I was billed for a session I never started. Thanks.,Payment & Billing,High
+Please help. Charger says connector locked but nothing happens. Station ID CP-3269.,Charging Session,High
+"Hello, I forgot my password and cannot sign in.",Account & App,Medium
+"Hello, I need a copy of my invoice for last month.",Payment & Billing,Low
+Someone received an electric shock from the cable.,Safety Hazard,Critical
+"Hi, Connector latch feels loose and wobbly. Happened today.",Charger Hardware,Medium
+"Hello, The router at the site is down and chargers are unreachable. This is at the Highway Rest Stop site.",Station Connectivity,High
+Please help. The charging gun is jammed and will not come out of the socket. Station ID CP-1424.,Charger Hardware,High
+Floor markings around the bay are worn.,Safety Hazard,Low
+Good morning. The charging bay has a trip hazard because of loose cables. Station ID CP-4621.,Safety Hazard,Medium
+A vehicle collided with the charging post and it is leaning. Happened today.,Safety Hazard,High
+"Hi, Sparks came out of the connector when I plugged in. Station ID CP-1070.",Safety Hazard,Critical
+"Hi team, Idle fee was applied although I had left the bay. This is at the Mall site.",Payment & Billing,Medium
+Please help. Charger does not deliver any power after I connect. Please advise.,Charging Session,High
+"Hi, A tree branch has fallen on the charging unit. Thanks.",Safety Hazard,High
+Please delete my account and personal data. Happened today.,Account & App,Low
+"Hello, Charging stops after a few minutes every time. This is at the Riverside site.",Charging Session,High
+Charging session ends with an error message after two minutes. Please advise.,Charging Session,High
+Please help. How do I enable dark mode in the app. Happened today.,Account & App,Low
+"Hi team, Dashboard shows the charger as unavailable. Thanks.",Station Connectivity,High
+Good morning. My company needs a VAT receipt. This is at the Downtown Plaza site.,Payment & Billing,Low
+The charging gun is jammed and will not come out of the socket.,Charger Hardware,High
+"Hi, Push notifications about charge completion are not working. Happened today.",Account & App,Low
+"Hello, Push notifications about charge completion are not working. Station ID CP-1787.",Account & App,Low
+Good morning. Cannot add a new payment card in the app. Happened today.,Account & App,Medium
+"Hi, I was billed for a session I never started. Thanks.",Payment & Billing,High
+"Hello, Charged a roaming fee that I was not told about.",Payment & Billing,Medium
+Cannot register a new account with my phone number. Please advise.,Account & App,Medium
+"Hello, OCPP connection keeps dropping and reconnecting. Please advise.",Station Connectivity,Medium
+Please help. Please delete my account and personal data. Station ID CP-3754.,Account & App,Low
+Please help. Charging cable is damaged and the insulation is cracked.,Charger Hardware,High
+Charger bay lighting is dim at night.,Charger Hardware,Low
+"Hello, All chargers at the depot are offline. This is at the Mall site.",Station Connectivity,Critical
+Good morning. App shows the wrong language. Please advise.,Account & App,Low
+Charge limit setting does not stop at 80 percent.,Charging Session,Low
+"Hi, The charging bay has a trip hazard because of loose cables. Please advise.",Safety Hazard,Medium
+"Hi team, Handle of the connector is cracked. This is at the Highway Rest Stop site.",Charger Hardware,Medium
+Please help. The price shown on the screen differs from my bill. Thanks.,Payment & Billing,Medium
+Please help. Charger says connector locked but nothing happens.,Charging Session,High
+Two factor code is not accepted when logging in.,Account & App,Medium
+Please issue a credit note for the wrong invoice. Station ID CP-4345.,Payment & Billing,Low
+"Hi, The charging bay has a trip hazard because of loose cables. Happened today.",Safety Hazard,Medium
+Scratches and scuffs on the charger body. Station ID CP-3443.,Charger Hardware,Low
+"Hello, OCPP connection keeps dropping and reconnecting. Thanks.",Station Connectivity,Medium
+"Hi, Backend shows no heartbeat from the unit.",Station Connectivity,High
+"Hi, Cooling fan inside the charger is making a loud grinding noise.",Charger Hardware,Medium
+"Hi, Authentication timeout when starting a session with my card. Please advise.",RFID & Authentication,Medium
+"Hi team, The charger Wi-Fi signal is weak at the far end of the lot. Thanks.",Station Connectivity,Low
+"Hi, There was a burning smell near the charging unit.",Safety Hazard,Critical
+"Hello, I want to unsubscribe from marketing emails. Thanks.",Account & App,Low
+"Hi team, Cooling fan inside the charger is making a loud grinding noise. Station ID CP-2382.",Charger Hardware,Medium
+Good morning. Charger bay lighting is dim at night. Happened today.,Charger Hardware,Low
+"Hello, Charger clock is wrong because it cannot sync time. Station ID CP-3467.",Station Connectivity,Low
+Please help. I need a copy of my invoice for last month.,Payment & Billing,Low
+"Hello, The price shown on the screen differs from my bill. Happened today.",Payment & Billing,Medium
+"Hi, App crashes when I open the map. Thanks.",Account & App,Medium
+Good morning. Cable is too short to reach the car inlet.,Charger Hardware,Low
+Please help. Casing of the unit is dented after someone hit it.,Charger Hardware,Low
+PIN for the access card was forgotten. Happened today.,RFID & Authentication,Low
+"Hi, QR code on the charger does not open the app. Happened today.",RFID & Authentication,Medium
+"Hi team, Need a replacement RFID card because I lost mine. Thanks.",RFID & Authentication,Low
+Please help. The charger emergency stop button is jammed.,Charger Hardware,High
+Please help. I saw smoke coming from the charger. Thanks.,Safety Hazard,Critical
+Firmware rollout failed on several units.,Station Connectivity,High
+Please help. Cable holster is broken and the cable drags on the ground.,Charger Hardware,Low
+Need a replacement RFID card because I lost mine. Please advise.,RFID & Authentication,Low
+"Hello, Card was blocked after too many failed attempts. Thanks.",RFID & Authentication,Medium
+Please help. Charger shows card invalid for valid cards.,RFID & Authentication,Medium
+Tap to start does nothing with my membership card. Thanks.,RFID & Authentication,Medium
+"Hi, Software version on the charger is outdated. Please advise.",Station Connectivity,Low
+"Hello, Cable is too short to reach the car inlet. Happened today.",Charger Hardware,Low
+Warning sign next to the charger has fallen off. Station ID CP-2288.,Safety Hazard,Low
+"Hi, Charge rate keeps fluctuating between 20 and 100 kW. Happened today.",Charging Session,Medium
+Good morning. Connector will not lock into the vehicle socket.,Charger Hardware,Medium
+Good morning. Charger says connector locked but nothing happens.,Charging Session,High
+Please help. Heartbeat timeouts from station every few minutes. Please advise.,Station Connectivity,Medium
+Please issue a credit note for the wrong invoice. This is at the Downtown Plaza site.,Payment & Billing,Low
+"Hello, Charging ended early and the battery is only at 40 percent. Please advise.",Charging Session,Medium
+Please help. Driver tag has been deactivated by mistake.,RFID & Authentication,Medium
+Good morning. Charging session shows as active after I disconnected. Happened today.,Charging Session,Medium
+The price shown on the screen differs from my bill. Station ID CP-4130.,Payment & Billing,Medium
+"Hi, Cable holster is broken and the cable drags on the ground. This is at the Airport site.",Charger Hardware,Low
+Charging session ends with an error message after two minutes. Thanks.,Charging Session,High
+Intermittent connection drops on the charger gateway. Happened today.,Station Connectivity,Medium
+Good morning. Please delete my account and personal data. Station ID CP-2912.,Account & App,Low
+Good morning. OCPP connection keeps dropping and reconnecting. Thanks.,Station Connectivity,Medium
+Refund for a failed session has not arrived. Please advise.,Payment & Billing,Medium
+"Hi, App crashes when I open the map.",Account & App,Medium
+"Hi, Floor markings around the bay are worn.",Safety Hazard,Low
+Charger says connector locked but nothing happens. Station ID CP-1219.,Charging Session,High
+"Hi, Cannot add a new payment card in the app.",Account & App,Medium
+"Hi team, I need a copy of my invoice for last month. Please advise.",Payment & Billing,Low
+Please help. Cable is frayed near the plug and the outer jacket is split. Happened today.,Charger Hardware,High
+Card was declined at the charger even though it works elsewhere.,Payment & Billing,Medium
+Please help. Charging was interrupted when it started raining.,Charging Session,Medium
+Good morning. There was a burning smell near the charging unit. Station ID CP-3736.,Safety Hazard,Critical
+"Hello, Intermittent connection drops on the charger gateway. Station ID CP-1506.",Station Connectivity,Medium
+Please help. Software version on the charger is outdated. This is at the Highway Rest Stop site.,Station Connectivity,Low
+"Hi team, Charged a roaming fee that I was not told about. Happened today.",Payment & Billing,Medium
+Good morning. Charging was interrupted when it started raining. This is at the Airport site.,Charging Session,Medium
+Good morning. Connector latch feels loose and wobbly. Thanks.,Charger Hardware,Medium
+"Hi team, Cannot download my monthly statement from the portal. Thanks.",Payment & Billing,Low
+"Hi, The router at the site is down and chargers are unreachable. This is at the Airport site.",Station Connectivity,High
+Please help. Session history is missing the last charge.,Charging Session,Low
+"Hello, Charged a roaming fee that I was not told about. Station ID CP-1878.",Payment & Billing,Medium
+Please help. Cannot download my monthly statement from the portal. Please advise.,Payment & Billing,Low
+Please help. Chargers at the site went offline overnight. Station ID CP-1946.,Station Connectivity,High
+Good morning. Cannot download my monthly statement from the portal. Thanks.,Payment & Billing,Low
+I need a copy of my invoice for last month.,Payment & Billing,Low
+Idle fee was applied although I had left the bay. Thanks.,Payment & Billing,Medium
+Please help. Contactless card read fails on bay 2.,RFID & Authentication,Medium
+"Hi, My favourite stations list disappeared. Station ID CP-2311.",Account & App,Low
+Please help. Cable is frayed near the plug and the outer jacket is split. Please advise.,Charger Hardware,High
+"Hi team, Floor markings around the bay are worn.",Safety Hazard,Low
+"Hello, I forgot my password and cannot sign in.",Account & App,Medium
+"Hi team, Charging power is capped lower than the vehicle can accept. Please advise.",Charging Session,Medium
+My company needs a VAT receipt.,Payment & Billing,Low
+Charging was interrupted when it started raining. This is at the Airport site.,Charging Session,Medium
+"Hi, QR code on the charger does not open the app. Please advise.",RFID & Authentication,Medium
+Cable insulation is melted near the plug. Station ID CP-3907.,Safety Hazard,Critical
+Please help. Someone received an electric shock from the cable.,Safety Hazard,Critical
+"Hi team, Chargers at the site went offline overnight.",Station Connectivity,High
+"Hi team, QR code on the charger does not open the app. Happened today.",RFID & Authentication,Medium
+Please help. The charger emergency stop button is jammed.,Charger Hardware,High
+Good morning. I cannot log in to the mobile app. This is at the Airport site.,Account & App,Medium
+The charging bay has a trip hazard because of loose cables.,Safety Hazard,Medium
+Good morning. Contactless card read fails on bay 2.,RFID & Authentication,Medium
+Please help. Please change the name on my profile. Happened today.,Account & App,Low
+Good morning. Duplicate transaction appears on my bank statement for one charge. Please advise.,Payment & Billing,High
+Scratches and scuffs on the charger body. Station ID CP-4344.,Charger Hardware,Low
+Please help. Dashboard shows the charger as unavailable. Station ID CP-2359.,Station Connectivity,High
+Charge rate keeps fluctuating between 20 and 100 kW.,Charging Session,Medium
+Card was blocked after too many failed attempts. This is at the Airport site.,RFID & Authentication,Medium
+Our company cards stopped working at all sites. Thanks.,RFID & Authentication,High
+"Hi team, Pre-authorisation hold on my card was not released. Please advise.",Payment & Billing,Medium
+Station lost connection to the central management system. This is at the Mall site.,Station Connectivity,High
+"Hello, Charging session ends with an error message after two minutes. Please advise.",Charging Session,High
+"Hello, Charger says connector locked but nothing happens. This is at the Downtown Plaza site.",Charging Session,High
+"Hello, The kWh shown in my history is lower than what I received. Happened today.",Charging Session,Medium
+Charger shows offline in the app since this morning.,Station Connectivity,High
+Scratches and scuffs on the charger body.,Charger Hardware,Low
+Good morning. Session history is missing the last charge.,Charging Session,Low
+Charge rate keeps fluctuating between 20 and 100 kW. Happened today.,Charging Session,Medium
+Warning sign next to the charger has fallen off. Please advise.,Safety Hazard,Low
+"Hi, Backend shows no heartbeat from the unit.",Station Connectivity,High
+"Hi team, I want to unsubscribe from marketing emails. Please advise.",Account & App,Low
+Good morning. Connector is physically stuck in my car and I cannot unplug it.,Charger Hardware,High
+"Hello, Charger shows card invalid for valid cards. Happened today.",RFID & Authentication,Medium
+Request ten new access cards for new employees. Thanks.,RFID & Authentication,Low
+"Hello, Unit shows preparing and never moves to charging. Happened today.",Charging Session,High
+Charging was interrupted when it started raining.,Charging Session,Medium
+Good morning. Cable is too short to reach the car inlet. This is at the Downtown Plaza site.,Charger Hardware,Low
+Charging cable is damaged and the insulation is cracked.,Charger Hardware,High
+Please help. I was charged twice for a single charging session.,Payment & Billing,High
+App crashes when I open the map.,Account & App,Medium
+"Hello, There was a burning smell near the charging unit. Happened today.",Safety Hazard,Critical
+There was a burning smell near the charging unit. Happened today.,Safety Hazard,Critical
+"Hello, Safety instructions sticker is missing from the unit.",Safety Hazard,Low
+Casing of the unit is dented after someone hit it. This is at the Airport site.,Charger Hardware,Low
+"Hello, Refund for a failed session has not arrived. Thanks.",Payment & Billing,Medium
+"Hi, Pre-authorisation hold on my card was not released. This is at the Highway Rest Stop site.",Payment & Billing,Medium
+"Hi, Please activate my new RFID card. Please advise.",RFID & Authentication,Low
+Good morning. Charger reboots randomly and loses its network link. Happened today.,Station Connectivity,Medium
+Session start takes more than five minutes.,Charging Session,Medium
+"Hello, Charger keeps retrying and then shows session timeout.",Charging Session,Medium
+"Hi, Warning sign next to the charger has fallen off. This is at the Highway Rest Stop site.",Safety Hazard,Low
+"Hello, I cannot log in to the mobile app. Please advise.",Account & App,Medium
+"Hi, Please activate my new RFID card. Station ID CP-2349.",RFID & Authentication,Low
+Good morning. Please activate my new RFID card. Happened today.,RFID & Authentication,Low
+"Hi team, Pre-authorisation hold on my card was not released. Please advise.",Payment & Billing,Medium
+The charger door will not close properly. This is at the Airport site.,Charger Hardware,Medium
+Charging speed is only 7 kW on a 150 kW charger. Please advise.,Charging Session,Medium
+"Hello, Charger clock is wrong because it cannot sync time. Thanks.",Station Connectivity,Low
+Please help. Charging stops after a few minutes every time. Thanks.,Charging Session,High
+Good morning. I saw smoke coming from the charger.,Safety Hazard,Critical
+Heartbeat timeouts from station every few minutes. Happened today.,Station Connectivity,Medium
+"Hello, Autocharge vehicle recognition does not work with my car. Happened today.",RFID & Authentication,Medium
+"Hi team, The app says my session expired every time I open it.",Account & App,Medium
+"Hello, Card reader slot on the unit is broken. Please advise.",Charger Hardware,Medium
+I got an electric shock touching the charger handle. Station ID CP-2478.,Safety Hazard,Critical
+Good morning. Charging speed is only 7 kW on a 150 kW charger. Please advise.,Charging Session,Medium
+"Hi, Card was blocked after too many failed attempts. Happened today.",RFID & Authentication,Medium
+Good morning. The charger Wi-Fi signal is weak at the far end of the lot. Happened today.,Station Connectivity,Low
+"Hi team, Backend shows no heartbeat from the unit. Thanks.",Station Connectivity,High
+Good morning. The app shows a different amount than my card statement.,Payment & Billing,Medium
+I want to link my RFID card to my account. Happened today.,RFID & Authentication,Low
+"Hi team, Cannot register a new account with my phone number. This is at the Riverside site.",Account & App,Medium
+"Hi, I cannot log in to the mobile app. Happened today.",Account & App,Medium
+"Hi, Charger reboots randomly and loses its network link. Thanks.",Station Connectivity,Medium
+Charging was interrupted when it started raining.,Charging Session,Medium
+Good morning. The app shows a different amount than my card statement. Please advise.,Payment & Billing,Medium
+"Hi team, A tree branch has fallen on the charging unit.",Safety Hazard,High
+"Hi, A fire started under the vehicle while charging. Thanks.",Safety Hazard,Critical
+Please help. PIN for the access card was forgotten. Thanks.,RFID & Authentication,Low
+Charger shows card invalid for valid cards. Station ID CP-3026.,RFID & Authentication,Medium
+My company needs a VAT receipt.,Payment & Billing,Low
+Charged a roaming fee that I was not told about. Happened today.,Payment & Billing,Medium
+Please help. Casing of the unit is dented after someone hit it. Station ID CP-2022.,Charger Hardware,Low
+Good morning. Please issue a credit note for the wrong invoice. This is at the Airport site.,Payment & Billing,Low
+"Hi team, My company needs a VAT receipt.",Payment & Billing,Low
+"Hello, The charger Wi-Fi signal is weak at the far end of the lot. Station ID CP-3061.",Station Connectivity,Low
+Good morning. Station lost connection to the central management system. Please advise.,Station Connectivity,High
+Good morning. Estimated charging time shown is wrong.,Charging Session,Low
+Good morning. The charger does not react when I tap my badge.,RFID & Authentication,Medium
+Please help. The charging gun is jammed and will not come out of the socket.,Charger Hardware,High
+Connector latch feels loose and wobbly. Please advise.,Charger Hardware,Medium
+"Hi, Two factor code is not accepted when logging in. Thanks.",Account & App,Medium
+"Hello, My RFID card is not recognized by the charger. Thanks.",RFID & Authentication,Medium
+"Hi team, The charging gun is jammed and will not come out of the socket.",Charger Hardware,High
+Good morning. The charger emergency stop button is jammed. Please advise.,Charger Hardware,High
+"Hi team, All chargers at the depot are offline. Station ID CP-1893.",Station Connectivity,Critical
+"Hi team, A tree branch has fallen on the charging unit.",Safety Hazard,High
+"Hello, The price shown on the screen differs from my bill.",Payment & Billing,Medium
+"Hi team, Charger does not deliver any power after I connect.",Charging Session,High
+"Hi team, Scratches and scuffs on the charger body.",Charger Hardware,Low
+"Hello, Charging session shows as active after I disconnected. Thanks.",Charging Session,Medium
+"Hi team, Password reset email is not arriving. Thanks.",Account & App,Medium
+"Hi, The charger does not react when I tap my badge. Happened today.",RFID & Authentication,Medium
+Cannot add a new payment card in the app. This is at the Riverside site.,Account & App,Medium
+Good morning. Software version on the charger is outdated. Please advise.,Station Connectivity,Low
+Please help. How do I change the email address on my account. Happened today.,Account & App,Low
+"Hello, Charging power is capped lower than the vehicle can accept. Station ID CP-4170.",Charging Session,Medium
+Charger shows card invalid for valid cards. This is at the Airport site.,RFID & Authentication,Medium
+The charger is hot to touch and smells like burnt plastic. Station ID CP-2131.,Safety Hazard,Critical
+I need a copy of my invoice for last month. Station ID CP-2119.,Payment & Billing,Low
+The charger emergency stop button is jammed. Happened today.,Charger Hardware,High
+Please help. Sparks came out of the connector when I plugged in. Station ID CP-2858.,Safety Hazard,Critical
+"Hello, The charger is hot to touch and smells like burnt plastic.",Safety Hazard,Critical
+Good morning. Charger map does not show nearby stations. Thanks.,Account & App,Medium
+Request ten new access cards for new employees.,RFID & Authentication,Low
+The charger emergency stop button is jammed. Please advise.,Charger Hardware,High
+"Hello, Pooling water around the base of the charger.",Safety Hazard,High
+Please help. How do I change the email address on my account. Station ID CP-4917.,Account & App,Low
+"Hello, Wrong tax rate applied to my invoice. Thanks.",Payment & Billing,Low
+"Hi, Charging session ends with an error message after two minutes.",Charging Session,High
+"Hi team, Screen on the charger is blank and unresponsive.",Charger Hardware,Medium
+Fleet driver cards are all being rejected at the depot. Please advise.,RFID & Authentication,High
+"Hi, Warning sign next to the charger has fallen off. This is at the Downtown Plaza site.",Safety Hazard,Low
+"Hi, Card was declined at the charger even though it works elsewhere. This is at the Riverside site.",Payment & Billing,Medium
+Please activate my new RFID card.,RFID & Authentication,Low
+Charged a roaming fee that I was not told about. This is at the Mall site.,Payment & Billing,Medium
+"Hi, Charger map does not show nearby stations. Station ID CP-2225.",Account & App,Medium
+"Hi team, A fire started under the vehicle while charging. Happened today.",Safety Hazard,Critical
+"Hello, Wrong tax rate applied to my invoice.",Payment & Billing,Low
+My favourite stations list disappeared. Please advise.,Account & App,Low
+Good morning. Charging session ends with an error message after two minutes. Please advise.,Charging Session,High
+Please help. Bollard protecting the charger is damaged. This is at the Riverside site.,Safety Hazard,Medium
+"Hi, Station lost connection to the central management system. Station ID CP-3821.",Station Connectivity,High
+"Hello, App crashes when I open the map.",Account & App,Medium
+How do I enable dark mode in the app. Thanks.,Account & App,Low
+App shows the wrong language. Please advise.,Account & App,Low
+Tap to start does nothing with my membership card. Thanks.,RFID & Authentication,Medium
+Please help. Charging cable is damaged and the insulation is cracked. Thanks.,Charger Hardware,High
+"Hi, Idle fee was applied although I had left the bay. Thanks.",Payment & Billing,Medium
+Charger bay lighting is dim at night.,Charger Hardware,Low
+Pre-authorisation hold on my card was not released. Station ID CP-4628.,Payment & Billing,Medium
+Good morning. How do I change the email address on my account. This is at the Downtown Plaza site.,Account & App,Low
+Good morning. Please delete my account and personal data. This is at the Downtown Plaza site.,Account & App,Low
+Water is leaking into the charger cabinet.,Safety Hazard,High
+"Hi, Connector latch feels loose and wobbly.",Charger Hardware,Medium
+Connector latch feels loose and wobbly. Thanks.,Charger Hardware,Medium
+"Hello, Safety instructions sticker is missing from the unit. This is at the Highway Rest Stop site.",Safety Hazard,Low
+Please help. Pre-authorisation hold on my card was not released.,Payment & Billing,Medium
+Please help. Cooling fan inside the charger is making a loud grinding noise. Station ID CP-3209.,Charger Hardware,Medium
+Please help. App shows the wrong language. Thanks.,Account & App,Low
+Please help. Weak mobile signal at the station. Happened today.,Station Connectivity,Low
+Good morning. Cable insulation is melted near the plug. Happened today.,Safety Hazard,Critical
+"Hi team, Card was blocked after too many failed attempts. Happened today.",RFID & Authentication,Medium
+"Hi team, Authentication timeout when starting a session with my card. Station ID CP-3883.",RFID & Authentication,Medium
+Please help. The charging bay has a trip hazard because of loose cables.,Safety Hazard,Medium
+Please help. I want to link my RFID card to my account. Please advise.,RFID & Authentication,Low
+Good morning. Charging session ends with an error message after two minutes.,Charging Session,High
+Charger clock is wrong because it cannot sync time. Please advise.,Station Connectivity,Low
+Wrong tax rate applied to my invoice.,Payment & Billing,Low
+Cable is frayed near the plug and the outer jacket is split. Happened today.,Charger Hardware,High
+Good morning. Payment failed but the charger started anyway. Happened today.,Payment & Billing,Medium
+Card was blocked after too many failed attempts. This is at the Mall site.,RFID & Authentication,Medium
+"Hi, A fire started under the vehicle while charging. Happened today.",Safety Hazard,Critical
+Subscription renewal charged me although I cancelled. Thanks.,Payment & Billing,Medium
+Please help. Charger says connector locked but nothing happens. This is at the Riverside site.,Charging Session,High
+"Hi, The charger door will not close properly. Happened today.",Charger Hardware,Medium
+"Hello, Idle fee was applied although I had left the bay. Happened today.",Payment & Billing,Medium
+Good morning. Fleet driver cards are all being rejected at the depot. Happened today.,RFID & Authentication,High
+"Hello, Session history is missing the last charge. This is at the Riverside site.",Charging Session,Low
+"Hello, Wrong tax rate applied to my invoice.",Payment & Billing,Low
+"Hi, App crashes when I open the map. Station ID CP-3805.",Account & App,Medium
+Charger keeps retrying and then shows session timeout. This is at the Riverside site.,Charging Session,Medium
+Charger display shows a fault code and will not start.,Charger Hardware,High
+"Hello, Refund for a failed session has not arrived. Station ID CP-3906.",Payment & Billing,Medium
+"Hi team, Chargers at the site went offline overnight. This is at the Downtown Plaza site.",Station Connectivity,High
+Please help. Fleet driver cards are all being rejected at the depot. Thanks.,RFID & Authentication,High
+Please help. Charging power is capped lower than the vehicle can accept. Station ID CP-2946.,Charging Session,Medium
+"Hello, Charger reboots randomly and loses its network link. This is at the Airport site.",Station Connectivity,Medium
+SIM card data usage for the charger modem is unusually high. Happened today.,Station Connectivity,Low
+Please help. How do I change the email address on my account. This is at the Riverside site.,Account & App,Low
+"Hi team, Card was blocked after too many failed attempts.",RFID & Authentication,Medium
+Please help. The charger Wi-Fi signal is weak at the far end of the lot. Happened today.,Station Connectivity,Low
+Driver tag has been deactivated by mistake. Station ID CP-3134.,RFID & Authentication,Medium
+Floor markings around the bay are worn. Thanks.,Safety Hazard,Low
+"Hi team, Cable is too short to reach the car inlet. Happened today.",Charger Hardware,Low
+"Hi, There was a burning smell near the charging unit. This is at the Airport site.",Safety Hazard,Critical
+Good morning. Charging session ends with an error message after two minutes.,Charging Session,High
+"Hi, QR code on the charger does not open the app. Happened today.",RFID & Authentication,Medium
+Good morning. Password reset email is not arriving. Thanks.,Account & App,Medium
+How do I enable dark mode in the app. Please advise.,Account & App,Low
+"Hi, A vehicle collided with the charging post and it is leaning. Happened today.",Safety Hazard,High
+"Hello, Card was blocked after too many failed attempts.",RFID & Authentication,Medium
+Please help. I cannot log in to the mobile app. Thanks.,Account & App,Medium
+Safety instructions sticker is missing from the unit.,Safety Hazard,Low
+Charged a roaming fee that I was not told about. Station ID CP-1966.,Payment & Billing,Medium
+"Hi, Heartbeat timeouts from station every few minutes. Thanks.",Station Connectivity,Medium
+"Hello, There was a burning smell near the charging unit. Please advise.",Safety Hazard,Critical
+How do I change the email address on my account. Happened today.,Account & App,Low
+"Hi, Please change the name on my profile.",Account & App,Low
+Good morning. Software version on the charger is outdated.,Station Connectivity,Low
+Request ten new access cards for new employees. Thanks.,RFID & Authentication,Low
+Charging stops after a few minutes every time.,Charging Session,High
+Good morning. The kWh shown in my history is lower than what I received.,Charging Session,Medium
+Good morning. Charger shows card invalid for valid cards. Please advise.,RFID & Authentication,Medium
+Please help. Sparks came out of the connector when I plugged in. Station ID CP-3254.,Safety Hazard,Critical
+"Hi team, Session start takes more than five minutes. Thanks.",Charging Session,Medium
+Good morning. Remote start command from the dashboard times out.,Station Connectivity,High
+Please help. Weak mobile signal at the station. Station ID CP-2709.,Station Connectivity,Low
+"Hi team, My favourite stations list disappeared. This is at the Highway Rest Stop site.",Account & App,Low
+Please help. Remote start command from the dashboard times out.,Station Connectivity,High
+Estimated charging time shown is wrong. Station ID CP-4373.,Charging Session,Low
+Good morning. The app says my session expired every time I open it. Happened today.,Account & App,Medium
+"Hello, Card was blocked after too many failed attempts. Station ID CP-1351.",RFID & Authentication,Medium
+"Hello, Two factor code is not accepted when logging in. This is at the Highway Rest Stop site.",Account & App,Medium
+Good morning. The charger does not react when I tap my badge. Happened today.,RFID & Authentication,Medium
+"Hi team, Autocharge vehicle recognition does not work with my car.",RFID & Authentication,Medium
+Please help. Tap to start does nothing with my membership card.,RFID & Authentication,Medium
+Please help. Handle of the connector is cracked. This is at the Mall site.,Charger Hardware,Medium
+"Hi team, Charging was interrupted when it started raining. Please advise.",Charging Session,Medium
+Charging was interrupted when it started raining. Please advise.,Charging Session,Medium
+Good morning. Our company cards stopped working at all sites. Station ID CP-1347.,RFID & Authentication,High
+Two factor code is not accepted when logging in.,Account & App,Medium
+"Hi team, A tree branch has fallen on the charging unit. Happened today.",Safety Hazard,High
+Please help. I saw smoke coming from the charger. Please advise.,Safety Hazard,Critical
+Session start takes more than five minutes. This is at the Riverside site.,Charging Session,Medium
+Floor markings around the bay are worn.,Safety Hazard,Low
+The kWh shown in my history is lower than what I received. Happened today.,Charging Session,Medium
+Good morning. Cannot register a new account with my phone number.,Account & App,Medium
+Please help. Pre-authorisation hold on my card was not released. Station ID CP-2801.,Payment & Billing,Medium
+"Hi team, Need a replacement RFID card because I lost mine. Happened today.",RFID & Authentication,Low
+"Hi, A vehicle collided with the charging post and it is leaning. Happened today.",Safety Hazard,High
+The app shows a different amount than my card statement.,Payment & Billing,Medium
+"Hi team, Charger keeps retrying and then shows session timeout. Please advise.",Charging Session,Medium
+"Hi team, Contactless card read fails on bay 2. Thanks.",RFID & Authentication,Medium
+Charger bay lighting is dim at night. Happened today.,Charger Hardware,Low
+Connector latch feels loose and wobbly. Please advise.,Charger Hardware,Medium
+Charger says connector locked but nothing happens. Thanks.,Charging Session,High
+Please help. Charger keeps retrying and then shows session timeout. This is at the Mall site.,Charging Session,Medium
+Cannot register a new account with my phone number. Happened today.,Account & App,Medium
+"Hello, Cable holster is broken and the cable drags on the ground. This is at the Mall site.",Charger Hardware,Low
+"Hello, The app shows a different amount than my card statement. This is at the Airport site.",Payment & Billing,Medium
+"Hello, The charger does not react when I tap my badge. This is at the Highway Rest Stop site.",RFID & Authentication,Medium
+"Hi team, My company needs a VAT receipt. Thanks.",Payment & Billing,Low
+"Hello, Screen on the charger is blank and unresponsive.",Charger Hardware,Medium
+Charger reboots randomly and loses its network link. This is at the Highway Rest Stop site.,Station Connectivity,Medium
+Charging power is capped lower than the vehicle can accept. Station ID CP-2383.,Charging Session,Medium
+"Hi, Card was declined at the charger even though it works elsewhere.",Payment & Billing,Medium
+Station lost connection to the central management system. Happened today.,Station Connectivity,High
+A fire started under the vehicle while charging. Please advise.,Safety Hazard,Critical
+"Hi team, Remote start command from the dashboard times out.",Station Connectivity,High
+Please help. I want to unsubscribe from marketing emails. Happened today.,Account & App,Low
+"Hello, The charger door will not close properly. Happened today.",Charger Hardware,Medium
+Please help. All chargers at the depot are offline.,Station Connectivity,Critical
+Dashboard shows the charger as unavailable.,Station Connectivity,High
+"Hello, SIM card data usage for the charger modem is unusually high. This is at the Highway Rest Stop site.",Station Connectivity,Low
+The charger door will not close properly. Thanks.,Charger Hardware,Medium
+Refund for a failed session has not arrived. Station ID CP-2659.,Payment & Billing,Medium
+Good morning. Charger does not deliver any power after I connect. Station ID CP-4200.,Charging Session,High
+I cannot log in to the mobile app. This is at the Mall site.,Account & App,Medium
+Please help. Sparks came out of the connector when I plugged in. This is at the Mall site.,Safety Hazard,Critical
+"Hello, Bollard protecting the charger is damaged. Please advise.",Safety Hazard,Medium
+"Hi team, Please activate my new RFID card. Station ID CP-1027.",RFID & Authentication,Low
+"Hello, Charging speed is only 7 kW on a 150 kW charger.",Charging Session,Medium
+"Hello, Cannot add a new payment card in the app. Please advise.",Account & App,Medium
+"Hi team, Charger shows card invalid for valid cards.",RFID & Authentication,Medium
+"Hi, Dashboard shows the charger as unavailable. This is at the Downtown Plaza site.",Station Connectivity,High
+"Hello, Payment failed but the charger started anyway. Please advise.",Payment & Billing,Medium
+"Hi, Station lost connection to the central management system. Station ID CP-1034.",Station Connectivity,High
+Good morning. The charging gun is jammed and will not come out of the socket.,Charger Hardware,High
+"Hi team, The charger does not react when I tap my badge.",RFID & Authentication,Medium
+Connector latch feels loose and wobbly.,Charger Hardware,Medium
+Please help. Contactless card read fails on bay 2. Thanks.,RFID & Authentication,Medium
+Session start takes more than five minutes. This is at the Highway Rest Stop site.,Charging Session,Medium
+"Hello, Warning sign next to the charger has fallen off. Station ID CP-3841.",Safety Hazard,Low
+"Hi team, Card was declined at the charger even though it works elsewhere. Please advise.",Payment & Billing,Medium
+I got an electric shock touching the charger handle.,Safety Hazard,Critical
+Casing of the unit is dented after someone hit it. Please advise.,Charger Hardware,Low
+Our company cards stopped working at all sites.,RFID & Authentication,High
+"Hello, Estimated charging time shown is wrong.",Charging Session,Low
+The charger door will not close properly. Happened today.,Charger Hardware,Medium
+The kWh shown in my history is lower than what I received. Happened today.,Charging Session,Medium
+"Hi team, Contactless card read fails on bay 2. Please advise.",RFID & Authentication,Medium
+I want to link my RFID card to my account. This is at the Riverside site.,RFID & Authentication,Low
+"Hi, Contactless card read fails on bay 2. Station ID CP-1132.",RFID & Authentication,Medium
+Cooling fan inside the charger is making a loud grinding noise. This is at the Airport site.,Charger Hardware,Medium
+"Hello, Cannot add a new payment card in the app. Happened today.",Account & App,Medium
+Connector will not lock into the vehicle socket. This is at the Airport site.,Charger Hardware,Medium
+"Hi, Tap to start does nothing with my membership card. Happened today.",RFID & Authentication,Medium
+Good morning. Cannot register a new account with my phone number.,Account & App,Medium
+Charger clock is wrong because it cannot sync time.,Station Connectivity,Low
+Please help. Password reset email is not arriving. Thanks.,Account & App,Medium
+The charger Wi-Fi signal is weak at the far end of the lot. Happened today.,Station Connectivity,Low
+"Hello, Dashboard shows the charger as unavailable. This is at the Riverside site.",Station Connectivity,High
+"Hi, Driver tag has been deactivated by mistake. Thanks.",RFID & Authentication,Medium
+The router at the site is down and chargers are unreachable. Happened today.,Station Connectivity,High
+"Hi team, The router at the site is down and chargers are unreachable. Please advise.",Station Connectivity,High
+"Hello, The app says my session expired every time I open it. Station ID CP-4087.",Account & App,Medium
+Please help. App shows the wrong language.,Account & App,Low
+Good morning. Firmware rollout failed on several units.,Station Connectivity,High
+"Hi team, Charger shows offline in the app since this morning. This is at the Riverside site.",Station Connectivity,High
+Good morning. Refund for a failed session has not arrived.,Payment & Billing,Medium
+Please issue a credit note for the wrong invoice.,Payment & Billing,Low
+SIM card data usage for the charger modem is unusually high.,Station Connectivity,Low
+Good morning. Bollard protecting the charger is damaged. This is at the Airport site.,Safety Hazard,Medium
+"Hi, Water is leaking into the charger cabinet. Please advise.",Safety Hazard,High
+Connector latch feels loose and wobbly. Please advise.,Charger Hardware,Medium
+"Hello, I want to unsubscribe from marketing emails. Thanks.",Account & App,Low
+"Hi team, Unit shows preparing and never moves to charging. Station ID CP-4553.",Charging Session,High
+"Hi, A fire started under the vehicle while charging. This is at the Airport site.",Safety Hazard,Critical
+Good morning. Screen on the charger is blank and unresponsive. Happened today.,Charger Hardware,Medium
+"Hello, The app says my session expired every time I open it.",Account & App,Medium
+"Hi team, Card was blocked after too many failed attempts. Thanks.",RFID & Authentication,Medium
+Good morning. My favourite stations list disappeared. Station ID CP-3681.,Account & App,Low
+Good morning. Cable insulation is melted near the plug. This is at the Riverside site.,Safety Hazard,Critical
+"Hi team, Backend shows no heartbeat from the unit. Station ID CP-4598.",Station Connectivity,High
+Driver tag has been deactivated by mistake. Station ID CP-1475.,RFID & Authentication,Medium
+"Hi team, Charger does not deliver any power after I connect. Station ID CP-1879.",Charging Session,High
+My company needs a VAT receipt. Happened today.,Payment & Billing,Low
+"Hi team, Firmware rollout failed on several units.",Station Connectivity,High
+Please help. All chargers at the depot are offline. Thanks.,Station Connectivity,Critical
+"Hi team, Charger display shows a fault code and will not start. Thanks.",Charger Hardware,High
+There was a burning smell near the charging unit.,Safety Hazard,Critical
+Please help. I cannot log in to the mobile app. This is at the Highway Rest Stop site.,Account & App,Medium
+Good morning. Unit shows preparing and never moves to charging. Please advise.,Charging Session,High
+Charger says connector locked but nothing happens. Thanks.,Charging Session,High
+"Hi team, Charger reboots randomly and loses its network link.",Station Connectivity,Medium
+Charging post base is cracked and unstable. Please advise.,Safety Hazard,Medium
+"Hi, Connector will not lock into the vehicle socket.",Charger Hardware,Medium
+"Hi team, Charging was interrupted when it started raining.",Charging Session,Medium
+Please help. The router at the site is down and chargers are unreachable.,Station Connectivity,High
+"Hi team, Password reset email is not arriving.",Account & App,Medium
+Good morning. Connector latch feels loose and wobbly.,Charger Hardware,Medium
+Please help. Cable is too short to reach the car inlet. Thanks.,Charger Hardware,Low
+"Hi, Charging cable is damaged and the insulation is cracked. This is at the Downtown Plaza site.",Charger Hardware,High
+"Hi, The charger is hot to touch and smells like burnt plastic. Please advise.",Safety Hazard,Critical
+Wrong tax rate applied to my invoice. Thanks.,Payment & Billing,Low
+Good morning. I cannot log in to the mobile app. Station ID CP-1302.,Account & App,Medium
+"Hi, Charged a roaming fee that I was not told about.",Payment & Billing,Medium
+"Hello, SIM card data usage for the charger modem is unusually high. Please advise.",Station Connectivity,Low
+"Hi team, Charger clock is wrong because it cannot sync time. Happened today.",Station Connectivity,Low
+The charging gun is jammed and will not come out of the socket. Happened today.,Charger Hardware,High
+"Hi team, Charging post base is cracked and unstable.",Safety Hazard,Medium
+Good morning. App shows the wrong language. Station ID CP-1905.,Account & App,Low
+"Hi team, Charging stops after a few minutes every time. Please advise.",Charging Session,High
+"Hello, Charger bay lighting is dim at night. Please advise.",Charger Hardware,Low
+"Hi, Cable is frayed near the plug and the outer jacket is split. This is at the Highway Rest Stop site.",Charger Hardware,High
+How do I change the email address on my account.,Account & App,Low
+My RFID card is not recognized by the charger. Please advise.,RFID & Authentication,Medium
+Good morning. The app shows a different amount than my card statement.,Payment & Billing,Medium
+Good morning. Cannot register a new account with my phone number. Happened today.,Account & App,Medium
+Good morning. Please delete my account and personal data.,Account & App,Low
+Good morning. Session will not start after I plug in the connector.,Charging Session,High
+"Hello, Sparks came out of the connector when I plugged in. This is at the Highway Rest Stop site.",Safety Hazard,Critical
+"Hi team, I was charged twice for a single charging session. Thanks.",Payment & Billing,High
+"Hi team, Authentication timeout when starting a session with my card.",RFID & Authentication,Medium
+Please help. Charging power is capped lower than the vehicle can accept. This is at the Downtown Plaza site.,Charging Session,Medium
+Station lost connection to the central management system. Thanks.,Station Connectivity,High
+Session history is missing the last charge.,Charging Session,Low
+"Hello, Request ten new access cards for new employees. Thanks.",RFID & Authentication,Low
+Good morning. Two factor code is not accepted when logging in.,Account & App,Medium
+Please help. QR code on the charger does not open the app.,RFID & Authentication,Medium
+I forgot my password and cannot sign in.,Account & App,Medium
+Payment failed but the charger started anyway. Please advise.,Payment & Billing,Medium
+"Hi, Charger firmware update failed and it is stuck rebooting. This is at the Riverside site.",Station Connectivity,High
+Good morning. OCPP connection keeps dropping and reconnecting. Happened today.,Station Connectivity,Medium
+Cable is frayed near the plug and the outer jacket is split. Station ID CP-4861.,Charger Hardware,High
+"Hello, Charge limit setting does not stop at 80 percent. Station ID CP-3019.",Charging Session,Low
+Good morning. Cannot add a new payment card in the app. Station ID CP-2222.,Account & App,Medium
+Connector is physically stuck in my car and I cannot unplug it. Station ID CP-2839.,Charger Hardware,High
+"Hello, There was a burning smell near the charging unit. Thanks.",Safety Hazard,Critical
+"Hello, App crashes when I open the map. This is at the Riverside site.",Account & App,Medium
+Charging power is capped lower than the vehicle can accept. This is at the Mall site.,Charging Session,Medium
+I was charged twice for a single charging session. Station ID CP-2280.,Payment & Billing,High
+Good morning. Charging speed is only 7 kW on a 150 kW charger.,Charging Session,Medium
+Charging power is capped lower than the vehicle can accept. Happened today.,Charging Session,Medium
+"Hi, Refund for a failed session has not arrived.",Payment & Billing,Medium
+Please help. Card was declined at the charger even though it works elsewhere. Please advise.,Payment & Billing,Medium
+"Hi, Charging ended early and the battery is only at 40 percent.",Charging Session,Medium
+Please help. The app shows a different amount than my card statement. This is at the Riverside site.,Payment & Billing,Medium
+"Hi, The charger Wi-Fi signal is weak at the far end of the lot. Please advise.",Station Connectivity,Low
+"Hi, Charging ended early and the battery is only at 40 percent.",Charging Session,Medium
+Good morning. How do I enable dark mode in the app. This is at the Riverside site.,Account & App,Low
+"Hi team, Scratches and scuffs on the charger body. This is at the Riverside site.",Charger Hardware,Low
+Charging ended early and the battery is only at 40 percent. This is at the Mall site.,Charging Session,Medium
+Autocharge vehicle recognition does not work with my car.,RFID & Authentication,Medium
+"Hello, Charging stops after a few minutes every time.",Charging Session,High
+Good morning. Warning sign next to the charger has fallen off. Happened today.,Safety Hazard,Low
+"Hello, Charger map does not show nearby stations. Station ID CP-3902.",Account & App,Medium
+Good morning. Charger does not deliver any power after I connect.,Charging Session,High
+"Hi team, Our company cards stopped working at all sites. Thanks.",RFID & Authentication,High
+Please help. My RFID card is not recognized by the charger. This is at the Highway Rest Stop site.,RFID & Authentication,Medium
+"Hi team, Cable insulation is melted near the plug. Station ID CP-3249.",Safety Hazard,Critical
+Please help. Chargers at the site went offline overnight. Station ID CP-3963.,Station Connectivity,High
+Please help. Charger display shows a fault code and will not start. Happened today.,Charger Hardware,High
+The kWh shown in my history is lower than what I received. Station ID CP-1974.,Charging Session,Medium
+"Hi team, Please delete my account and personal data. This is at the Airport site.",Account & App,Low
+"Hi team, Charger firmware update failed and it is stuck rebooting.",Station Connectivity,High
+"Hi team, Need a replacement RFID card because I lost mine. Thanks.",RFID & Authentication,Low
+Cable insulation is melted near the plug. Please advise.,Safety Hazard,Critical
+"Hi, Authentication timeout when starting a session with my card. Happened today.",RFID & Authentication,Medium
+Good morning. How do I change the email address on my account.,Account & App,Low
+"Hi, QR code on the charger does not open the app. Happened today.",RFID & Authentication,Medium
+"Hello, Tap to start does nothing with my membership card.",RFID & Authentication,Medium
+Payment failed but the charger started anyway. Thanks.,Payment & Billing,Medium
+Please help. Cannot download my monthly statement from the portal. Thanks.,Payment & Billing,Low
+Good morning. How do I change the email address on my account. Happened today.,Account & App,Low
+Good morning. Please change the name on my profile.,Account & App,Low
+I need a copy of my invoice for last month.,Payment & Billing,Low
+Good morning. Wrong tax rate applied to my invoice.,Payment & Billing,Low
+"Hi team, Wrong tax rate applied to my invoice. Station ID CP-3707.",Payment & Billing,Low
+"Hi team, Handle of the connector is cracked. Please advise.",Charger Hardware,Medium
+Please help. Please issue a credit note for the wrong invoice. Thanks.,Payment & Billing,Low
+"Hi team, Scratches and scuffs on the charger body. Please advise.",Charger Hardware,Low
+The charger Wi-Fi signal is weak at the far end of the lot.,Station Connectivity,Low
+Good morning. Push notifications about charge completion are not working.,Account & App,Low
+Please help. A vehicle collided with the charging post and it is leaning.,Safety Hazard,High
+Fleet driver cards are all being rejected at the depot.,RFID & Authentication,High
+"Hi team, The price shown on the screen differs from my bill. This is at the Downtown Plaza site.",Payment & Billing,Medium
+Two factor code is not accepted when logging in. Thanks.,Account & App,Medium
+Good morning. Tap to start does nothing with my membership card.,RFID & Authentication,Medium
+"Hi team, Pooling water around the base of the charger. Happened today.",Safety Hazard,High
+"Hi team, Plug and charge authentication fails with my vehicle. Happened today.",RFID & Authentication,Medium
+"Hello, Screen on the charger is blank and unresponsive. Please advise.",Charger Hardware,Medium
+Please help. Screen on the charger is blank and unresponsive. Happened today.,Charger Hardware,Medium
+"Hello, Backend shows no heartbeat from the unit. Station ID CP-2639.",Station Connectivity,High
+Charging session shows as active after I disconnected. Please advise.,Charging Session,Medium
+Please help. App will not update from the store. This is at the Airport site.,Account & App,Medium
+"Hello, Remote start command from the dashboard times out. Happened today.",Station Connectivity,High
+"Hello, The charger Wi-Fi signal is weak at the far end of the lot.",Station Connectivity,Low
+"Hello, Contactless card read fails on bay 2. Station ID CP-1419.",RFID & Authentication,Medium
+"Hi, Charging post base is cracked and unstable. Happened today.",Safety Hazard,Medium
+I got an electric shock touching the charger handle. Happened today.,Safety Hazard,Critical
+App will not update from the store. Station ID CP-4561.,Account & App,Medium
+"Hi team, Charging ended early and the battery is only at 40 percent. Happened today.",Charging Session,Medium
+"Hello, Bollard protecting the charger is damaged. Happened today.",Safety Hazard,Medium
+App crashes when I open the map. Station ID CP-1396.,Account & App,Medium
+"Hello, Charger display shows a fault code and will not start. Station ID CP-1008.",Charger Hardware,High
+"Hello, Please activate my new RFID card.",RFID & Authentication,Low
+Duplicate transaction appears on my bank statement for one charge.,Payment & Billing,High
+Good morning. Water is leaking into the charger cabinet.,Safety Hazard,High
+"Hello, Charging speed is only 7 kW on a 150 kW charger. Happened today.",Charging Session,Medium
+"Hi, The router at the site is down and chargers are unreachable.",Station Connectivity,High
+I was billed for a session I never started. Station ID CP-1634.,Payment & Billing,High
+Push notifications about charge completion are not working. Thanks.,Account & App,Low
+Please help. Screen on the charger is blank and unresponsive.,Charger Hardware,Medium
+"Hello, QR code on the charger does not open the app. This is at the Airport site.",RFID & Authentication,Medium
+Please help. My RFID card is not recognized by the charger. Happened today.,RFID & Authentication,Medium
+"Hi, PIN for the access card was forgotten. Station ID CP-1572.",RFID & Authentication,Low
+Please help. Charger bay lighting is dim at night.,Charger Hardware,Low
+Connector will not lock into the vehicle socket.,Charger Hardware,Medium
+"Hello, Connector will not lock into the vehicle socket.",Charger Hardware,Medium
+"Hi team, Bollard protecting the charger is damaged. Thanks.",Safety Hazard,Medium
+"Hello, Card reader slot on the unit is broken. Happened today.",Charger Hardware,Medium
+Please help. Charge limit setting does not stop at 80 percent. This is at the Mall site.,Charging Session,Low
+Good morning. Charger shows offline in the app since this morning. Please advise.,Station Connectivity,High
+"Hi team, My favourite stations list disappeared. Thanks.",Account & App,Low
+"Hi team, I got an electric shock touching the charger handle. Station ID CP-1411.",Safety Hazard,Critical
+Intermittent connection drops on the charger gateway. This is at the Downtown Plaza site.,Station Connectivity,Medium
+Please help. Weak mobile signal at the station. Please advise.,Station Connectivity,Low
+"Hi team, Remote start command from the dashboard times out.",Station Connectivity,High
+Please help. Charging cable is damaged and the insulation is cracked. Happened today.,Charger Hardware,High
+"Hi, Authentication timeout when starting a session with my card. Station ID CP-2685.",RFID & Authentication,Medium
+The app says my session expired every time I open it. This is at the Downtown Plaza site.,Account & App,Medium
+Good morning. Unit shows preparing and never moves to charging. Happened today.,Charging Session,High
+Weak mobile signal at the station. Thanks.,Station Connectivity,Low
+"Hi, Station lost connection to the central management system. Please advise.",Station Connectivity,High
+"Hi, Wrong tax rate applied to my invoice. Please advise.",Payment & Billing,Low
+Chargers at the site went offline overnight. Station ID CP-3818.,Station Connectivity,High
+"Hi, Payment failed but the charger started anyway. Please advise.",Payment & Billing,Medium
+A vehicle collided with the charging post and it is leaning. Station ID CP-3562.,Safety Hazard,High
+Intermittent connection drops on the charger gateway.,Station Connectivity,Medium
+"Hi team, App crashes when I open the map. Please advise.",Account & App,Medium
+"Hi team, Charged a roaming fee that I was not told about.",Payment & Billing,Medium
+Good morning. Water is leaking into the charger cabinet. This is at the Highway Rest Stop site.,Safety Hazard,High
+"Hi team, Cannot add a new payment card in the app. Station ID CP-4912.",Account & App,Medium
+Charging post base is cracked and unstable. Thanks.,Safety Hazard,Medium
+App crashes when I open the map. This is at the Airport site.,Account & App,Medium
+The charger is hot to touch and smells like burnt plastic.,Safety Hazard,Critical
+Good morning. The charger does not react when I tap my badge. Thanks.,RFID & Authentication,Medium
+"Hello, There was a burning smell near the charging unit. Please advise.",Safety Hazard,Critical
+"Hi, Please activate my new RFID card. This is at the Mall site.",RFID & Authentication,Low
+"Hi team, The charger door will not close properly.",Charger Hardware,Medium
+Good morning. Charging session shows as active after I disconnected. Please advise.,Charging Session,Medium
+"Hi team, Autocharge vehicle recognition does not work with my car. Please advise.",RFID & Authentication,Medium
+"Hi, Estimated charging time shown is wrong. This is at the Highway Rest Stop site.",Charging Session,Low
+App will not update from the store. Please advise.,Account & App,Medium
+My RFID card is not recognized by the charger. This is at the Riverside site.,RFID & Authentication,Medium
+Good morning. Authentication timeout when starting a session with my card. Happened today.,RFID & Authentication,Medium
+Please help. I want to unsubscribe from marketing emails. This is at the Riverside site.,Account & App,Low
+"Hi team, SIM card data usage for the charger modem is unusually high. This is at the Riverside site.",Station Connectivity,Low
+"Hi, How do I change the email address on my account.",Account & App,Low
+Charger keeps retrying and then shows session timeout. This is at the Airport site.,Charging Session,Medium
+"Hi, I want to link my RFID card to my account. This is at the Highway Rest Stop site.",RFID & Authentication,Low
+Please help. Session start takes more than five minutes. This is at the Riverside site.,Charging Session,Medium
+"Hello, Charge limit setting does not stop at 80 percent. Station ID CP-1301.",Charging Session,Low
+"Hello, Charging post base is cracked and unstable. Thanks.",Safety Hazard,Medium
+Charging session ends with an error message after two minutes. Station ID CP-3358.,Charging Session,High
+Good morning. I want to unsubscribe from marketing emails.,Account & App,Low
+"Hello, Charger clock is wrong because it cannot sync time. Station ID CP-4946.",Station Connectivity,Low
+Please help. Charger shows offline in the app since this morning. Happened today.,Station Connectivity,High
+"Hello, QR code on the charger does not open the app.",RFID & Authentication,Medium
+Please help. Session start takes more than five minutes. Happened today.,Charging Session,Medium
+Good morning. Idle fee was applied although I had left the bay.,Payment & Billing,Medium
+"Hello, Driver tag has been deactivated by mistake. Happened today.",RFID & Authentication,Medium
+"Hi team, The charger is hot to touch and smells like burnt plastic. Please advise.",Safety Hazard,Critical
+Please help. Estimated charging time shown is wrong. Thanks.,Charging Session,Low
+"Hi, Backend shows no heartbeat from the unit. Please advise.",Station Connectivity,High
+"Hello, Need a replacement RFID card because I lost mine. Thanks.",RFID & Authentication,Low
+Good morning. The app shows a different amount than my card statement.,Payment & Billing,Medium
+App crashes when I open the map.,Account & App,Medium
+"Hi team, App crashes when I open the map. Happened today.",Account & App,Medium
+Session history is missing the last charge. Please advise.,Charging Session,Low
+Fleet driver cards are all being rejected at the depot. Please advise.,RFID & Authentication,High
+Please help. Cable is frayed near the plug and the outer jacket is split. Please advise.,Charger Hardware,High
+Charged a roaming fee that I was not told about. This is at the Airport site.,Payment & Billing,Medium
+"Hello, Password reset email is not arriving. Thanks.",Account & App,Medium
+"Hello, Charger firmware update failed and it is stuck rebooting. Thanks.",Station Connectivity,High
+Good morning. Casing of the unit is dented after someone hit it.,Charger Hardware,Low
+Software version on the charger is outdated.,Station Connectivity,Low
+"Hi team, Charging cable is damaged and the insulation is cracked.",Charger Hardware,High
+"Hi, Someone received an electric shock from the cable. This is at the Downtown Plaza site.",Safety Hazard,Critical
+Authentication timeout when starting a session with my card. Thanks.,RFID & Authentication,Medium
+"Hi team, Subscription renewal charged me although I cancelled.",Payment & Billing,Medium
+Good morning. Subscription renewal charged me although I cancelled. Thanks.,Payment & Billing,Medium
+Charge rate keeps fluctuating between 20 and 100 kW. Thanks.,Charging Session,Medium
+Good morning. Pooling water around the base of the charger.,Safety Hazard,High
+Charging was interrupted when it started raining. Station ID CP-3912.,Charging Session,Medium
+Please help. Firmware rollout failed on several units. Please advise.,Station Connectivity,High
+"Hi team, The app says my session expired every time I open it. Happened today.",Account & App,Medium
+"Hi team, I need a copy of my invoice for last month. Please advise.",Payment & Billing,Low
+Good morning. Connector will not lock into the vehicle socket. Thanks.,Charger Hardware,Medium
+Good morning. I cannot log in to the mobile app. Please advise.,Account & App,Medium
+Good morning. The charger does not react when I tap my badge.,RFID & Authentication,Medium
+"Hi team, I got an electric shock touching the charger handle. Thanks.",Safety Hazard,Critical
+Please help. I saw smoke coming from the charger. This is at the Highway Rest Stop site.,Safety Hazard,Critical
+Good morning. Charger bay lighting is dim at night.,Charger Hardware,Low
+Software version on the charger is outdated. This is at the Riverside site.,Station Connectivity,Low
+Please help. Charger map does not show nearby stations.,Account & App,Medium
+Please help. Connector will not lock into the vehicle socket.,Charger Hardware,Medium
+"Hi team, Fleet driver cards are all being rejected at the depot. This is at the Highway Rest Stop site.",RFID & Authentication,High
+Software version on the charger is outdated.,Station Connectivity,Low
+Please help. Cannot download my monthly statement from the portal. Station ID CP-2584.,Payment & Billing,Low
+"Hi, Software version on the charger is outdated. Thanks.",Station Connectivity,Low
+"Hi team, Authentication timeout when starting a session with my card. This is at the Downtown Plaza site.",RFID & Authentication,Medium
+Good morning. Charge limit setting does not stop at 80 percent. Please advise.,Charging Session,Low
+Card was declined at the charger even though it works elsewhere. Please advise.,Payment & Billing,Medium
+App shows the wrong language. Thanks.,Account & App,Low
+Please help. Tap to start does nothing with my membership card. Happened today.,RFID & Authentication,Medium
+Good morning. I forgot my password and cannot sign in. This is at the Airport site.,Account & App,Medium
+"Hi, The app shows a different amount than my card statement. Station ID CP-2921.",Payment & Billing,Medium
+"Hi, Charger clock is wrong because it cannot sync time. Please advise.",Station Connectivity,Low
+I cannot log in to the mobile app. Station ID CP-3122.,Account & App,Medium
+Chargers at the site went offline overnight. This is at the Riverside site.,Station Connectivity,High
+Good morning. My company needs a VAT receipt. This is at the Highway Rest Stop site.,Payment & Billing,Low
+"Hi, Charger shows offline in the app since this morning. This is at the Riverside site.",Station Connectivity,High
+"Hello, Charging stops after a few minutes every time. This is at the Airport site.",Charging Session,High
+Please help. Driver tag has been deactivated by mistake. This is at the Highway Rest Stop site.,RFID & Authentication,Medium
+"Hi team, Refund for a failed session has not arrived. Thanks.",Payment & Billing,Medium
+"Hi team, Cable is too short to reach the car inlet.",Charger Hardware,Low
+"Hi, Unit shows preparing and never moves to charging. This is at the Riverside site.",Charging Session,High
+Please help. Charger keeps retrying and then shows session timeout.,Charging Session,Medium
+Good morning. Intermittent connection drops on the charger gateway. Thanks.,Station Connectivity,Medium
+Good morning. Charger keeps retrying and then shows session timeout.,Charging Session,Medium
+Please help. The charging bay has a trip hazard because of loose cables. Thanks.,Safety Hazard,Medium
+Please help. I was charged twice for a single charging session.,Payment & Billing,High
+Please help. Subscription renewal charged me although I cancelled. This is at the Riverside site.,Payment & Billing,Medium
+"Hi team, Session history is missing the last charge.",Charging Session,Low
+I want to unsubscribe from marketing emails. Please advise.,Account & App,Low
+Good morning. A vehicle collided with the charging post and it is leaning. Please advise.,Safety Hazard,High
+Please help. I forgot my password and cannot sign in. This is at the Highway Rest Stop site.,Account & App,Medium
+"Hi team, Connector will not lock into the vehicle socket. Happened today.",Charger Hardware,Medium
+"Hello, I want to link my RFID card to my account.",RFID & Authentication,Low
+Please activate my new RFID card.,RFID & Authentication,Low
+"Hi team, Session will not start after I plug in the connector. Happened today.",Charging Session,High
+"Hello, Pre-authorisation hold on my card was not released. Please advise.",Payment & Billing,Medium
+Good morning. Firmware rollout failed on several units.,Station Connectivity,High
+Charger says connector locked but nothing happens. This is at the Downtown Plaza site.,Charging Session,High
+"Hi, Charger shows card invalid for valid cards.",RFID & Authentication,Medium
+I need a copy of my invoice for last month.,Payment & Billing,Low
+"Hi, Unit shows preparing and never moves to charging. Please advise.",Charging Session,High
+"Hello, Charger shows card invalid for valid cards.",RFID & Authentication,Medium
+"Hi, A tree branch has fallen on the charging unit. Please advise.",Safety Hazard,High
+Good morning. A tree branch has fallen on the charging unit. Please advise.,Safety Hazard,High
+Session start takes more than five minutes.,Charging Session,Medium
+"Hi team, Charger reboots randomly and loses its network link. Happened today.",Station Connectivity,Medium
+Please help. Safety instructions sticker is missing from the unit. Happened today.,Safety Hazard,Low
+Tap to start does nothing with my membership card. Thanks.,RFID & Authentication,Medium
+Good morning. I was charged twice for a single charging session. Thanks.,Payment & Billing,High
+"Hello, QR code on the charger does not open the app. Thanks.",RFID & Authentication,Medium
+Handle of the connector is cracked. This is at the Highway Rest Stop site.,Charger Hardware,Medium
+"Hi team, A tree branch has fallen on the charging unit. Thanks.",Safety Hazard,High
+Please help. Someone received an electric shock from the cable.,Safety Hazard,Critical
+Please help. My RFID card is not recognized by the charger. This is at the Riverside site.,RFID & Authentication,Medium
+"Hello, Refund for a failed session has not arrived. This is at the Downtown Plaza site.",Payment & Billing,Medium
+Please help. The charger does not react when I tap my badge. Happened today.,RFID & Authentication,Medium
+Please help. Charge limit setting does not stop at 80 percent. Station ID CP-1277.,Charging Session,Low
+Driver tag has been deactivated by mistake. Station ID CP-3260.,RFID & Authentication,Medium
+"Hi team, Please issue a credit note for the wrong invoice. Please advise.",Payment & Billing,Low
+"Hi, Handle of the connector is cracked. Please advise.",Charger Hardware,Medium
+Water is leaking into the charger cabinet. Station ID CP-4954.,Safety Hazard,High
+"Hi, Duplicate transaction appears on my bank statement for one charge. Happened today.",Payment & Billing,High
+"Hi, Pooling water around the base of the charger. Station ID CP-3696.",Safety Hazard,High
+Good morning. The charger is hot to touch and smells like burnt plastic. Station ID CP-2545.,Safety Hazard,Critical
+Please help. Connector will not lock into the vehicle socket. Station ID CP-2228.,Charger Hardware,Medium
+Good morning. Pre-authorisation hold on my card was not released.,Payment & Billing,Medium
+"Hi, The charging bay has a trip hazard because of loose cables. Station ID CP-2616.",Safety Hazard,Medium
+"Hello, Cooling fan inside the charger is making a loud grinding noise. Please advise.",Charger Hardware,Medium
+"Hi team, Password reset email is not arriving. Thanks.",Account & App,Medium
+"Hi, Remote start command from the dashboard times out. This is at the Highway Rest Stop site.",Station Connectivity,High
+"Hi, Connector is physically stuck in my car and I cannot unplug it. Please advise.",Charger Hardware,High
+Session will not start after I plug in the connector. Happened today.,Charging Session,High
+Our company cards stopped working at all sites.,RFID & Authentication,High
+"Hello, Request ten new access cards for new employees. Please advise.",RFID & Authentication,Low
+Good morning. I was billed for a session I never started. Please advise.,Payment & Billing,High
+"Hi team, Push notifications about charge completion are not working. Thanks.",Account & App,Low
+Casing of the unit is dented after someone hit it. Thanks.,Charger Hardware,Low
+Please help. The price shown on the screen differs from my bill. This is at the Mall site.,Payment & Billing,Medium
+"Hi, Card reader slot on the unit is broken. This is at the Riverside site.",Charger Hardware,Medium
+"Hello, Dashboard shows the charger as unavailable.",Station Connectivity,High
+"Hi team, Charger map does not show nearby stations. This is at the Downtown Plaza site.",Account & App,Medium
+"Hi, Need a replacement RFID card because I lost mine. Thanks.",RFID & Authentication,Low
+"Hello, Bollard protecting the charger is damaged.",Safety Hazard,Medium
+"Hi team, Someone received an electric shock from the cable.",Safety Hazard,Critical
+Good morning. My company needs a VAT receipt.,Payment & Billing,Low
+Estimated charging time shown is wrong.,Charging Session,Low
+Please issue a credit note for the wrong invoice. Please advise.,Payment & Billing,Low
+Good morning. Charge rate keeps fluctuating between 20 and 100 kW.,Charging Session,Medium
+"Hello, Charge limit setting does not stop at 80 percent. Happened today.",Charging Session,Low
+"Hi team, Autocharge vehicle recognition does not work with my car.",RFID & Authentication,Medium
+Please help. Charging stops after a few minutes every time. Happened today.,Charging Session,High
+Connector latch feels loose and wobbly. Please advise.,Charger Hardware,Medium
+Charging stops after a few minutes every time. This is at the Airport site.,Charging Session,High
+Pre-authorisation hold on my card was not released.,Payment & Billing,Medium
+"Hi, Session history is missing the last charge.",Charging Session,Low
+Good morning. I saw smoke coming from the charger.,Safety Hazard,Critical
+Please help. Bollard protecting the charger is damaged. This is at the Downtown Plaza site.,Safety Hazard,Medium
+Intermittent connection drops on the charger gateway.,Station Connectivity,Medium
+"Hi team, Idle fee was applied although I had left the bay. Happened today.",Payment & Billing,Medium
+Plug and charge authentication fails with my vehicle. Station ID CP-2101.,RFID & Authentication,Medium
+The charger does not react when I tap my badge. Happened today.,RFID & Authentication,Medium
+Please help. Card was declined at the charger even though it works elsewhere. Happened today.,Payment & Billing,Medium
+Good morning. A vehicle collided with the charging post and it is leaning.,Safety Hazard,High
+"Hi team, Fleet driver cards are all being rejected at the depot.",RFID & Authentication,High
+"Hi, Authentication timeout when starting a session with my card.",RFID & Authentication,Medium
+"Hi, Card was blocked after too many failed attempts.",RFID & Authentication,Medium
+"Hello, Plug and charge authentication fails with my vehicle. Station ID CP-4205.",RFID & Authentication,Medium
+Please help. Autocharge vehicle recognition does not work with my car.,RFID & Authentication,Medium
+"Hi, Duplicate transaction appears on my bank statement for one charge. Thanks.",Payment & Billing,High
+A tree branch has fallen on the charging unit. Station ID CP-1541.,Safety Hazard,High
+Session will not start after I plug in the connector. Happened today.,Charging Session,High
+Software version on the charger is outdated. Please advise.,Station Connectivity,Low
+"Hello, The charger emergency stop button is jammed.",Charger Hardware,High
+Please issue a credit note for the wrong invoice. Please advise.,Payment & Billing,Low
+SIM card data usage for the charger modem is unusually high. Please advise.,Station Connectivity,Low
+How do I enable dark mode in the app. This is at the Highway Rest Stop site.,Account & App,Low
+Please help. Connector is physically stuck in my car and I cannot unplug it. This is at the Riverside site.,Charger Hardware,High
+Session will not start after I plug in the connector. Station ID CP-1671.,Charging Session,High
+Good morning. Heartbeat timeouts from station every few minutes. Thanks.,Station Connectivity,Medium
+Dashboard shows the charger as unavailable.,Station Connectivity,High
+Good morning. Password reset email is not arriving. Thanks.,Account & App,Medium
+Good morning. SIM card data usage for the charger modem is unusually high. This is at the Highway Rest Stop site.,Station Connectivity,Low
+Casing of the unit is dented after someone hit it. Thanks.,Charger Hardware,Low
+"Hello, The charging gun is jammed and will not come out of the socket. Happened today.",Charger Hardware,High
+Good morning. Charger clock is wrong because it cannot sync time. Please advise.,Station Connectivity,Low
+"Hi, Session start takes more than five minutes. This is at the Highway Rest Stop site.",Charging Session,Medium
+"Hi team, Weak mobile signal at the station. Station ID CP-4072.",Station Connectivity,Low
+"Hi, Duplicate transaction appears on my bank statement for one charge. Station ID CP-3023.",Payment & Billing,High
+My RFID card is not recognized by the charger. Happened today.,RFID & Authentication,Medium
+I got an electric shock touching the charger handle. Station ID CP-4025.,Safety Hazard,Critical
+My RFID card is not recognized by the charger.,RFID & Authentication,Medium
+"Hi, Cooling fan inside the charger is making a loud grinding noise. Station ID CP-4896.",Charger Hardware,Medium
+Chargers at the site went offline overnight. Happened today.,Station Connectivity,High
+Charging session shows as active after I disconnected.,Charging Session,Medium
+"Hi, Water is leaking into the charger cabinet. Thanks.",Safety Hazard,High
+"Hi, Heartbeat timeouts from station every few minutes.",Station Connectivity,Medium
+Sparks came out of the connector when I plugged in. Station ID CP-2656.,Safety Hazard,Critical
+Please change the name on my profile. Please advise.,Account & App,Low
+"Hello, Charging was interrupted when it started raining. Thanks.",Charging Session,Medium
+The charger Wi-Fi signal is weak at the far end of the lot. Station ID CP-2403.,Station Connectivity,Low
+"Hi team, Please change the name on my profile.",Account & App,Low
+Please help. My company needs a VAT receipt. Thanks.,Payment & Billing,Low
+"Hi, Cable is frayed near the plug and the outer jacket is split. Thanks.",Charger Hardware,High
+Please help. Estimated charging time shown is wrong.,Charging Session,Low
+Good morning. Charger map does not show nearby stations. Thanks.,Account & App,Medium
+Please help. The router at the site is down and chargers are unreachable. Thanks.,Station Connectivity,High
+"Hello, Handle of the connector is cracked. Happened today.",Charger Hardware,Medium
+"Hi team, Charge rate keeps fluctuating between 20 and 100 kW. Thanks.",Charging Session,Medium
+"Hi, Cannot download my monthly statement from the portal. Please advise.",Payment & Billing,Low
+Good morning. Plug and charge authentication fails with my vehicle. Thanks.,RFID & Authentication,Medium
+Please help. I saw smoke coming from the charger. Please advise.,Safety Hazard,Critical
+Please help. Pooling water around the base of the charger. Station ID CP-1038.,Safety Hazard,High
+Cable insulation is melted near the plug. This is at the Airport site.,Safety Hazard,Critical
+Refund for a failed session has not arrived. This is at the Riverside site.,Payment & Billing,Medium
+Please help. Handle of the connector is cracked. This is at the Riverside site.,Charger Hardware,Medium
+The charger does not react when I tap my badge.,RFID & Authentication,Medium
+"Hi team, Subscription renewal charged me although I cancelled. Thanks.",Payment & Billing,Medium
+"Hi, Charging session shows as active after I disconnected. Thanks.",Charging Session,Medium
+Someone received an electric shock from the cable.,Safety Hazard,Critical
+"Hi team, My favourite stations list disappeared. Thanks.",Account & App,Low
+The app says my session expired every time I open it. Station ID CP-3616.,Account & App,Medium
+Password reset email is not arriving. This is at the Downtown Plaza site.,Account & App,Medium
+"Hi team, Floor markings around the bay are worn. Please advise.",Safety Hazard,Low
+Good morning. Charging session shows as active after I disconnected.,Charging Session,Medium
+Good morning. Charging post base is cracked and unstable.,Safety Hazard,Medium
+Good morning. I got an electric shock touching the charger handle.,Safety Hazard,Critical
+Water is leaking into the charger cabinet. Station ID CP-4322.,Safety Hazard,High
+"Hi, My RFID card is not recognized by the charger. Happened today.",RFID & Authentication,Medium
+Good morning. Charger keeps retrying and then shows session timeout. This is at the Downtown Plaza site.,Charging Session,Medium
+"Hi, Charger shows offline in the app since this morning. Please advise.",Station Connectivity,High
+"Hello, The app shows a different amount than my card statement. Please advise.",Payment & Billing,Medium
+Please help. All chargers at the depot are offline. This is at the Mall site.,Station Connectivity,Critical
+Please help. Pooling water around the base of the charger. Station ID CP-2040.,Safety Hazard,High
+Safety instructions sticker is missing from the unit. This is at the Downtown Plaza site.,Safety Hazard,Low
+"Hi team, Cable insulation is melted near the plug. This is at the Highway Rest Stop site.",Safety Hazard,Critical
+Please help. I want to unsubscribe from marketing emails. Station ID CP-2561.,Account & App,Low
+"Hi, There was a burning smell near the charging unit. Station ID CP-2005.",Safety Hazard,Critical
+Please help. Push notifications about charge completion are not working. Thanks.,Account & App,Low
+Please help. Charging speed is only 7 kW on a 150 kW charger. This is at the Highway Rest Stop site.,Charging Session,Medium
+Good morning. I saw smoke coming from the charger. Station ID CP-4205.,Safety Hazard,Critical
+"Hello, OCPP connection keeps dropping and reconnecting. Happened today.",Station Connectivity,Medium
+"Hi, How do I change the email address on my account.",Account & App,Low
+"Hello, The charging bay has a trip hazard because of loose cables.",Safety Hazard,Medium
+Please help. Charger bay lighting is dim at night. Thanks.,Charger Hardware,Low
+"Hello, Water is leaking into the charger cabinet. Station ID CP-2960.",Safety Hazard,High
+"Hi, Authentication timeout when starting a session with my card. Please advise.",RFID & Authentication,Medium
+Card was declined at the charger even though it works elsewhere. Happened today.,Payment & Billing,Medium
+"Hi team, Screen on the charger is blank and unresponsive. Thanks.",Charger Hardware,Medium
+Need a replacement RFID card because I lost mine. Please advise.,RFID & Authentication,Low
+Wrong tax rate applied to my invoice. Station ID CP-3032.,Payment & Billing,Low
+"Hello, Plug and charge authentication fails with my vehicle.",RFID & Authentication,Medium
+Charge limit setting does not stop at 80 percent.,Charging Session,Low
+Charger map does not show nearby stations. Happened today.,Account & App,Medium
+"Hello, Charger keeps retrying and then shows session timeout. Station ID CP-3870.",Charging Session,Medium
+Charging session shows as active after I disconnected. This is at the Downtown Plaza site.,Charging Session,Medium
+Request ten new access cards for new employees.,RFID & Authentication,Low
+Please help. Charging power is capped lower than the vehicle can accept. Please advise.,Charging Session,Medium
+"Hello, Session start takes more than five minutes. This is at the Airport site.",Charging Session,Medium
+Good morning. Sparks came out of the connector when I plugged in. This is at the Mall site.,Safety Hazard,Critical
+Please help. How do I enable dark mode in the app.,Account & App,Low
+"Hi, Card was declined at the charger even though it works elsewhere. Happened today.",Payment & Billing,Medium
+OCPP connection keeps dropping and reconnecting. Station ID CP-3681.,Station Connectivity,Medium
+Please help. The charging bay has a trip hazard because of loose cables. Please advise.,Safety Hazard,Medium
+Please help. Request ten new access cards for new employees. Thanks.,RFID & Authentication,Low
+Good morning. Heartbeat timeouts from station every few minutes.,Station Connectivity,Medium
+Push notifications about charge completion are not working. This is at the Mall site.,Account & App,Low
+Please help. I got an electric shock touching the charger handle. Thanks.,Safety Hazard,Critical
+"Hi, Pre-authorisation hold on my card was not released. Happened today.",Payment & Billing,Medium
+Charger shows offline in the app since this morning.,Station Connectivity,High
+App will not update from the store.,Account & App,Medium
+The app shows a different amount than my card statement. Please advise.,Payment & Billing,Medium
+"Hi, Fleet driver cards are all being rejected at the depot. Happened today.",RFID & Authentication,High
+"Hi, I got an electric shock touching the charger handle. Station ID CP-1050.",Safety Hazard,Critical
+Please help. Our company cards stopped working at all sites. This is at the Riverside site.,RFID & Authentication,High
+"Hi, Idle fee was applied although I had left the bay. Please advise.",Payment & Billing,Medium
+Good morning. I want to unsubscribe from marketing emails. Please advise.,Account & App,Low
+The charging gun is jammed and will not come out of the socket. Happened today.,Charger Hardware,High
+Good morning. Driver tag has been deactivated by mistake.,RFID & Authentication,Medium
+"Hi team, Someone received an electric shock from the cable. Please advise.",Safety Hazard,Critical
+Warning sign next to the charger has fallen off. Happened today.,Safety Hazard,Low
+Session start takes more than five minutes.,Charging Session,Medium
+Remote start command from the dashboard times out. Please advise.,Station Connectivity,High
+"Hi team, Charging ended early and the battery is only at 40 percent. Thanks.",Charging Session,Medium
+"Hi, App will not update from the store. Happened today.",Account & App,Medium
+PIN for the access card was forgotten.,RFID & Authentication,Low
+I was billed for a session I never started. Station ID CP-4895.,Payment & Billing,High
+"Hi, Heartbeat timeouts from station every few minutes.",Station Connectivity,Medium
+"Hi team, I want to unsubscribe from marketing emails. Happened today.",Account & App,Low
+Charging session shows as active after I disconnected.,Charging Session,Medium
+"Hello, PIN for the access card was forgotten. Happened today.",RFID & Authentication,Low
+Please help. I need a copy of my invoice for last month. This is at the Airport site.,Payment & Billing,Low
+"Hi team, Heartbeat timeouts from station every few minutes. This is at the Mall site.",Station Connectivity,Medium
+Push notifications about charge completion are not working. This is at the Airport site.,Account & App,Low
+Good morning. Push notifications about charge completion are not working. This is at the Riverside site.,Account & App,Low
+Please help. Cannot download my monthly statement from the portal. Please advise.,Payment & Billing,Low
+Handle of the connector is cracked.,Charger Hardware,Medium
+"Hi team, Charger does not deliver any power after I connect. This is at the Airport site.",Charging Session,High
+"Hi team, Screen on the charger is blank and unresponsive. Happened today.",Charger Hardware,Medium
+Floor markings around the bay are worn.,Safety Hazard,Low
+"Hi, Charge rate keeps fluctuating between 20 and 100 kW. Thanks.",Charging Session,Medium
+OCPP connection keeps dropping and reconnecting. Please advise.,Station Connectivity,Medium
+"Hi team, Cannot add a new payment card in the app. Station ID CP-3295.",Account & App,Medium
+I want to unsubscribe from marketing emails. Happened today.,Account & App,Low
+Please help. Subscription renewal charged me although I cancelled. Thanks.,Payment & Billing,Medium
+"Hi team, OCPP connection keeps dropping and reconnecting. Please advise.",Station Connectivity,Medium
+"Hello, Charge limit setting does not stop at 80 percent.",Charging Session,Low
+Please help. Connector is physically stuck in my car and I cannot unplug it. Happened today.,Charger Hardware,High
+"Hi team, All chargers at the depot are offline. This is at the Downtown Plaza site.",Station Connectivity,Critical
+"Hi, Heartbeat timeouts from station every few minutes. Station ID CP-4632.",Station Connectivity,Medium
+"Hello, Cable holster is broken and the cable drags on the ground. Happened today.",Charger Hardware,Low
+Please help. A fire started under the vehicle while charging. This is at the Riverside site.,Safety Hazard,Critical
+"Hello, Unit shows preparing and never moves to charging. Thanks.",Charging Session,High
+"Hello, Firmware rollout failed on several units.",Station Connectivity,High
+"Hello, Charger bay lighting is dim at night.",Charger Hardware,Low
+Bollard protecting the charger is damaged.,Safety Hazard,Medium
+Good morning. Cannot download my monthly statement from the portal.,Payment & Billing,Low
+Floor markings around the bay are worn.,Safety Hazard,Low
+Charger shows offline in the app since this morning.,Station Connectivity,High
+Fleet driver cards are all being rejected at the depot. This is at the Riverside site.,RFID & Authentication,High
+"Hello, Authentication timeout when starting a session with my card.",RFID & Authentication,Medium
+Someone received an electric shock from the cable. Please advise.,Safety Hazard,Critical
+"Hello, The charging gun is jammed and will not come out of the socket.",Charger Hardware,High
+Cannot download my monthly statement from the portal. Station ID CP-2443.,Payment & Billing,Low
+Please help. Charging speed is only 7 kW on a 150 kW charger. Happened today.,Charging Session,Medium
+How do I enable dark mode in the app. Station ID CP-1185.,Account & App,Low
+Weak mobile signal at the station.,Station Connectivity,Low
+Please help. The charger door will not close properly.,Charger Hardware,Medium
+The app says my session expired every time I open it.,Account & App,Medium
+"Hi, Payment failed but the charger started anyway.",Payment & Billing,Medium
+"Hi, I was billed for a session I never started.",Payment & Billing,High
+Casing of the unit is dented after someone hit it. Please advise.,Charger Hardware,Low
+Handle of the connector is cracked. This is at the Highway Rest Stop site.,Charger Hardware,Medium
+Software version on the charger is outdated. Happened today.,Station Connectivity,Low
+Good morning. Charging session ends with an error message after two minutes. Please advise.,Charging Session,High
+Charging post base is cracked and unstable. Thanks.,Safety Hazard,Medium
+Handle of the connector is cracked.,Charger Hardware,Medium
+"Hello, The router at the site is down and chargers are unreachable. This is at the Riverside site.",Station Connectivity,High
+Two factor code is not accepted when logging in. Please advise.,Account & App,Medium
+Remote start command from the dashboard times out.,Station Connectivity,High
+Connector will not lock into the vehicle socket. Thanks.,Charger Hardware,Medium
+Password reset email is not arriving.,Account & App,Medium
+Please help. I want to unsubscribe from marketing emails.,Account & App,Low
+Please help. Dashboard shows the charger as unavailable.,Station Connectivity,High
+"Hello, I was charged twice for a single charging session. Happened today.",Payment & Billing,High
+"Hello, Cooling fan inside the charger is making a loud grinding noise. This is at the Airport site.",Charger Hardware,Medium
+The charger is hot to touch and smells like burnt plastic. This is at the Riverside site.,Safety Hazard,Critical
+"Hello, Plug and charge authentication fails with my vehicle. Happened today.",RFID & Authentication,Medium
+Good morning. Charger does not deliver any power after I connect.,Charging Session,High
+Sparks came out of the connector when I plugged in. This is at the Highway Rest Stop site.,Safety Hazard,Critical
+A vehicle collided with the charging post and it is leaning. Happened today.,Safety Hazard,High
+"Hi team, App shows the wrong language. Thanks.",Account & App,Low
+Charger map does not show nearby stations. Thanks.,Account & App,Medium
+"Hi team, Duplicate transaction appears on my bank statement for one charge. Thanks.",Payment & Billing,High
+Charging ended early and the battery is only at 40 percent. Thanks.,Charging Session,Medium
+"Hello, Charging power is capped lower than the vehicle can accept. This is at the Riverside site.",Charging Session,Medium
+Weak mobile signal at the station. Thanks.,Station Connectivity,Low
+"Hi team, Charging power is capped lower than the vehicle can accept.",Charging Session,Medium
+"Hello, Request ten new access cards for new employees. Happened today.",RFID & Authentication,Low
+"Hi, My favourite stations list disappeared.",Account & App,Low
+Good morning. Floor markings around the bay are worn.,Safety Hazard,Low
+"Hi team, App shows the wrong language. Happened today.",Account & App,Low
+"Hi, Subscription renewal charged me although I cancelled. Please advise.",Payment & Billing,Medium
+Charger firmware update failed and it is stuck rebooting. Station ID CP-3684.,Station Connectivity,High
+"Hi team, Tap to start does nothing with my membership card. Please advise.",RFID & Authentication,Medium
+Session will not start after I plug in the connector. Station ID CP-4159.,Charging Session,High
+"Hi, I was billed for a session I never started.",Payment & Billing,High
+Good morning. Idle fee was applied although I had left the bay. Station ID CP-3497.,Payment & Billing,Medium
+"Hi, Tap to start does nothing with my membership card. Station ID CP-2625.",RFID & Authentication,Medium
+"Hello, Cable insulation is melted near the plug.",Safety Hazard,Critical
+"Hi, I saw smoke coming from the charger.",Safety Hazard,Critical
+"Hi, Charge limit setting does not stop at 80 percent.",Charging Session,Low
+App will not update from the store.,Account & App,Medium
+I cannot log in to the mobile app. Happened today.,Account & App,Medium
+"Hi team, Safety instructions sticker is missing from the unit. Station ID CP-1064.",Safety Hazard,Low
+"Hello, Cannot register a new account with my phone number. Happened today.",Account & App,Medium
+"Hi, Backend shows no heartbeat from the unit. Please advise.",Station Connectivity,High
+"Hello, PIN for the access card was forgotten. Station ID CP-2439.",RFID & Authentication,Low
+Please help. Sparks came out of the connector when I plugged in. Thanks.,Safety Hazard,Critical
+"Hi team, Chargers at the site went offline overnight. Station ID CP-3881.",Station Connectivity,High
+"Hello, Charging cable is damaged and the insulation is cracked. This is at the Downtown Plaza site.",Charger Hardware,High
+"Hi team, Connector is physically stuck in my car and I cannot unplug it. This is at the Downtown Plaza site.",Charger Hardware,High
+"Hi, The charging bay has a trip hazard because of loose cables.",Safety Hazard,Medium
+Please help. Idle fee was applied although I had left the bay. Station ID CP-1579.,Payment & Billing,Medium
+App will not update from the store. Happened today.,Account & App,Medium
+Station lost connection to the central management system.,Station Connectivity,High
+"Hi, Charging session shows as active after I disconnected. Thanks.",Charging Session,Medium
+Please help. Card reader slot on the unit is broken. Please advise.,Charger Hardware,Medium
+The price shown on the screen differs from my bill. Please advise.,Payment & Billing,Medium
+"Hi team, Our company cards stopped working at all sites. This is at the Airport site.",RFID & Authentication,High
+"Hello, Idle fee was applied although I had left the bay. Happened today.",Payment & Billing,Medium
+Charger shows offline in the app since this morning. Station ID CP-2869.,Station Connectivity,High
+Good morning. Tap to start does nothing with my membership card. Station ID CP-2033.,RFID & Authentication,Medium
+Cable is frayed near the plug and the outer jacket is split.,Charger Hardware,High
+Good morning. Push notifications about charge completion are not working. Station ID CP-2402.,Account & App,Low
+Good morning. How do I enable dark mode in the app. Thanks.,Account & App,Low
+"Hello, Charging was interrupted when it started raining. Happened today.",Charging Session,Medium
+Please help. The price shown on the screen differs from my bill. Thanks.,Payment & Billing,Medium
+"Hello, Need a replacement RFID card because I lost mine. Happened today.",RFID & Authentication,Low
+"Hi team, Charging speed is only 7 kW on a 150 kW charger.",Charging Session,Medium
+"Hi team, The kWh shown in my history is lower than what I received. Happened today.",Charging Session,Medium
+The app says my session expired every time I open it.,Account & App,Medium
+My RFID card is not recognized by the charger. Thanks.,RFID & Authentication,Medium
+"Hi, Charging stops after a few minutes every time.",Charging Session,High
+Please help. Need a replacement RFID card because I lost mine. This is at the Riverside site.,RFID & Authentication,Low
+Please help. Connector is physically stuck in my car and I cannot unplug it.,Charger Hardware,High
+Please help. Charging ended early and the battery is only at 40 percent.,Charging Session,Medium
+"Hi, Water is leaking into the charger cabinet. Please advise.",Safety Hazard,High
+Charger says connector locked but nothing happens. This is at the Airport site.,Charging Session,High
+Handle of the connector is cracked. This is at the Highway Rest Stop site.,Charger Hardware,Medium
+"Hi team, Sparks came out of the connector when I plugged in. Thanks.",Safety Hazard,Critical
+"Hello, I want to link my RFID card to my account. Please advise.",RFID & Authentication,Low
+Good morning. Charging speed is only 7 kW on a 150 kW charger. Station ID CP-3598.,Charging Session,Medium
+Cable holster is broken and the cable drags on the ground. This is at the Downtown Plaza site.,Charger Hardware,Low
+Our company cards stopped working at all sites.,RFID & Authentication,High
+Please help. Pooling water around the base of the charger.,Safety Hazard,High
+Cable is frayed near the plug and the outer jacket is split. This is at the Highway Rest Stop site.,Charger Hardware,High
+Please help. Warning sign next to the charger has fallen off. Please advise.,Safety Hazard,Low
+My RFID card is not recognized by the charger. Please advise.,RFID & Authentication,Medium
+Charger shows card invalid for valid cards. Please advise.,RFID & Authentication,Medium
+Good morning. Charging stops after a few minutes every time.,Charging Session,High
+Good morning. Floor markings around the bay are worn. Station ID CP-1884.,Safety Hazard,Low
+Good morning. Screen on the charger is blank and unresponsive. This is at the Riverside site.,Charger Hardware,Medium
+Good morning. The router at the site is down and chargers are unreachable.,Station Connectivity,High
+Water is leaking into the charger cabinet. Thanks.,Safety Hazard,High
+How do I enable dark mode in the app.,Account & App,Low
+Good morning. Cannot register a new account with my phone number.,Account & App,Medium
+"Hello, The price shown on the screen differs from my bill.",Payment & Billing,Medium
+Please help. Scratches and scuffs on the charger body. Station ID CP-4455.,Charger Hardware,Low
+"Hi team, Please activate my new RFID card. Happened today.",RFID & Authentication,Low
+"Hello, Charger map does not show nearby stations. Station ID CP-4341.",Account & App,Medium
+"Hi, A fire started under the vehicle while charging.",Safety Hazard,Critical
+"Hi, Unit shows preparing and never moves to charging. Thanks.",Charging Session,High
+Please help. Autocharge vehicle recognition does not work with my car. This is at the Airport site.,RFID & Authentication,Medium
+Please help. A tree branch has fallen on the charging unit. Please advise.,Safety Hazard,High
+Charging post base is cracked and unstable. Happened today.,Safety Hazard,Medium
+"Hi team, The kWh shown in my history is lower than what I received.",Charging Session,Medium
+Please help. Payment failed but the charger started anyway. Thanks.,Payment & Billing,Medium
+Good morning. Someone received an electric shock from the cable.,Safety Hazard,Critical
+"Hello, The kWh shown in my history is lower than what I received. Happened today.",Charging Session,Medium
+"Hi team, Driver tag has been deactivated by mistake.",RFID & Authentication,Medium
+"Hello, Plug and charge authentication fails with my vehicle. Station ID CP-2130.",RFID & Authentication,Medium
+I was charged twice for a single charging session.,Payment & Billing,High
+Card reader slot on the unit is broken. Happened today.,Charger Hardware,Medium
+Cannot download my monthly statement from the portal.,Payment & Billing,Low
+Please help. Remote start command from the dashboard times out.,Station Connectivity,High
+Estimated charging time shown is wrong.,Charging Session,Low
+"Hi, App will not update from the store. Station ID CP-1780.",Account & App,Medium
+"Hello, Session start takes more than five minutes. Station ID CP-4456.",Charging Session,Medium
+Pooling water around the base of the charger. Station ID CP-2562.,Safety Hazard,High
+Please help. I was billed for a session I never started.,Payment & Billing,High
+"Hi team, A fire started under the vehicle while charging. Please advise.",Safety Hazard,Critical
+Good morning. The charging gun is jammed and will not come out of the socket. Station ID CP-1636.,Charger Hardware,High
+Good morning. Warning sign next to the charger has fallen off. Station ID CP-3668.,Safety Hazard,Low
+"Hello, The router at the site is down and chargers are unreachable. Happened today.",Station Connectivity,High
+"Hi, Cable holster is broken and the cable drags on the ground.",Charger Hardware,Low
+"Hi team, Backend shows no heartbeat from the unit. This is at the Mall site.",Station Connectivity,High
+Please help. Heartbeat timeouts from station every few minutes. This is at the Mall site.,Station Connectivity,Medium
+"Hi team, Backend shows no heartbeat from the unit.",Station Connectivity,High
+Good morning. Charger does not deliver any power after I connect. This is at the Mall site.,Charging Session,High
+"Hi team, I got an electric shock touching the charger handle. Happened today.",Safety Hazard,Critical
+"Hello, Charger display shows a fault code and will not start. Happened today.",Charger Hardware,High
+"Hi, Card was declined at the charger even though it works elsewhere.",Payment & Billing,Medium
+"Hi, The charger emergency stop button is jammed.",Charger Hardware,High
+Please help. My favourite stations list disappeared. Station ID CP-2471.,Account & App,Low
+Good morning. The charger is hot to touch and smells like burnt plastic. Please advise.,Safety Hazard,Critical
+"Hello, Firmware rollout failed on several units. Station ID CP-1166.",Station Connectivity,High
+"Hi team, Our company cards stopped working at all sites. Thanks.",RFID & Authentication,High
+Good morning. Our company cards stopped working at all sites.,RFID & Authentication,High
+"Hello, Request ten new access cards for new employees.",RFID & Authentication,Low
+"Hi team, There was a burning smell near the charging unit. Please advise.",Safety Hazard,Critical
+"Hello, Please delete my account and personal data. This is at the Downtown Plaza site.",Account & App,Low
+My favourite stations list disappeared. This is at the Airport site.,Account & App,Low
+Charger says connector locked but nothing happens. This is at the Airport site.,Charging Session,High
+"Hello, Remote start command from the dashboard times out. Happened today.",Station Connectivity,High
+I forgot my password and cannot sign in.,Account & App,Medium
+Please help. Cable insulation is melted near the plug. Happened today.,Safety Hazard,Critical
+A tree branch has fallen on the charging unit. Please advise.,Safety Hazard,High
+"Hi, Warning sign next to the charger has fallen off. This is at the Downtown Plaza site.",Safety Hazard,Low
+"Hi, Backend shows no heartbeat from the unit. Station ID CP-1566.",Station Connectivity,High
+"Hello, Subscription renewal charged me although I cancelled. Station ID CP-1006.",Payment & Billing,Medium
+Dashboard shows the charger as unavailable. This is at the Mall site.,Station Connectivity,High
+"Hi, The charger door will not close properly. Station ID CP-1001.",Charger Hardware,Medium
+"Hi, The price shown on the screen differs from my bill. Station ID CP-3098.",Payment & Billing,Medium
+Charging power is capped lower than the vehicle can accept. Happened today.,Charging Session,Medium
+"Hello, Card was blocked after too many failed attempts. Happened today.",RFID & Authentication,Medium
+A vehicle collided with the charging post and it is leaning. Please advise.,Safety Hazard,High
+Good morning. I want to link my RFID card to my account. Happened today.,RFID & Authentication,Low
+"Hi team, Charging cable is damaged and the insulation is cracked. Happened today.",Charger Hardware,High
+Good morning. Request ten new access cards for new employees.,RFID & Authentication,Low
+Good morning. Charger firmware update failed and it is stuck rebooting. Happened today.,Station Connectivity,High
+"Hello, Charger map does not show nearby stations. Happened today.",Account & App,Medium
+Please help. Cannot add a new payment card in the app. This is at the Mall site.,Account & App,Medium
+"Hello, App will not update from the store. Thanks.",Account & App,Medium
+Please help. PIN for the access card was forgotten. Thanks.,RFID & Authentication,Low
+"Hi, I need a copy of my invoice for last month. Happened today.",Payment & Billing,Low
+Good morning. Cannot register a new account with my phone number. Please advise.,Account & App,Medium
+Good morning. Weak mobile signal at the station. Happened today.,Station Connectivity,Low
+"Hi team, Dashboard shows the charger as unavailable.",Station Connectivity,High
+Please help. The charger door will not close properly. This is at the Highway Rest Stop site.,Charger Hardware,Medium
+Good morning. The kWh shown in my history is lower than what I received.,Charging Session,Medium
+"Hello, Please change the name on my profile. Thanks.",Account & App,Low
+Good morning. Cannot register a new account with my phone number. Please advise.,Account & App,Medium
+Good morning. Cannot register a new account with my phone number. Please advise.,Account & App,Medium
+Someone received an electric shock from the cable. Thanks.,Safety Hazard,Critical
+Please help. Charger does not deliver any power after I connect. This is at the Highway Rest Stop site.,Charging Session,High
+Good morning. Charging ended early and the battery is only at 40 percent.,Charging Session,Medium
+Good morning. All chargers at the depot are offline. Happened today.,Station Connectivity,Critical
+All chargers at the depot are offline. Happened today.,Station Connectivity,Critical
+Please issue a credit note for the wrong invoice.,Payment & Billing,Low
+Good morning. PIN for the access card was forgotten. Station ID CP-3457.,RFID & Authentication,Low
+Please help. Cooling fan inside the charger is making a loud grinding noise.,Charger Hardware,Medium
+"Hello, App crashes when I open the map. This is at the Highway Rest Stop site.",Account & App,Medium
+Cable holster is broken and the cable drags on the ground. Please advise.,Charger Hardware,Low
+"Hi, Charger display shows a fault code and will not start. Thanks.",Charger Hardware,High
+Please help. Please activate my new RFID card. Thanks.,RFID & Authentication,Low
+"Hi team, Driver tag has been deactivated by mistake. Please advise.",RFID & Authentication,Medium
+"Hello, Charger clock is wrong because it cannot sync time.",Station Connectivity,Low
+Please help. I forgot my password and cannot sign in. Station ID CP-1816.,Account & App,Medium
+PIN for the access card was forgotten. This is at the Airport site.,RFID & Authentication,Low
+"Hello, Safety instructions sticker is missing from the unit. Thanks.",Safety Hazard,Low
+"Hi, Charger display shows a fault code and will not start. Station ID CP-4215.",Charger Hardware,High
+Please help. The price shown on the screen differs from my bill.,Payment & Billing,Medium
+"Hello, The app says my session expired every time I open it.",Account & App,Medium
+The app shows a different amount than my card statement. Please advise.,Payment & Billing,Medium
+"Hi, Casing of the unit is dented after someone hit it. Thanks.",Charger Hardware,Low
+Please help. The price shown on the screen differs from my bill.,Payment & Billing,Medium
+"Hi, Contactless card read fails on bay 2. Station ID CP-4117.",RFID & Authentication,Medium
+Please help. Payment failed but the charger started anyway. Please advise.,Payment & Billing,Medium
+Cable holster is broken and the cable drags on the ground. Please advise.,Charger Hardware,Low
+Charger firmware update failed and it is stuck rebooting.,Station Connectivity,High
+Request ten new access cards for new employees.,RFID & Authentication,Low
+Charging post base is cracked and unstable. This is at the Airport site.,Safety Hazard,Medium
+"Hi, SIM card data usage for the charger modem is unusually high. Please advise.",Station Connectivity,Low
+Estimated charging time shown is wrong.,Charging Session,Low
+"Hi team, Pooling water around the base of the charger.",Safety Hazard,High
+Please help. The charger is hot to touch and smells like burnt plastic. Please advise.,Safety Hazard,Critical
+"Hello, Plug and charge authentication fails with my vehicle. This is at the Mall site.",RFID & Authentication,Medium
+A vehicle collided with the charging post and it is leaning. Happened today.,Safety Hazard,High
+Dashboard shows the charger as unavailable. Thanks.,Station Connectivity,High
+A fire started under the vehicle while charging. Thanks.,Safety Hazard,Critical
+Charging session shows as active after I disconnected. Please advise.,Charging Session,Medium
+"Hello, Refund for a failed session has not arrived.",Payment & Billing,Medium
+"Hi team, Charging cable is damaged and the insulation is cracked. Happened today.",Charger Hardware,High
+"Hi team, I want to link my RFID card to my account. Station ID CP-2862.",RFID & Authentication,Low
+Please help. Please change the name on my profile.,Account & App,Low
+Good morning. App shows the wrong language.,Account & App,Low
+"Hi team, Handle of the connector is cracked. Thanks.",Charger Hardware,Medium
+"Hello, Autocharge vehicle recognition does not work with my car. Happened today.",RFID & Authentication,Medium
+Please help. I want to link my RFID card to my account. This is at the Downtown Plaza site.,RFID & Authentication,Low
+Please help. The charger does not react when I tap my badge. Please advise.,RFID & Authentication,Medium
+"Hi team, Water is leaking into the charger cabinet. This is at the Riverside site.",Safety Hazard,High
+"Hello, Intermittent connection drops on the charger gateway. Happened today.",Station Connectivity,Medium
+Good morning. The kWh shown in my history is lower than what I received.,Charging Session,Medium
+Please help. I need a copy of my invoice for last month. Thanks.,Payment & Billing,Low
+"Hi, Two factor code is not accepted when logging in.",Account & App,Medium
+"Hello, Please change the name on my profile. Please advise.",Account & App,Low
+Please help. Warning sign next to the charger has fallen off. Station ID CP-1428.,Safety Hazard,Low
+"Hi, Driver tag has been deactivated by mistake. Happened today.",RFID & Authentication,Medium
+Please help. Charging ended early and the battery is only at 40 percent.,Charging Session,Medium
+Charging ended early and the battery is only at 40 percent. Please advise.,Charging Session,Medium
+"Hi team, I was billed for a session I never started. Station ID CP-1074.",Payment & Billing,High
+Please help. Charger firmware update failed and it is stuck rebooting. Happened today.,Station Connectivity,High
+"Hello, Cable holster is broken and the cable drags on the ground. Please advise.",Charger Hardware,Low
+Good morning. I was charged twice for a single charging session. Please advise.,Payment & Billing,High
+The kWh shown in my history is lower than what I received. Please advise.,Charging Session,Medium
+"Hi team, App will not update from the store. Happened today.",Account & App,Medium
+Please help. Charging session ends with an error message after two minutes. Thanks.,Charging Session,High
+Charge rate keeps fluctuating between 20 and 100 kW. This is at the Riverside site.,Charging Session,Medium
+Please help. OCPP connection keeps dropping and reconnecting. This is at the Downtown Plaza site.,Station Connectivity,Medium
+Please help. Charger shows offline in the app since this morning. Station ID CP-1815.,Station Connectivity,High
+Please help. Charger shows card invalid for valid cards.,RFID & Authentication,Medium
+"Hello, The charger emergency stop button is jammed. This is at the Riverside site.",Charger Hardware,High
+"Hello, Cable is too short to reach the car inlet. Happened today.",Charger Hardware,Low
+Good morning. The charger door will not close properly. Thanks.,Charger Hardware,Medium
+Good morning. Firmware rollout failed on several units.,Station Connectivity,High
+Please help. I was billed for a session I never started.,Payment & Billing,High
+Please help. Bollard protecting the charger is damaged. Thanks.,Safety Hazard,Medium
+"Hi team, Session will not start after I plug in the connector. Thanks.",Charging Session,High
+"Hi, A vehicle collided with the charging post and it is leaning. This is at the Airport site.",Safety Hazard,High
+Subscription renewal charged me although I cancelled. Station ID CP-3943.,Payment & Billing,Medium
+Good morning. The charger door will not close properly. This is at the Downtown Plaza site.,Charger Hardware,Medium
+Please help. Remote start command from the dashboard times out.,Station Connectivity,High
+Please help. Backend shows no heartbeat from the unit. Please advise.,Station Connectivity,High
+"Hello, Someone received an electric shock from the cable. This is at the Airport site.",Safety Hazard,Critical
+Please help. I saw smoke coming from the charger.,Safety Hazard,Critical
+"Hello, Charger keeps retrying and then shows session timeout.",Charging Session,Medium
+Please help. Intermittent connection drops on the charger gateway. Thanks.,Station Connectivity,Medium
+Duplicate transaction appears on my bank statement for one charge. This is at the Downtown Plaza site.,Payment & Billing,High
+Please help. I forgot my password and cannot sign in.,Account & App,Medium
+Please help. Dashboard shows the charger as unavailable.,Station Connectivity,High
+"Hi, QR code on the charger does not open the app. Happened today.",RFID & Authentication,Medium
+Our company cards stopped working at all sites. Thanks.,RFID & Authentication,High
+Weak mobile signal at the station.,Station Connectivity,Low
+"Hi team, Water is leaking into the charger cabinet.",Safety Hazard,High
+Please help. I forgot my password and cannot sign in.,Account & App,Medium
+Subscription renewal charged me although I cancelled.,Payment & Billing,Medium
+Please help. Fleet driver cards are all being rejected at the depot.,RFID & Authentication,High
+Please help. All chargers at the depot are offline. This is at the Riverside site.,Station Connectivity,Critical
+"Hi, Payment failed but the charger started anyway.",Payment & Billing,Medium
+Please help. My company needs a VAT receipt. This is at the Airport site.,Payment & Billing,Low
+Please help. I cannot log in to the mobile app.,Account & App,Medium
+"Hi, Connector is physically stuck in my car and I cannot unplug it. Station ID CP-1653.",Charger Hardware,High
+Good morning. A fire started under the vehicle while charging. Happened today.,Safety Hazard,Critical
+"Hello, Need a replacement RFID card because I lost mine. Thanks.",RFID & Authentication,Low
+Please help. Charger clock is wrong because it cannot sync time.,Station Connectivity,Low
+Please change the name on my profile. Thanks.,Account & App,Low
+Estimated charging time shown is wrong.,Charging Session,Low
+Estimated charging time shown is wrong. Please advise.,Charging Session,Low
+Cable insulation is melted near the plug. Station ID CP-1768.,Safety Hazard,Critical
+Charge rate keeps fluctuating between 20 and 100 kW. Please advise.,Charging Session,Medium
+Duplicate transaction appears on my bank statement for one charge.,Payment & Billing,High
+SIM card data usage for the charger modem is unusually high.,Station Connectivity,Low
+"Hi, Unit shows preparing and never moves to charging. This is at the Downtown Plaza site.",Charging Session,High
+Please delete my account and personal data. Please advise.,Account & App,Low
+Please help. Plug and charge authentication fails with my vehicle. Thanks.,RFID & Authentication,Medium
+Please help. Request ten new access cards for new employees. Happened today.,RFID & Authentication,Low
+How do I change the email address on my account. Thanks.,Account & App,Low
+"Hello, Bollard protecting the charger is damaged.",Safety Hazard,Medium
+Good morning. Scratches and scuffs on the charger body.,Charger Hardware,Low
+Good morning. Unit shows preparing and never moves to charging.,Charging Session,High
+Cannot download my monthly statement from the portal. Happened today.,Payment & Billing,Low
+"Hello, Cooling fan inside the charger is making a loud grinding noise. Station ID CP-1744.",Charger Hardware,Medium
+"Hello, Refund for a failed session has not arrived. Thanks.",Payment & Billing,Medium
+"Hi team, Heartbeat timeouts from station every few minutes. Please advise.",Station Connectivity,Medium
+"Hi, I got an electric shock touching the charger handle.",Safety Hazard,Critical
+"Hi team, Cannot add a new payment card in the app. Thanks.",Account & App,Medium
+Good morning. Please delete my account and personal data.,Account & App,Low
+Contactless card read fails on bay 2.,RFID & Authentication,Medium
+"Hi team, Charge rate keeps fluctuating between 20 and 100 kW.",Charging Session,Medium
+Please help. Bollard protecting the charger is damaged. This is at the Airport site.,Safety Hazard,Medium
+Good morning. Cable is frayed near the plug and the outer jacket is split. This is at the Downtown Plaza site.,Charger Hardware,High
+"Hi, My company needs a VAT receipt. Station ID CP-3341.",Payment & Billing,Low
+Scratches and scuffs on the charger body. This is at the Airport site.,Charger Hardware,Low
+Please help. Intermittent connection drops on the charger gateway. Station ID CP-3808.,Station Connectivity,Medium
+"Hi, Pre-authorisation hold on my card was not released. Station ID CP-3649.",Payment & Billing,Medium
+"Hello, Cable is too short to reach the car inlet. Thanks.",Charger Hardware,Low
+"Hi, Session history is missing the last charge. Station ID CP-3840.",Charging Session,Low
+Charger firmware update failed and it is stuck rebooting.,Station Connectivity,High
+"Hello, QR code on the charger does not open the app. Please advise.",RFID & Authentication,Medium
+Session history is missing the last charge. Happened today.,Charging Session,Low
+"Hello, Weak mobile signal at the station. Happened today.",Station Connectivity,Low
+Estimated charging time shown is wrong. This is at the Riverside site.,Charging Session,Low
+"Hello, Intermittent connection drops on the charger gateway.",Station Connectivity,Medium
+Pooling water around the base of the charger. Thanks.,Safety Hazard,High
+Please help. There was a burning smell near the charging unit. Station ID CP-3426.,Safety Hazard,Critical
+Bollard protecting the charger is damaged.,Safety Hazard,Medium
+Please help. Idle fee was applied although I had left the bay.,Payment & Billing,Medium
+Good morning. Unit shows preparing and never moves to charging. Station ID CP-2627.,Charging Session,High
+"Hello, Payment failed but the charger started anyway. Station ID CP-1918.",Payment & Billing,Medium
+A tree branch has fallen on the charging unit. Station ID CP-4700.,Safety Hazard,High
+The charger is hot to touch and smells like burnt plastic. Please advise.,Safety Hazard,Critical
+"Hi, Charging post base is cracked and unstable. This is at the Mall site.",Safety Hazard,Medium
+Good morning. Autocharge vehicle recognition does not work with my car. Happened today.,RFID & Authentication,Medium
+Please help. Charger firmware update failed and it is stuck rebooting. Happened today.,Station Connectivity,High
+"Hi team, My favourite stations list disappeared. Thanks.",Account & App,Low
+Please help. I was charged twice for a single charging session. Thanks.,Payment & Billing,High
+"Hello, Charger map does not show nearby stations. Thanks.",Account & App,Medium
+"Hello, Safety instructions sticker is missing from the unit. Station ID CP-1301.",Safety Hazard,Low
+Please help. Duplicate transaction appears on my bank statement for one charge.,Payment & Billing,High
+Good morning. Card reader slot on the unit is broken. This is at the Downtown Plaza site.,Charger Hardware,Medium
+"Hi, Session history is missing the last charge. Happened today.",Charging Session,Low
+Session will not start after I plug in the connector. Thanks.,Charging Session,High
+Please help. App shows the wrong language. This is at the Highway Rest Stop site.,Account & App,Low
+"Hi, Charge limit setting does not stop at 80 percent.",Charging Session,Low
+Charger does not deliver any power after I connect. This is at the Mall site.,Charging Session,High
+"Hi team, Connector is physically stuck in my car and I cannot unplug it. Please advise.",Charger Hardware,High
+"Hello, Charger display shows a fault code and will not start.",Charger Hardware,High
+"Hi team, I got an electric shock touching the charger handle. Happened today.",Safety Hazard,Critical
+Charging post base is cracked and unstable.,Safety Hazard,Medium
+Please help. Charger keeps retrying and then shows session timeout.,Charging Session,Medium
+Please help. Charger keeps retrying and then shows session timeout.,Charging Session,Medium
+"Hi team, Charging cable is damaged and the insulation is cracked. Thanks.",Charger Hardware,High
+"Hi team, The app says my session expired every time I open it. Happened today.",Account & App,Medium
+Please help. Charger firmware update failed and it is stuck rebooting. Station ID CP-3343.,Station Connectivity,High
+Chargers at the site went offline overnight. Please advise.,Station Connectivity,High
+Please help. Wrong tax rate applied to my invoice. Station ID CP-3611.,Payment & Billing,Low
+Good morning. Charging post base is cracked and unstable. Happened today.,Safety Hazard,Medium
+"Hello, Station lost connection to the central management system. Station ID CP-3403.",Station Connectivity,High
+"Hi team, Wrong tax rate applied to my invoice.",Payment & Billing,Low
+Good morning. Session history is missing the last charge. Station ID CP-2870.,Charging Session,Low
+"Hello, Two factor code is not accepted when logging in. Station ID CP-2417.",Account & App,Medium
+A vehicle collided with the charging post and it is leaning.,Safety Hazard,High
+"Hi team, Payment failed but the charger started anyway. Thanks.",Payment & Billing,Medium
+Firmware rollout failed on several units. Thanks.,Station Connectivity,High
+Cable insulation is melted near the plug. This is at the Downtown Plaza site.,Safety Hazard,Critical
+"Hi, Driver tag has been deactivated by mistake.",RFID & Authentication,Medium
+Good morning. Charger bay lighting is dim at night. Thanks.,Charger Hardware,Low
+SIM card data usage for the charger modem is unusually high.,Station Connectivity,Low
+"Hi, App shows the wrong language.",Account & App,Low
+"Hello, How do I enable dark mode in the app. This is at the Downtown Plaza site.",Account & App,Low
+Good morning. Fleet driver cards are all being rejected at the depot. This is at the Riverside site.,RFID & Authentication,High
+Cannot download my monthly statement from the portal.,Payment & Billing,Low
+"Hi, Card reader slot on the unit is broken. Thanks.",Charger Hardware,Medium
+Good morning. Session start takes more than five minutes. Station ID CP-2587.,Charging Session,Medium
+"Hi team, Charged a roaming fee that I was not told about. Thanks.",Payment & Billing,Medium
+The router at the site is down and chargers are unreachable. Please advise.,Station Connectivity,High
+"Hi team, Pre-authorisation hold on my card was not released. Please advise.",Payment & Billing,Medium
+Please help. I saw smoke coming from the charger. Please advise.,Safety Hazard,Critical
+Good morning. I want to link my RFID card to my account. Happened today.,RFID & Authentication,Low
+Please help. I forgot my password and cannot sign in.,Account & App,Medium
+"Hi, Cable is too short to reach the car inlet. Station ID CP-3205.",Charger Hardware,Low
+OCPP connection keeps dropping and reconnecting. Station ID CP-4458.,Station Connectivity,Medium
+"Hello, Charger display shows a fault code and will not start.",Charger Hardware,High
+Charge rate keeps fluctuating between 20 and 100 kW. Station ID CP-2378.,Charging Session,Medium
+Please help. Casing of the unit is dented after someone hit it. Please advise.,Charger Hardware,Low
+Good morning. Unit shows preparing and never moves to charging.,Charging Session,High
+Good morning. All chargers at the depot are offline. Thanks.,Station Connectivity,Critical
+Charging cable is damaged and the insulation is cracked. Thanks.,Charger Hardware,High
+Good morning. Session will not start after I plug in the connector.,Charging Session,High
+Sparks came out of the connector when I plugged in.,Safety Hazard,Critical
+Please help. Intermittent connection drops on the charger gateway. Please advise.,Station Connectivity,Medium
+Two factor code is not accepted when logging in. Station ID CP-4097.,Account & App,Medium
+"Hi team, Screen on the charger is blank and unresponsive. Thanks.",Charger Hardware,Medium
+I cannot log in to the mobile app. Station ID CP-2417.,Account & App,Medium
+Please help. Need a replacement RFID card because I lost mine. Please advise.,RFID & Authentication,Low
+App will not update from the store. Please advise.,Account & App,Medium
+Charger shows offline in the app since this morning. Please advise.,Station Connectivity,High
+Plug and charge authentication fails with my vehicle.,RFID & Authentication,Medium
+Please help. Two factor code is not accepted when logging in.,Account & App,Medium
+Please help. App will not update from the store. This is at the Airport site.,Account & App,Medium
+Good morning. I was billed for a session I never started. Station ID CP-3903.,Payment & Billing,High
+Good morning. I need a copy of my invoice for last month.,Payment & Billing,Low
+"Hi, Charging session ends with an error message after two minutes. Please advise.",Charging Session,High
+Please help. Cable is too short to reach the car inlet. This is at the Mall site.,Charger Hardware,Low
+"Hello, Charging was interrupted when it started raining.",Charging Session,Medium
+My company needs a VAT receipt. Please advise.,Payment & Billing,Low
+"Hello, Pooling water around the base of the charger. Thanks.",Safety Hazard,High
+Please help. The charging gun is jammed and will not come out of the socket. Station ID CP-4346.,Charger Hardware,High
+"Hi team, Cable is too short to reach the car inlet. Happened today.",Charger Hardware,Low
+"Hi, Card reader slot on the unit is broken. This is at the Riverside site.",Charger Hardware,Medium
+Cable holster is broken and the cable drags on the ground.,Charger Hardware,Low
+"Hi team, Please delete my account and personal data. Please advise.",Account & App,Low
+Weak mobile signal at the station. Thanks.,Station Connectivity,Low
+"Hello, QR code on the charger does not open the app.",RFID & Authentication,Medium
+Connector latch feels loose and wobbly. Thanks.,Charger Hardware,Medium
+"Hello, Cable insulation is melted near the plug.",Safety Hazard,Critical
+The router at the site is down and chargers are unreachable. Thanks.,Station Connectivity,High
+Please help. Cable is too short to reach the car inlet. Thanks.,Charger Hardware,Low
+"Hi team, Charger firmware update failed and it is stuck rebooting. This is at the Highway Rest Stop site.",Station Connectivity,High
+Good morning. Fleet driver cards are all being rejected at the depot. Please advise.,RFID & Authentication,High
+Please help. OCPP connection keeps dropping and reconnecting. Station ID CP-1908.,Station Connectivity,Medium
+Firmware rollout failed on several units. Please advise.,Station Connectivity,High
+Safety instructions sticker is missing from the unit. Thanks.,Safety Hazard,Low
+Cooling fan inside the charger is making a loud grinding noise. Thanks.,Charger Hardware,Medium
+Please help. Tap to start does nothing with my membership card. Please advise.,RFID & Authentication,Medium
+"Hello, Backend shows no heartbeat from the unit.",Station Connectivity,High
+Please help. I was charged twice for a single charging session. Happened today.,Payment & Billing,High
+Charger shows offline in the app since this morning. Thanks.,Station Connectivity,High
+Please help. Intermittent connection drops on the charger gateway. This is at the Highway Rest Stop site.,Station Connectivity,Medium
+Good morning. Safety instructions sticker is missing from the unit.,Safety Hazard,Low
+"Hi, Scratches and scuffs on the charger body.",Charger Hardware,Low
+Please help. Charging power is capped lower than the vehicle can accept. Happened today.,Charging Session,Medium
+Charging cable is damaged and the insulation is cracked. Please advise.,Charger Hardware,High
+"Hi team, Session will not start after I plug in the connector.",Charging Session,High
+"Hi team, Session will not start after I plug in the connector. Please advise.",Charging Session,High
+"Hello, A fire started under the vehicle while charging. This is at the Airport site.",Safety Hazard,Critical
+Good morning. Cable is frayed near the plug and the outer jacket is split. This is at the Airport site.,Charger Hardware,High
+"Hello, Card reader slot on the unit is broken.",Charger Hardware,Medium
+"Hello, Autocharge vehicle recognition does not work with my car. This is at the Airport site.",RFID & Authentication,Medium
+How do I change the email address on my account. Station ID CP-4885.,Account & App,Low
+Good morning. The charging bay has a trip hazard because of loose cables. Happened today.,Safety Hazard,Medium
+Heartbeat timeouts from station every few minutes.,Station Connectivity,Medium
+Please help. Wrong tax rate applied to my invoice. This is at the Mall site.,Payment & Billing,Low
+Please help. Charger display shows a fault code and will not start.,Charger Hardware,High
+"Hello, Contactless card read fails on bay 2. This is at the Highway Rest Stop site.",RFID & Authentication,Medium
+Good morning. Plug and charge authentication fails with my vehicle. Please advise.,RFID & Authentication,Medium
+Please help. Charger shows card invalid for valid cards. Happened today.,RFID & Authentication,Medium
+Autocharge vehicle recognition does not work with my car.,RFID & Authentication,Medium
+Good morning. The app says my session expired every time I open it.,Account & App,Medium
+Good morning. PIN for the access card was forgotten. Happened today.,RFID & Authentication,Low
